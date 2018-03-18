@@ -1,5 +1,5 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "A Hugo website"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
@@ -36,4 +36,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
+
+publishDir: "europa-ee/europa-ee.github.io"
 
