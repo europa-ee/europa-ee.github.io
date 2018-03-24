@@ -38,5 +38,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     alt = "Logo"
 
 #publishDir: "europa-ee/europa-ee.github.io"
-publishDir: "/public"
+#publishDir: "/public"
 
