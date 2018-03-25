@@ -12,5 +12,6 @@ In the yellow book you will see different words written with b and v, please try
 On another hand, just to let you know Miss Drymlova had her little baby on the 8th of March, both are ok. Next week the new spanish teacher (Srta. Francisca) will be with us at some point to see what we are doing during Spanish days and for them to know her. As you know she will start after Easter break with them.
 
 Have a nice week,
+
 Srta. Maria
 
