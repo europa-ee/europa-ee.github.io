@@ -15,6 +15,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Calendar"
     url = "/calendar/"
+[[menu.main]]
+    name = "News"
+    url = "/news/"
 
 [params]
     description = "Home of the Europa School Español-English Class of 2016"
