@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/calendar/</loc>
+    <lastmod>2018-03-26T00:48:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-03-26T00:48:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/03/14/books-this-week/</loc>
     <lastmod>2018-03-14T23:16:00+00:00</lastmod>
   </url>
@@ -14,7 +24,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-14T23:16:00+00:00</lastmod>
+    <lastmod>2018-03-26T00:48:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -22,6 +32,10 @@
     <loc>/post/</loc>
     <lastmod>2018-03-14T23:16:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/resources/</loc>
   </url>
   
   <url>
