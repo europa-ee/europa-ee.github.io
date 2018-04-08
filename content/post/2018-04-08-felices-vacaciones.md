@@ -1,5 +1,5 @@
 ---
-title: Felices Vacaciones
+title: Felices vacaciones
 author: ~
 date: '2018-04-08'
 slug: felices-vacaciones
