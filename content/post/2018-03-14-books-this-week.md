@@ -1,10 +1,12 @@
 ---
 title: Books this week
-author: ~
-date: "2018-03-14"
+author: ''
+date: '2018-03-14'
+categories:
+  - Announcements
+tags:
+  - Español
 slug: books-this-week
-categories: [Announcements]
-tags: [Español]
 ---
 
 Hola a todos,
