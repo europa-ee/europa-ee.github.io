@@ -3,8 +3,10 @@ title: Felices vacaciones
 author: ~
 date: "2018-04-08"
 slug: felices-vacaciones
-categories: []
-tags: []
+categories:
+    - Announcements
+tags:
+    - Español
 ---
 
 Hola a todos,
