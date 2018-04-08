@@ -13,7 +13,7 @@ Hola a todos,
 
 This week you can see in the yellow book two new pages: 
 
-1. Song about "La señorita Z" and picture of "La enfermera C". This two letters have the same sound (like a snake), when Z goes with a, u, o and when C goes with e and i.
+1. Song about *"La señorita Z"* and picture of *"La enfermera C"*. This two letters have the same sound (like a snake), when `Z` goes with `a`, `u`, `o` and when `C` goes with `e` and `i`.
 
     * Song about "La señorita Z": https://www.youtube.com/watch?v=-HZsQylt8xE
 
