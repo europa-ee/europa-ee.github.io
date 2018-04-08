@@ -1,5 +1,5 @@
 ---
-title: felices-vacaciones.md
+title: Felices Vacaciones
 author: ~
 date: '2018-04-08'
 slug: felices-vacaciones
