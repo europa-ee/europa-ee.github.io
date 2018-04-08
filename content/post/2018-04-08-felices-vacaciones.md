@@ -18,12 +18,12 @@ This week you can see in the yellow book two new pages:
     * Song about *"La señorita Z"*: https://www.youtube.com/watch?v=-HZsQylt8xE
     
     {{< youtube -HZsQylt8xE >}}
-
     <br/>
 
     * Song about *"La enfermera C"*: https://www.youtube.com/watch?v=QPeWlEtyx24
 
     {{< youtube QPeWlEtyx24 >}}
+    <br/>
 
 2. You will see the letters we have seen. They can tell you who is who in the story, whats happen in the story, words which contain those letters... If they don´t remember the story. You can watch each story (cuento) and song (canción) if you type in google: *"Letrilandia"* and the letter you want to watch plus story or song, for example if you want to watch the story of `P` you have to type: *"Letrilandia el panadero P cuento"*. If you want to watch the song, you should type: *"Letrilandia el panadero P canción"*. The same with the others letters. 
 
