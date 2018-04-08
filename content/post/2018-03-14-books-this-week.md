@@ -1,6 +1,10 @@
 ---
-title: "Books this week"
-date: "2018-03-14T23:16:00"
+title: Books this week
+author: ~
+date: "2018-03-14"
+slug: books-this-week
+categories: [Announcements]
+tags: [Español]
 ---
 
 Hola a todos,
