@@ -40,12 +40,6 @@
   </url>
   
   <url>
-    <loc>/tags/espa%C3%B1ol/</loc>
-    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -54,6 +48,12 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spanish/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
