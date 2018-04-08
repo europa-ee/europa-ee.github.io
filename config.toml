@@ -17,17 +17,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 1
+    weight = 3
     
 [[menu.main]]
     name = "Calendar"
     url = "/calendar/"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "Resources"
     url = "/resources/"
-    weight = 3
+    weight = 2
     
 [params]
     description = "Home of the Europa School Español-English Class of 2016"
