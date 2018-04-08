@@ -5,7 +5,7 @@ date: '2018-03-14'
 categories:
   - Announcements
 tags:
-  - Español
+  - Spanish
 slug: books-this-week
 ---
 
