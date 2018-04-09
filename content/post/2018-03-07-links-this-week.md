@@ -20,11 +20,13 @@ They haven´t watched the songs and I am sure they would love to do it, here you
 
 `LL`: https://www.youtube.com/watch?v=iVm-pD8__8E
 
-{{< youtbue iVm-pD8__8E >}}
+{{< youtube iVm-pD8__8E >}}
+<br/>
 
 `Y`: https://www.youtube.com/watch?v=acRgFPiqCa4
 
-{{< youtube  acRgFPiqCa4 >}}
+{{< youtube acRgFPiqCa4 >}}
+<br/>
 
 On the other hand, in maths we have seen `2D` and `3D` shapes, you will see them in the yellow book too.
 
