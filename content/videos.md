@@ -10,6 +10,7 @@ date: "2018-04-07T00:09:40+00:00"
 A playlist of all reception year videos can be found via this link:
 
 https://www.youtube.com/playlist?list=PLFWfEkn3frrWYvABgU4TzPRFMuBoRzeCm
+
 <br/>
 
 # Year 1
