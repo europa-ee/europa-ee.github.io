@@ -2,7 +2,6 @@
 title: New Term / New Teachers
 author: ~
 date: '2018-04-11T15:13:00'
-slug: new-term-new-teachers
 categories:
     - Announcements
 tags:
