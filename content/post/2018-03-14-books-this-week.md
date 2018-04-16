@@ -1,7 +1,7 @@
 ---
 title: Books this week
 author: ""
-date: "2018-03-14"
+date: "2018-03-14T15:16:00"
 categories:
   - Announcements
 tags:

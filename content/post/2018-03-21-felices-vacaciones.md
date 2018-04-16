@@ -1,12 +1,13 @@
 ---
 title: Felices vacaciones
 author: ~
-date: "2018-04-08"
+date: "2018-03-21T16:09:00"
 slug: felices-vacaciones
 categories:
     - Announcements
 tags:
     - Español
+slug: felices-vacaciones
 ---
 
 Hola a todos,
