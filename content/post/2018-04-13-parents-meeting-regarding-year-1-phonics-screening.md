@@ -3,7 +3,7 @@ title: Parents' meeting regarding Year 1 phonics screening
 author: ~
 date: "2018-04-13T16:53:00"
 categories:
-    - Announcement
+    - Announcements
 tags:
     - English
 slug: parents-meeting-regarding-year-1-phonics-screening
