@@ -16,8 +16,9 @@ Another activity you can do is to read it to them and your child can find the pi
 
 I have sent **"Letrilandia"** to read this sounds (pag 41,43), but if they would like will be great to review previous ones. (audio attached)
 
-pag 41: La y griega - [download audio](/audio/pag 41 La y griega.wma)
-pag 43: El portero LL - [download audio](/audio/Pag 43 El portero LL.wma)
+* pag 41: La y griega - [download audio](/audio/pag 41 La y griega.wma)
+
+* pag 43: El portero LL - [download audio](/audio/Pag 43 El portero LL.wma)
 
 They haven´t watched the songs and I am sure they would love to do it, here you can see the links:
 
