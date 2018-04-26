@@ -15,7 +15,7 @@ I took some notes at the phonics screening meeting this evening - I thought they
 
 The teachers are going to circulate the powerpoint slides from the meeting and some examples of the words they will have to read,
 
-* Phonics Screening is a national *'test'* that takes place in Year 2 in the second week in June.
+* Phonics Screening is a national *'test'* that takes place in Year 1 in the second week in June.
 
 * It is to see if the phonics program is working nationally and **how well the school is implementing it, it is not a test of the child**.
 
