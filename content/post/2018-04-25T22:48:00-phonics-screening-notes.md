@@ -59,13 +59,13 @@ The teachers are going to circulate the powerpoint slides from the meeting and s
     
     * look at the sounds mats for `phases 3` and `5`;
     
-    ![Phase 3 sound mat](images/phasemat3.png)
+    ![Phase 3 sound mat](/images/phasemat3.png)
     
-    [Download phase 3 sound mat](docs/t-l-016-phase-3-sound-mat_ver_2.pdf)
+    [Download phase 3 sound mat](/docs/t-l-016-phase-3-sound-mat_ver_2.pdf)
     
-    ![Phase 5 sound mat](images/phasemat5.png)
+    ![Phase 5 sound mat](/images/phasemat5.png)
     
-    [Download phase 5 sound mat](docs/t-l-034-phase-5-sound-mat_ver_1.pdf)
+    [Download phase 5 sound mat](/docs/t-l-034-phase-5-sound-mat_ver_1.pdf)
     
     * visit [www.phonicsplay.co.uk](www.phonicsplay.co.uk) for games e.g. `Trash and Treasure`;
     
