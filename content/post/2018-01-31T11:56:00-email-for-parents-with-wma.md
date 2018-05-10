@@ -37,12 +37,14 @@ Saludos.
 Srta. Maria
 
 
-[Pag 25](/audio/Pag 25.wma)
+**Download Audio:**
 
-[Pag 27](/audio/Pag 27.wma)
+[Letrilandia Pag 25 WMA](/audio/Pag 25.wma)
 
-[Pag 29](/audio/Pag 29.wma)
+[Letrilandia Pag 27 WMA](/audio/Pag 27.wma)
 
-[Pag 31](/audio/Pag 31.wma)
+[Letrilandia Pag 29 WMA](/audio/Pag 29.wma)
+
+[Letrilanda Pag 31 WMA](/audio/Pag 31.wma)
 
 
