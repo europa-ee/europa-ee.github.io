@@ -35,3 +35,14 @@ Gracias por vuestra cooperaci'on,
 Saludos.
 
 Srta. Maria
+
+
+[Pag 25](/audio/Pag 25.wma)
+
+[Pag 27](/audio/Pag 27.wma)
+
+[Pag 29](/audio/Pag 29.wma)
+
+[Pag 31](/audio/Pag 31.wma)
+
+
