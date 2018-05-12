@@ -15,7 +15,7 @@ As discussed at the meeting we are sending you the presentation that we shared w
 
 ![](/images/phonicsTestFront.png)
 
-Download [presentation](/docs/Year-1-Phonics-Screening-Check-A-Guide-for-Parents-Power.pdf)
+Download [presentation](/docs/year1PhonicsScreening.pdf)
 
 ![](/images/sample.png)
 
