@@ -49,11 +49,8 @@ Secondly, for next term in Math, we are going to introduce the time, so I have t
 
 &nbsp;
 
-![Cheese triangle box](/images/dairylea-triangles-box-EPH9EH.jpg)
+![Cheese triangle box](/images/dairylea-triangles-box-EPH9EH.jpg) ![Final product - clock](/images/maxresdefault.jpg)
 
-&nbsp;
-
-![Final product - clock](/images/maxresdefault.jpg)
 
 &nbsp;
 
