@@ -130,6 +130,31 @@ https://www.youtube.com/playlist?list=PLFWfEkn3frrWYvABgU4TzPRFMuBoRzeCm
 {{< youtube QPeWlEtyx24 >}}
 <br/>
 
+**Amor oriental**
+
+{{< youtube YGKQxNXQe00 >}}
+<br/>
+
+**Sol solecito luna lunera**
+
+{{< youtube DI4_aM8N2dA >}}
+<br/>
+
+**A mi Burro**
+
+{{< youtube 4K5UKqpJzh4 >}}
+<br/>
+
+**El Arca de Noe**
+
+{{< youtube OCXrb6fsarc >}}
+<br/>
+
+**El baile de los animales**
+
+{{< youtube ReGfVCRzYn4 >}}
+
+
 ## Video playlist
 
 A playlist of all year 1 videos can be found via this link:
