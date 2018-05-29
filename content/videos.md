@@ -12,6 +12,7 @@ A playlist of all reception year videos can be found via this link:
 https://www.youtube.com/playlist?list=PLFWfEkn3frrWYvABgU4TzPRFMuBoRzeCm
 
 <br/>
+<br/>
 
 # Year 1
 
@@ -153,7 +154,32 @@ https://www.youtube.com/playlist?list=PLFWfEkn3frrWYvABgU4TzPRFMuBoRzeCm
 **El baile de los animales**
 
 {{< youtube ReGfVCRzYn4 >}}
+<br/>
 
+**K la periodista k**
+
+{{< youtube _PYNclTjgRA >}}
+<br/>
+
+**Q trapecista q**
+
+{{< youtube GWPuqKHl91Q >}}
+<br/>
+
+**Ga, go, gu Bibliotecaria g**
+
+{{< youtube pJfibeilixU >}}
+<br/>
+
+**X La pequeña x**
+
+{{< youtube yuNLvhARcug >}}
+<br/>
+
+**W**
+
+{{< youtube RBeRzKFllPE >}}
+<br/>
 
 ## Video playlist
 
