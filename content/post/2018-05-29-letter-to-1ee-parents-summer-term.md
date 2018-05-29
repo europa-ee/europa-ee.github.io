@@ -58,37 +58,47 @@ On the Spanish,we will work with the animals and their habitats. We will finish 
 
 &nbsp;
 
-week 1: /k/ page in Letrilandia 74-75 https://www.youtube.com/watch?v=_PYNclTjgRA
+**week 1**: /k/ page in Letrilandia 74-75 
+
+https://www.youtube.com/watch?v=_PYNclTjgRA
 
 {{< youtube _PYNclTjgRA >}}
 
 &nbsp;
 
-week 2: /q/ page in Letrilandia 78-79 https://www.youtube.com/watch?v=GWPuqKHl91Q
+**week 2**: /q/ page in Letrilandia 78-79 
+
+https://www.youtube.com/watch?v=GWPuqKHl91Q
 
 {{< youtube GWPuqKHl91Q >}}
 
 &nbsp;
 
-week 3: /g/ page in Letrilandia 82-87 https://www.youtube.com/watch?v=pJfibeilixU
+**week 3**: /g/ page in Letrilandia 82-87 
+
+https://www.youtube.com/watch?v=pJfibeilixU
 
 {{< youtube pJfibeilixU >}}
 
 &nbsp;
 
-week 4 : / x/ page in Letrilandia 88-89 https://www.youtube.com/watch?v=yuNLvhARcug
+**week 4**: / x/ page in Letrilandia 88-89 
+
+https://www.youtube.com/watch?v=yuNLvhARcug
 
 {{< youtube yuNLvhARcug >}}
 
 &nbsp;
 
-week 5: /w/ page in Letrilandia 90-91 https://www.youtube.com/watch?v=RBeRzKFllPE 
+**week 5**: /w/ page in Letrilandia 90-91 
+
+https://www.youtube.com/watch?v=RBeRzKFllPE 
 
 {{< youtube RBeRzKFllPE >}}
 
 &nbsp;
 
-week 6 : Reviews of the last letters.
+**week 6**: Reviews of the last letters.
 
 &nbsp;
 
