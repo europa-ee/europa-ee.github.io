@@ -6,7 +6,8 @@ slug: more-details-about-school-trip
 categories:
     - Announcements
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 

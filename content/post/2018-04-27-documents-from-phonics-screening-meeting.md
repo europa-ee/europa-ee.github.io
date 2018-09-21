@@ -7,6 +7,7 @@ categories:
     - Announcements
 tags:
     - English
+    - 1EE
 ---
 
 Dear Parents

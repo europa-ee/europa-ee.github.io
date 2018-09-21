@@ -7,6 +7,7 @@ categories:
     - Announcements
 tags:
     - Español
+    - 1EE
 slug: felices-vacaciones
 ---
 

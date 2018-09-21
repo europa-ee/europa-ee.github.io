@@ -6,7 +6,8 @@ slug: email-for-parents-with-wma
 categories:
     - Announcements
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 
@@ -35,6 +36,7 @@ Gracias por vuestra cooperaci'on,
 Saludos.
 
 Srta. Maria
+
 
 
 **Download Audio:**

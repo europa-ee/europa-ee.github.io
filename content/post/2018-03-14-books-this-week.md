@@ -6,6 +6,7 @@ categories:
   - Announcements
 tags:
   - Español
+  - 1EE
 slug: books-this-week
 ---
 

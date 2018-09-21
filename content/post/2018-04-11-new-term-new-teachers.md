@@ -6,6 +6,7 @@ categories:
     - Announcements
 tags:
     - Español
+    - 1EE
 slug: new-term-new-teachers
 ---
 

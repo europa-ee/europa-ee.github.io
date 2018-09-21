@@ -6,7 +6,8 @@ slug: last-weeks-of-this-course
 categories:
     - Announcement
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 Queridos padres de 1EE

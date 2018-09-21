@@ -6,7 +6,8 @@ slug: spanish-book
 categories:
     - Announcements
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 Queridos padres,

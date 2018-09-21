@@ -7,6 +7,7 @@ categories:
     - Announcements
 tags:
     - General
+    - 2EE
 ---
 
 Dear All,
@@ -20,6 +21,7 @@ Looking forward to meeting you all soon.  Please keep the evening of **Wednesday
 Warmest wishes
 
 Liz
+
 
 
 [Download letter from teachers](/docs/letterToParents2EE.pdf)

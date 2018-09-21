@@ -6,7 +6,8 @@ slug: 2more-information-about-1ee
 categories:
     - Announcements
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 Queridos Padres de 1EE,

@@ -6,7 +6,8 @@ slug: letter-to-1ee-parents-summer-term
 categories:
     - Announcements
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 Queridos Padres de 1EE,

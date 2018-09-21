@@ -6,7 +6,8 @@ slug: more-information-about-spanish-lesson
 categories:
     - Announcements
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 Queridos padres de 1EE,

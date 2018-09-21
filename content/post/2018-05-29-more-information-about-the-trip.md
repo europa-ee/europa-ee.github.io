@@ -6,7 +6,8 @@ slug: more-information-about-the-trip
 categories:
     - Announcements
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 

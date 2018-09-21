@@ -7,6 +7,7 @@ categories:
     - Announcements
 tags:
     - General
+    - 2EE
 ---
 
 Dear Parents and Guardians,

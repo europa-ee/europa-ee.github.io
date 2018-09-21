@@ -6,7 +6,8 @@ slug: letrilandia
 categories:
     - Announcements
 tags:
-    - Spanish
+    - Español
+    - 1EE
 ---
 
 Queridos padres,
@@ -26,6 +27,7 @@ Muchas gracias,
 Saludos.
 
 Srta Maria
+
 
 
 **Download Audio:**
