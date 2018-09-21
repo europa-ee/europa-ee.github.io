@@ -3,16 +3,7 @@ title: "Videos"
 date: "2018-04-07T00:09:40+00:00"
 ---
 
-# Reception Year
-
-## Video playlist
-
-A playlist of all reception year videos can be found via this link:
-
-https://www.youtube.com/playlist?list=PLFWfEkn3frrWYvABgU4TzPRFMuBoRzeCm
-
-<br/>
-<br/>
+# Year 2
 
 # Year 1
 
@@ -187,5 +178,14 @@ A playlist of all year 1 videos can be found via this link:
 
 https://www.youtube.com/playlist?list=PLFWfEkn3frrW8BISUbXe0JPc1QykAlTUl
 
+<br/>
+<br/>
 
+# Reception Year
+
+## Video playlist
+
+A playlist of all reception year videos can be found via this link:
+
+https://www.youtube.com/playlist?list=PLFWfEkn3frrWYvABgU4TzPRFMuBoRzeCm
 
