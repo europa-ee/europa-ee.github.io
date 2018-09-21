@@ -13,25 +13,12 @@
     <span class="article-date">{{ .Date.Format "2006/01/02" }}</span>
     {{ end }}
 
-    <div class="article-meta">
-      <p class="terms">
-        {{ range $i := (slice "categories" "tags") }}
-        {{ with ($.Param $i) }}
-        {{ $i | title }}:
-        {{ range $k := . }}
-        <a href='{{ relURL (print "/" $i "/" $k | urlize) }}'>{{$k}}</a>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-      </p>
-    </div>
-
     <div class="article-content">
       {{ .Content }}
     </div>
   </article>
 
-  {{ partial "" .}}
+  {{ partial "disqus.html" .}}
 
 </main>
 
