@@ -3,6 +3,10 @@ title: "Resources"
 date: "2018-04-07T00:09:40+00:00"
 ---
 
+# [Websites](/websites)
+
+This is a collection of websites referred to by teachers or by parents that kids can use for learning at home.
+
 # [Videos](/videos)
 
 This is a collection of videos (available via YouTube) referred to by teachers in the kids' Spanish red (REE) and yellow (1EE) workbook. For REE, a link to the YouTube video playlist is available. Single embedded videos will be added soon. For 1EE, single embedded videos are provided and a link to the YouTube video playlist is available.
