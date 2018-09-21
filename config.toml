@@ -3,7 +3,7 @@ languageCode = "en-gb"
 title = "Europa Español-English Class 2016"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "europa-ee"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
