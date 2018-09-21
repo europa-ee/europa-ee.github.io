@@ -13,4 +13,5 @@ date: "2018-09-20T03:26:40+00:00"
 [Matific](https://www.matific.com) for School Educational Math Games is a unique application that is suitable for an age range of Reception up to Year 6. The award winning Matific app is designed by mathematical education experts and is great for developing early-age maths excellence and scientific intuition. The application has numerous activities, called episodes, that cover a range of mathematical skills in a fun and reward giving way.
 
 **Username:** name of child + 2ee
+
 **Password:** unodos
