@@ -13,11 +13,11 @@ tags:
 
 Dear parents and guardians,
 
-It was great to have a chance to meet most of you on Wednesday. For those who couldn't attend this meeting, please, find attached the presentation that we used that night. 
+It was great to have a chance to meet most of you on Wednesday. For those who couldn't attend this meeting, please, find attached the [presentation](/docs/Parents meeting 2018.pdf) that we used that night. 
 
 Some reminders:
 
-* Your children can start using Matific at home. Remember you only need to go to the website: matific.com and use your child's name+2ee as a username (for example: jose2ee), and the password is unodos. The activities will be uploaded progressively as we study each content from the Maths curriculum. Some activities are personalised according to their skills. Remember there are limited number of activities. These activities will be always in Spanish to reinforce the L2.
+* Your children can start using **Matific** at home. Remember you only need to go to the website: [matific.com](https://www.matific.com) and use your child's **name+2ee** as a username (for example: **jose2ee**), and the password is **unodos**. The activities will be uploaded progressively as we study each content from the Maths curriculum. Some activities are personalised according to their skills. Remember there are limited number of activities. These activities will be always in Spanish to reinforce the L2.
 
 * Please, bring your child with comfortable sport clothes on Tuesdays and Thursdays to do PE and outdoor learning. We will use the clothes from their PE kit only for emergencies or when there is a specific necesity. 
 
@@ -32,4 +32,5 @@ Kind regards,
 Jose A Ruiz-Martinez
 
 
-[Download presentation](docs/Parents meeting 2018.pdf)
+
+[Download presentation](/docs/Parents meeting 2018.pdf)
