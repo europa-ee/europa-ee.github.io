@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/09/20/information-from-the-parents-meeting/</loc>
+    <lastmod>2018-09-20T21:02:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/websites/</loc>
+    <lastmod>2018-09-20T03:26:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/09/07/letter-in-book-bag/</loc>
+    <lastmod>2018-09-07T18:03:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/09/03/welcome-to-2ee/</loc>
     <lastmod>2018-09-03T15:40:00+00:00</lastmod>
   </url>
@@ -123,6 +138,18 @@
   </url>
   
   <url>
+    <loc>/tags/1ee/</loc>
+    <lastmod>2018-06-25T11:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/2ee/</loc>
+    <lastmod>2018-09-20T21:02:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/announcement/</loc>
     <lastmod>2018-06-25T11:54:00+00:00</lastmod>
     <priority>0</priority>
@@ -130,7 +157,7 @@
   
   <url>
     <loc>/categories/announcements/</loc>
-    <lastmod>2018-09-03T15:40:00+00:00</lastmod>
+    <lastmod>2018-09-20T21:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -148,37 +175,31 @@
   
   <url>
     <loc>/tags/espa%C3%B1ol/</loc>
-    <lastmod>2018-04-11T15:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-09-03T15:40:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/general/</loc>
-    <lastmod>2018-09-03T15:40:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-09-03T15:40:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/spanish/</loc>
     <lastmod>2018-06-25T11:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2018-09-20T21:02:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/general/</loc>
+    <lastmod>2018-09-20T21:02:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-09-20T21:02:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-04-27T16:52:00+00:00</lastmod>
+    <lastmod>2018-06-25T11:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
