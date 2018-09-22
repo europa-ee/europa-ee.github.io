@@ -1,7 +1,7 @@
 ---
 title: Spellings for 2EE
 author: ~
-date: 2018-09-20T17:18:00
+date: 2018-09-22T17:18:00
 slug: spellings-for-2ee
 categories:
      - Homework
