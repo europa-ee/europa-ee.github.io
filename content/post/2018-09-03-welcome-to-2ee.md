@@ -25,3 +25,7 @@ If you have any concerns at all or any questions, do feel free to contact us dir
 Looking forward to Wednesday morning, 
 
 Liz Cook and Jose Ruiz
+
+<br/>
+
+[![](/docs/letterToParents2EE.pdf)](/docs/letterToParents2EE.pdf)
