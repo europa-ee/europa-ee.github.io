@@ -6,10 +6,31 @@
     <description>Recent content on Europa Español-English Class 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 22 Sep 2018 17:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 00:19:57 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Documents</title>
+      <link>/documents/</link>
+      <pubDate>Tue, 25 Sep 2018 00:19:57 +0000</pubDate>
+      
+      <guid>/documents/</guid>
+      <description>2EE Homework on English side 
+Year 1 and 2 Words and Sounds Mat 
+Spelling Journal 
+Number Bonds</description>
+    </item>
+    
+    <item>
+      <title>Homework</title>
+      <link>/homework/</link>
+      <pubDate>Tue, 25 Sep 2018 00:19:55 +0000</pubDate>
+      
+      <guid>/homework/</guid>
+      <description>Year 2 Place Value</description>
+    </item>
     
     <item>
       <title>Spellings for 2EE</title>
@@ -222,9 +243,10 @@ We have another new teacher for this class, Cristian is a Sport teacher in Prima
       <pubDate>Sat, 07 Apr 2018 00:09:40 +0000</pubDate>
       
       <guid>/resources/</guid>
-      <description>Documents Guides and references provided by teachers or by parents that help or facilitate in engaging and teaching kids at home.
+      <description>Homework Homework provided by teachers in Year 2.
+Documents Guides and references provided by teachers or by parents that help or facilitate in engaging and teaching kids at home.
 Websites This is a collection of websites referred to by teachers or by parents that kids can use for learning at home.
-Videos This is a collection of videos (available via YouTube) referred to by teachers in the kids&amp;rsquo; Spanish red (REE) and yellow (1EE) workbook. For REE, a link to the YouTube video playlist is available.</description>
+Videos This is a collection of videos (available via YouTube) referred to by teachers in the kids&amp;rsquo; Spanish red (REE) and yellow (1EE) workbook.</description>
     </item>
     
     <item>
@@ -353,15 +375,6 @@ As I told you, this is a world where the letters lives called &amp;quot;Letrilan
       <description>Queridos padres,
 This week I have sent the song of the “Real Family” from “Letrilandia” in the yellow book, here you can watch the song: https://www.youtube.com/watch?v=vViKdsqvDgc
   They may tell you already a story with this letters. It is a “Real Family” and they are different characters. If you go to that link, you can watch in the menu in the right hand side, different songs per letter. I am sure they would like to watch them, at the moment we have seen u, o, a, e, i and p.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/documents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/documents/</guid>
-      <description>2EE Homework on English side</description>
     </item>
     
   </channel>

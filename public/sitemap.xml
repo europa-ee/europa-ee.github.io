@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/documents/</loc>
+    <lastmod>2018-09-25T00:19:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/homework/</loc>
+    <lastmod>2018-09-25T00:19:55+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/09/22/spellings-for-2ee/</loc>
     <lastmod>2018-09-22T17:18:00+00:00</lastmod>
   </url>
@@ -143,10 +153,6 @@
   </url>
   
   <url>
-    <loc>/documents/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/1ee/</loc>
     <lastmod>2018-06-25T11:54:00+00:00</lastmod>
     <priority>0</priority>
@@ -190,7 +196,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-09-22T17:18:00+00:00</lastmod>
+    <lastmod>2018-09-25T00:19:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
