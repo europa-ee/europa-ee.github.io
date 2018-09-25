@@ -3,6 +3,10 @@ title: "Resources"
 date: "2018-04-07T00:09:40+00:00"
 ---
 
+# [Documents](/documents)
+
+Guides and references provided by teachers or by parents that help or facilitate in engaging and teaching kids at home.
+
 # [Websites](/websites)
 
 This is a collection of websites referred to by teachers or by parents that kids can use for learning at home.
