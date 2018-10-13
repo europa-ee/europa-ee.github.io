@@ -7,9 +7,9 @@ date: "2018-09-25T00:19:55+00:00"
 
 ## English
 
-Place Value | &nbsp; | Number Bonds | &nbsp; | How Many Hiding
+Place Value | &nbsp; &nbsp; | Number Bonds | &nbsp; &nbsp; | How Many Hiding
 :---: | --- | :---: | --- | :---:
-[![](/images/placeValue.png)](/docs/placeValue.pdf) | &nbsp; | [![](/images/numberBonds.png)](/docs/numberBonds.pdf) | &nbsp; | [![](/images/howManyHiding.png)](/docs/howManyHiding.pdf)
+[![](/images/placeValue.png)](/docs/placeValue.pdf) | &nbsp; &nbsp; | [![](/images/numberBonds.png)](/docs/numberBonds.pdf) | &nbsp; &nbsp; | [![](/images/howManyHiding.png)](/docs/howManyHiding.pdf)
 
 &nbsp;
 
