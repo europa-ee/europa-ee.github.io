@@ -209,6 +209,41 @@ https://www.youtube.com/playlist?list=PLFWfEkn3frrW8BISUbXe0JPc1QykAlTUl
 {{< youtube aZBy9pniOZ8 >}}
 <br/>
 
+**Canción. Mi Carita**
+
+{{< youtube MsHM0Fo3bxQ >}}
+<br/>
+
+**Canción. Cabeza, hombros, rodillas y pies**
+
+{{< youtube O40KLZf4xWE >}}
+<br/>
+
+**Canción. Las hojas del árbol**
+
+{{< youtube hAVjeD12MTk >}}
+<br/>
+
+**El Viento de Otoño**
+
+{{< youtube e56nNGndMQw >}}
+<br/>
+
+**La Canción de los Números**
+
+{{< youtube b5Eov-zOmAo >}}
+<br/>
+
+**Canción. ¡Buenos días! Spanish Greetings and daily routines**
+
+{{< youtube kdDu8pFbnRc >}}
+<br/>
+
+**Villancico: Dulce Navidad**
+
+{{< youtube u49H9xP3O3c >}}
+<br/>
+
 ## Video playlist
 
 A playlist of all reception year videos can be found via this link:
