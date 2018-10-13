@@ -9,38 +9,38 @@ date: "2018-09-25T00:19:55+00:00"
 
 ### Place Value
 
-[![](/docs/placeValue.pdf)](/docs/placeValue.pdf)
+[![](/images/placeValue.png)](/docs/placeValue.pdf)
 
 ### Number Bonds
 
-[![](/docs/numberBonds.pdf)](/docs/numberBonds.pdf)
+[![](/images/numberBonds.png)](/docs/numberBonds.pdf)
 
 ### How many hiding
 
-[![](/docs/howManyHiding.pdf)](/docs/howManyHiding.pdf)
+[![](/images/howManyHiding.png)](/docs/howManyHiding.pdf)
 
 ### What Am I
 
-[![](/docs/whatAmI.pdf)](/docs/whatAmI.pdf)
+[![](/images/whatAmI.png)](/docs/whatAmI.pdf)
 
 ### Connect Four
 
-[![](/docs/connectFour.pdf)](/docs/connectFour.pdf)
+[![](/images/connectFour.png)](/docs/connectFour.pdf)
 
 ### Number Undercover
 
-[![](/docs/numberUndercover.pdf)](/docs/numberUndercover.pdf)
+[![](/images/numberUndercover.png)](/docs/numberUndercover.pdf)
 
 ## Español
 
 ### Conoce nuestro colegio
 
-[![](/docs/conoceNuestroColegio.pdf)](/docs/conoceNuestroColegio.pdf)
+[![](/images/conoceNuestroColegio.png)](/docs/conoceNuestroColegio.pdf)
 
 ### Objetos de la Clase
 
-[![](/docs/objetosDeLaClase.pdf)](/docs/objetosDeLaClase.pdf)
+[![](/images/objetosDeLaClase.png)](/docs/objetosDeLaClase.pdf)
 
 ### Partes del Cuerpo
 
-[![](/docs/partesDelCuerpo.pdf)](/docs/partesDelCuerpo.pdf)
+[![](/images/partesDelCuerpo.png)](/docs/partesDelCuerpo.pdf)
