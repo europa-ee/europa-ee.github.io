@@ -199,6 +199,16 @@ https://www.youtube.com/playlist?list=PLFWfEkn3frrW8BISUbXe0JPc1QykAlTUl
 
 # Reception Year
 
+**Canción. Los Colores**
+
+{{< youtube 8EoyM1N-AA0 >}}
+<br/>
+
+**Canción. Buenos Días**
+
+{{< youtube aZBy9pniOZ8 >}}
+<br/>
+
 ## Video playlist
 
 A playlist of all reception year videos can be found via this link:
