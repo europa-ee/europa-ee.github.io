@@ -7,6 +7,8 @@ date: "2018-05-10T00:19:46+00:00"
 
 * [Letrilandia pag 19](/audio/Pag 19.wma)
 
+{{< youtube Xm_lLcaHsbA >}}
+
 * [Letrilandia pag 21](/audio/Pag 21.wma)
 
 * [Letrilandia pag 23](/audio/Pag 23.wma)
