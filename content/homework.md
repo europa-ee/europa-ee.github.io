@@ -11,10 +11,11 @@ Place Value | --- | Number Bonds | --- | How Many Hiding
 --- | --- | --- | --- | ---
 [![](/images/placeValue.png)](/docs/placeValue.pdf) | --- | [![](/images/numberBonds.png)](/docs/numberBonds.pdf) | --- | [![](/images/howManyHiding.png)](/docs/howManyHiding.pdf)
 
+&nbsp;
 
-What Am I | Connect Four | Number Undercover
---- | ---- | ----
-[![](/images/whatAmI.png)](/docs/whatAmI.pdf) | [![](/images/connectFour.png)](/docs/connectFour.pdf) | [![](/images/numberUndercover.png)](/docs/numberUndercover.pdf)
+What Am I | --- | Connect Four | --- | Number Undercover
+--- | --- | ---- | --- | ----
+[![](/images/whatAmI.png)](/docs/whatAmI.pdf) | --- | [![](/images/connectFour.png)](/docs/connectFour.pdf) | --- | [![](/images/numberUndercover.png)](/docs/numberUndercover.pdf)
 
 
 ## Español
