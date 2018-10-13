@@ -10,4 +10,5 @@ date: "2018-09-25T00:19:57+00:00"
 &nbsp;
 
 Spelling Journal | --- | Number Bonds
+--- | --- | ---
 [![](/images/spellingJournal.png)](/docs/spellingJournal.pdf) | --- | [![](/images/numberBonds.png)](/docs/numberBonds.pdf)
