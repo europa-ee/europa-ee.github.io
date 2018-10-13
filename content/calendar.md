@@ -12,6 +12,6 @@ date: "2018-03-26T00:48:15-07:00"
 * <span style="color:#1B887A">**2EE Events**<span>
 * <span style="color:#4f86f7">**Birthdays**</span>
 * <span style="color:#182C57">**Europa PTA Events**</span>
-* <span style="color:#23164E">**Europa School Events**</span>
-* <span style="color:#AB8B00">**Other Europa School Events**</span>
+* <span style="color:#AB8B00">**Europa School Events**</span>
+* <span style="color:#23164E">**Other Europa School Events**</span>
 
