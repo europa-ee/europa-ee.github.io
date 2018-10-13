@@ -13,15 +13,15 @@ Place Value | &nbsp; &nbsp; | Number Bonds | &nbsp; &nbsp; | How Many Hiding
 
 &nbsp;
 
-What Am I | --- | Connect Four | --- | Number Undercover
+What Am I | &nbsp; &nbsp; | Connect Four | &nbsp; &nbsp; | Number Undercover
 :---: | --- | :----: | --- | :----:
-[![](/images/whatAmI.png)](/docs/whatAmI.pdf) | --- | [![](/images/connectFour.png)](/docs/connectFour.pdf) | --- | [![](/images/numberUndercover.png)](/docs/numberUndercover.pdf)
+[![](/images/whatAmI.png)](/docs/whatAmI.pdf) | &nbsp; &nbsp; | [![](/images/connectFour.png)](/docs/connectFour.pdf) | &nbsp; &nbsp; | [![](/images/numberUndercover.png)](/docs/numberUndercover.pdf)
 
 
 ## Español
 
-Conoce nuestro colegio | --- | Objetos de la Clase | --- | Partes del Cuerpo
+Conoce nuestro colegio | &nbsp; &nbsp; | Objetos de la Clase | &nbsp; &nbsp; | Partes del Cuerpo
 :---: | --- | :---: | --- | :----:
-[![](/images/conoceNuestroColegio.png)](/docs/conoceNuestroColegio.pdf) | --- | [![](/images/objetosDeLaClase.png)](/docs/objetosDeLaClase.pdf) | --- | [![](/images/partesDelCuerpo.png)](/docs/partesDelCuerpo.pdf)
+[![](/images/conoceNuestroColegio.png)](/docs/conoceNuestroColegio.pdf) | &nbsp; &nbsp; | [![](/images/objetosDeLaClase.png)](/docs/objetosDeLaClase.pdf) | &nbsp; &nbsp; | [![](/images/partesDelCuerpo.png)](/docs/partesDelCuerpo.pdf)
 
 &nbsp;
