@@ -20,14 +20,6 @@ What Am I | --- | Connect Four | --- | Number Undercover
 
 ## Español
 
-### Conoce nuestro colegio
-
-[![](/images/conoceNuestroColegio.png)](/docs/conoceNuestroColegio.pdf)
-
-### Objetos de la Clase
-
-[![](/images/objetosDeLaClase.png)](/docs/objetosDeLaClase.pdf)
-
-### Partes del Cuerpo
-
-[![](/images/partesDelCuerpo.png)](/docs/partesDelCuerpo.pdf)
+Conoce nuestro colegio | --- | Objetos de la Clase | --- | Partes del Cuerpo
+--- | --- | --- | --- | ----
+[![](/images/conoceNuestroColegio.png)](/docs/conoceNuestroColegio.pdf) | --- | [![](/images/objetosDeLaClase.png)](/docs/objetosDeLaClase.pdf) | --- | [![](/images/partesDelCuerpo.png)](/docs/partesDelCuerpo.pdf)
