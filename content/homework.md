@@ -7,6 +7,12 @@ date: "2018-09-25T00:19:55+00:00"
 
 ## English
 
+Place Value | Number Bonds | How many hiding
+--- | --- | ---
+[![](/images/placeValue.png)](/docs/placeValue.pdf) | [![](/images/numberBonds.png)](/docs/numberBonds.pdf) | [![](/images/howManyHiding.png)](/docs/howManyHiding.pdf)
+
+
+
 ### Place Value
 
 [![](/images/placeValue.png)](/docs/placeValue.pdf)
