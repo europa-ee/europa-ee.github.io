@@ -20,4 +20,8 @@ date: "2018-09-20T03:26:40+00:00"
 
 https://www.scoop.it/t/pdi-infantil
 
-<iframe src="https://www.scoop.it/t/pdi-infantil" width="720" height="405" frameborder="0" allowfullscreen></iframe>
+# Pequemates Primaria
+
+https://www.matematicasonline.es/pequemates/pequemates6/pequemates6-1.html
+
+# 
