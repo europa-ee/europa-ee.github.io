@@ -244,6 +244,59 @@ https://www.youtube.com/playlist?list=PLFWfEkn3frrW8BISUbXe0JPc1QykAlTUl
 {{< youtube u49H9xP3O3c >}}
 <br/>
 
+**Vocabulario de navidad**
+
+{{< youtube DBIIkFf65rA >}}
+<br/>
+
+**Feliz Navidad a Todos**
+
+{{< youtube N3nPNMH0cH0 >}}
+<br/>
+
+**Canción Pictogramas. Invierno, Invierno**
+
+{{< youtube LFa6Z4X4_Z0 >}}
+<br/>
+
+**Canción. Vivo en un castillo medieval**
+
+{{< youtube elaa_-liT9s >}}
+<br/>
+
+**Canción. Yo tengo una casita**
+
+{{< youtube 6Tzwa5aVD4g >}}
+<br/>
+
+**Canción. La taza**
+
+{{< youtube 5Pfl6VwVc0I >}}
+<br/>
+
+**Corto: Los tres cerditos**
+
+{{< youtube FIncBenShck >}}
+<br/>
+
+**Vocabulario "Los siete cabritillos y el lobo"**
+
+{{< youtube fs0ho0R2Fko >}}
+<br/>
+
+**Vocabulario "Caperucita Roja"
+
+{{< youtube bidheE8Ur28 >}}
+<br/>
+
+**Canción Arriba-Abajo**
+
+{{< youtube mm5y8pD0yxE >}}
+<br/>
+
+
+
+
 ## Video playlist
 
 A playlist of all reception year videos can be found via this link:
