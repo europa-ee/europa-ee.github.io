@@ -284,7 +284,7 @@ https://www.youtube.com/playlist?list=PLFWfEkn3frrW8BISUbXe0JPc1QykAlTUl
 {{< youtube fs0ho0R2Fko >}}
 <br/>
 
-**Vocabulario "Caperucita Roja"
+**Vocabulario "Caperucita Roja"**
 
 {{< youtube bidheE8Ur28 >}}
 <br/>
