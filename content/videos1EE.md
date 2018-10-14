@@ -3,7 +3,6 @@ title: "Videos 1EE"
 date: "2018-10-14T00:09:40+00:00"
 ---
 
-# Year 1
 
 **Días de la semana**
 

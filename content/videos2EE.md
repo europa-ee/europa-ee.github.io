@@ -3,7 +3,6 @@ title: "Videos 2EE"
 date: "2018-10-14T00:09:40+00:00"
 ---
 
-# Year 2
 
 **Film riddles**
 <iframe src="https://spark.adobe.com/video/DL1JsN8xHGf1k/embed" width="720" height="405" frameborder="0" allowfullscreen></iframe>
@@ -18,5 +17,5 @@ date: "2018-10-14T00:09:40+00:00"
 
 {{< youtube c3oA4wfUBak >}}
 
-<br>
-<br>
+<br/>
+<br/>

@@ -3,8 +3,6 @@ title: "Videos REE"
 date: "2018-10-15T03:26:40+00:00"
 ---
 
-# Reception Year
-
 **Canción. Los Colores**
 
 {{< youtube 8EoyM1N-AA0 >}}
