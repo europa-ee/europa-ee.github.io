@@ -23,5 +23,6 @@ What Am I | &nbsp; &nbsp; | Connect Four | &nbsp; &nbsp; | Number Undercover
 Conoce nuestro colegio | &nbsp; &nbsp; | Objetos de la Clase | &nbsp; &nbsp; | Partes del Cuerpo
 :---: | --- | :---: | --- | :----:
 [![](/images/conoceNuestroColegio.png)](/docs/conoceNuestroColegio.pdf) | &nbsp; &nbsp; | [![](/images/objetosDeLaClase.png)](/docs/objetosDeLaClase.pdf) | &nbsp; &nbsp; | [![](/images/partesDelCuerpo.png)](/docs/partesDelCuerpo.pdf)
+[![](/images/losAlimentos.png)](/docs/losAlimentos.pdf) | &nbsp; &nbsp; | [![](/images/personajeCuento.png)](/docs/personajeCuento.pdf) | &nbsp; &nbsp; | [![](/images/lugarContextoCuento.png)](/docs/lugarContextoCuento.pdf)
 
 &nbsp;
