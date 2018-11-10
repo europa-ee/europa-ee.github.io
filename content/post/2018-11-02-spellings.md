@@ -1,7 +1,7 @@
 ---
 title: Spellings
 author: ~
-date: 2018-11-2T16:46:00
+date: 2018-11-02T16:46:00
 slug: spellings
 categories:
     - Announcement

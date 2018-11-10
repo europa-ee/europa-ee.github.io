@@ -1,7 +1,7 @@
 ---
 title: Spellings and fireworks Poem
 author: ~
-date: 2018-11-9T17:07:00
+date: 2018-11-09T17:07:00
 slug: spellings-and-fireworks-poem
 categories:
     - Announcements

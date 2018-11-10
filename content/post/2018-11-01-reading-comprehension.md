@@ -1,7 +1,7 @@
 ---
 title: Reading Comprehension
 author: ~
-date: 2018-11-1T17:01:00
+date: 2018-11-01T17:01:00
 slug: reading-comprehension
 categories:
     - Announcement

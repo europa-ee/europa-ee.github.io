@@ -1,8 +1,8 @@
 ---
 title: Forest Schools
 author: ~
-date: 2018-11-8T12:28:00
-slug: 2018-11-8T12:28:00-forest-schools
+date: 2018-11-08T12:28:00
+slug: forest-schools
 categories:
     - Announcement
 tags:
@@ -12,7 +12,7 @@ tags:
 
 Dear Parents
 
-**Re: Outdoor Learning in Year 2(())
+**Re: Outdoor Learning in Year 2**
 
 Year 2 are being introduced to the principles of Forest School. We are lucky to have this facility on our site and a member of staff who has trained as a Forest school Leader.
 
