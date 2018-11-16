@@ -19,6 +19,6 @@ Warmest wishes,
 Liz Cook
 
 
-![](/images/IMG_2801.JPG)
+[![](/images/IMG_2801_thumbnail.JPG)](/images/IMG_2801.JPG)
 
-![](/images/IMG_2824.JPG)
+[![](/images/IMG_2824_thumbnail.JPG)](/images/IMG_2824.JPG)
