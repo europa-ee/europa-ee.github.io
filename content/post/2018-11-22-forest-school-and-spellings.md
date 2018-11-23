@@ -13,9 +13,13 @@ tags:
 
 Dear Parents,
 
-The children had a fascinating time today playing with real money hot off the press from De La Rue.   They have brought home a pencil made of old bank notes to show you. Tomorrow we will be enjoying testing out building with materials to see if they are waterproof in Forest Schools.  Please do make sure that your child has suitable clothing. It will be cold and possibly wet.  Gloves, hats, warm coats and waterproof trousers are ideal.  
+The children had a fascinating time today playing with real money hot off the press from De La Rue.
 
-This week’s spelling pattern is words containing the ow vowel digraph. 
+{{< youtube 1mHQnbOG-Y0 >}}
+
+They have brought home a pencil made of old bank notes to show you. Tomorrow we will be enjoying testing out building with materials to see if they are waterproof in Forest Schools. Please do make sure that your child has suitable clothing. It will be cold and possibly wet Gloves, hats, warm coats and waterproof trousers are ideal.  
+
+This week’s spelling pattern is words containing the `ow` vowel digraph. 
 
 1. brown 
 
