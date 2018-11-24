@@ -25,7 +25,7 @@ Conoce nuestro colegio | &nbsp; &nbsp; | Objetos de la Clase | &nbsp; &nbsp; | P
 [![](/images/conoceNuestroColegio.png)](/docs/conoceNuestroColegio.pdf) | &nbsp; &nbsp; | [![](/images/objetosDeLaClase.png)](/docs/objetosDeLaClase.pdf) | &nbsp; &nbsp; | [![](/images/partesDelCuerpo.png)](/docs/partesDelCuerpo.pdf)
 Los Alimentos | &nbsp; &nbsp; | El personaje de un cuento | &nbsp; &nbsp; | El lugar o contexto de un cuento
 [![](/images/losAlimentos.png)](/docs/losAlimentos.pdf) | &nbsp; &nbsp; | [![](/images/personajeCuento.png)](/docs/personajeCuento.pdf) | &nbsp; &nbsp; | [![](/images/lugarContextoCuento.png)](/docs/lugarContextoCuento.pdf)
-Los Materiales y sus propriedades | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |
-[![](/images/losMaterialesPropriedades.png)](/docs/losMaterialesPropriedades.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |
+Los Materiales y sus propriedades | &nbsp; &nbsp; | Procesos de cambio en los materiales | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |
+[![](/images/losMaterialesPropriedades.png)](/docs/losMaterialesPropriedades.pdf) | &nbsp; &nbsp; | [![](/images/procesosCambioMateriales.png)](/docs/procesosCambioMateriales.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |
 
 &nbsp;
