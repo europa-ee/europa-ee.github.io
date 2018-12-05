@@ -51,9 +51,7 @@ Warmest wishes,
 
 Liz Cook
 
-
-[![](/images/makeDifference.png)](/docs/makeDifference.pdf)
-
-[![](/images/followThatStar.png)](/docs/followThatStar.pdf)
+:---: | --- | :---: 
+[![](/images/makeDifference.png)](/docs/makeDifference.pdf) | &nbsp; &nbsp; | [![](/images/followThatStar.png)](/docs/followThatStar.pdf)
 
 [Download song for Christmas concert](/audio/Follow that star (performance track) copy.mp3)
