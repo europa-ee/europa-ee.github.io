@@ -6,6 +6,7 @@ date: "2018-09-25T00:19:57+00:00"
 2EE Homework on English side | &nbsp; &nbsp; | Year 1 and 2 Words and Sounds Mat
 :---: | --- | :----:
 [![](/images/year2Homework.png)](/docs/year2Homework.pdf) | &nbsp; &nbsp; | [![](/images/wordsAndSoundsMat.png)](/docs/wordsAndSoundsMat.pdf)
+Make a difference | &nbsp; &nbsp; | Follow that star
 [![](/images/makeDifference.png)](/docs/makeDifference.pdf) | &nbsp; &nbsp; | [![](/images/followThatStar.png)](/docs/followThatStar.pdf)
 
 &nbsp;
