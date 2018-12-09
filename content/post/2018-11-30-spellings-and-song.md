@@ -53,4 +53,6 @@ Liz Cook
 
 [![](/images/makeDifference.png)](/docs/makeDifference.pdf) &nbsp; &nbsp; [![](/images/followThatStar.png)](/docs/followThatStar.pdf)
 
-[Download song for Christmas concert](/audio/Follow that star (performance track) copy.mp3)
+{{< youtube mhOavZAZp4Q >}}
+
+[Download song for Christmas concert (mp3 format)](/audio/Follow that star (performance track) copy.mp3)
