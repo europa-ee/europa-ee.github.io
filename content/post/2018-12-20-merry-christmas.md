@@ -24,5 +24,5 @@ Warmest wishes,
 Liz Cook
 
 
-[![](/images/December_party_thumbnail.JPG)](/images/December_party.JGP)
+[![](/images/December_party_thumbnail.JPG)](/images/December_party.JPG)
 
