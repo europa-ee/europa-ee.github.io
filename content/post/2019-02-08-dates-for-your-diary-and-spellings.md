@@ -48,5 +48,4 @@ Warmest wishes,
 
 Liz Cook
 
-:---: | --- | :---:
-[![](/images/IMG_3894_thumbnail.jpeg)](/images/IMG_3894.JPG) | &nbsp; | [![](/images/IMG_3904_thumbnail.JPG)](/images/IMG_3904.JPG)
+[![](/images/IMG_3894_thumbnail.jpeg)](/images/IMG_3894.JPG) [![](/images/IMG_3904_thumbnail.JPG)](/images/IMG_3904.JPG)
