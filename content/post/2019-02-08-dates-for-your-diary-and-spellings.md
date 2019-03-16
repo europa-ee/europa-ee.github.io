@@ -47,3 +47,6 @@ Wishing you a very happy weekend. I am attaching a photo of the wonderful canopy
 Warmest wishes,
 
 Liz Cook
+
+[![](/images/IMG_3894_thumbnail.jpeg)](/images/IMG_3894.JPG)
+[![](/images/IMG_3904_thumbnail.JPG)](/images/IMG_3904.JPG)
