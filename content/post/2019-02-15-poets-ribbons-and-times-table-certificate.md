@@ -15,9 +15,11 @@ Dear Parents,
 This week the children wrote number poems, baked bread on a camp fire, learnt about penguins and played maths games with shapes. There are no spellings for half term, but two challenges.  
 
 **Challenge 1 – POET’S RIBBON**
+
 To learn a poem by heart. Any child able to share their poem by heart after the break will win a poet's ribbon for their book bag.  I attach a few poems to choose from but any poem they love will do. 
 
 **Challenge 2 - TIMES TABLE CHALLENGE**
+
 To learn either the 5 or 3 x table. If they are able to answer 5 questions from their x table correctly at speed, they will win a x table certificate. Not all maths is about speed, but mental recall of times tables is hugely helpful in later life when juggling numbers. The following links may be helpful in learning.
 
 https://www.topmarks.co.uk/maths-games/hit-the-button
