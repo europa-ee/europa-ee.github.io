@@ -41,6 +41,7 @@ Warmest wishes,
 
 Liz and Jose
 
-
-[![PowerPoint](/images/sats.png)](docs/Parents SATs presentation Feb 2019.pptx)
+PowerPoint | &nbsp; | PDF
+:---:|---|:---:
+[![PowerPoint](/images/sats.png)](docs/Parents SATs presentation Feb 2019.pptx) | --- |
 [![PDF](/images/sats.png)](docs/Parents SATs presentation Feb 2019.pdf)
