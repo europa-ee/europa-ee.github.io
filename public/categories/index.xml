@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Europa Español-English Class 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 08 Nov 2018 12:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jan 2019 18:42:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Announcement</title>
       <link>/categories/announcement/</link>
-      <pubDate>Thu, 08 Nov 2018 12:28:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jan 2019 18:42:00 +0000</pubDate>
       
       <guid>/categories/announcement/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Announcements</title>
       <link>/categories/announcements/</link>
-      <pubDate>Fri, 09 Nov 2018 17:07:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 16:46:00 +0000</pubDate>
       
       <guid>/categories/announcements/</guid>
       <description></description>
@@ -32,9 +32,18 @@
     <item>
       <title>Homework</title>
       <link>/categories/homework/</link>
-      <pubDate>Wed, 17 Oct 2018 14:22:00 +0000</pubDate>
+      <pubDate>Fri, 07 Dec 2018 19:22:00 +0000</pubDate>
       
       <guid>/categories/homework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spelling</title>
+      <link>/categories/spelling/</link>
+      <pubDate>Fri, 30 Nov 2018 17:08:00 +0000</pubDate>
+      
+      <guid>/categories/spelling/</guid>
       <description></description>
     </item>
     
