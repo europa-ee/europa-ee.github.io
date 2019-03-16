@@ -43,5 +43,4 @@ Liz and Jose
 
 PowerPoint | &nbsp; | PDF
 :---:|---|:---:
-[![PowerPoint](/images/sats.png)](docs/Parents SATs presentation Feb 2019.pptx) | --- |
-[![PDF](/images/sats.png)](docs/Parents SATs presentation Feb 2019.pdf)
+[![](/images/sats.png)](docs/Parents SATs presentation Feb 2019.pptx) | &nbsp; | [![](/images/sats.png)](docs/Parents SATs presentation Feb 2019.pdf)
