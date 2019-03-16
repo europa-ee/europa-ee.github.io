@@ -33,3 +33,7 @@ Warmest wishes,
 
 Liz Cook
 
+DOC | &nbsp; | PDF
+:---: | --- | :---:
+[![](/images/poems.png)](/docs/poems.docx) | &nbsp; | [![](/images/poems.png)](/docs/poems.pdf)
+
