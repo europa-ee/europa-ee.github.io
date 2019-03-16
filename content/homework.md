@@ -30,6 +30,6 @@ Los Materiales y sus propriedades | &nbsp; &nbsp; | Procesos de cambio en los ma
 Productos naturales y manufacturados | &nbsp; &nbsp; | Signos de puntuacion | &nbsp; &nbsp; | Reciclaje 
 [![](/images/productosNaturalesManufacturados.png)](/docs/productosNaturalesManufacturados.pdf) | &nbsp; &nbsp; | [![](/images/signosPuntuacion.png)](/docs/signosPuntuacion.pdf) | &nbsp; &nbsp; | [![](/images/reciclaje.png)](/docs/reciclaje.pdf)
 Recuerdos de la Navidad | &nbsp; &nbsp; | Partes de la casa | &nbsp; &nbsp; | Familia de palabras
-[![](/images/recuerdosDeLaNavidad.png)](/docs/recuerdosDeLaNavidad.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+[![](/images/recuerdosDeLaNavidad.png)](/docs/recuerdosDeLaNavidad.pdf) | &nbsp; &nbsp; | [![](/images/partesDeLaCasa.png)](/docs/partesDeLaCasa.pdf) | &nbsp; &nbsp; | [![](/images/familiaDePalabras.png)](/docs/familiaDePalabras.pdf)
 
 &nbsp;
