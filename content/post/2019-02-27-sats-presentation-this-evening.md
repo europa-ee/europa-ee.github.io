@@ -25,7 +25,7 @@ It would be wonderful if you could support your child over the coming months pri
 
 * Approach maths questions happily using the strategies they have learnt.
 
-We will forward past **SATs papers** to you, so that you can use them as a guide to help you support your child in any areas they find difficult. **Slides 24 - 28** of the attached presentation give you some strategies for supporting maths. If you feel your child needs any extra practice in maths - **The Bond No Nonsense Maths** book (£5.99 from Amazon) has some exercises you may find useful: 
+We will forward past **SATs papers** to you, so that you can use them as a guide to help you support your child in any areas they find difficult. **Slides 24 - 28** of the attached presentation give you some strategies for supporting maths. If you feel your child needs any extra practice in maths - [**The Bond No Nonsense Maths**](https://www.amazon.co.uk/Bond-Maths-Nonsense-6-7-years/dp/0192740466) book (£5.99 from Amazon) has some exercises you may find useful: 
 
 [![](/images/noNonesenseMaths6to7.jpg)](https://www.amazon.co.uk/Bond-Maths-Nonsense-6-7-years/dp/0192740466)
 
