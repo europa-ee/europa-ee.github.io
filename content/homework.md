@@ -35,6 +35,6 @@ Los seres vivos e inertes | &nbsp; &nbsp; | Propriedades de los animales | &nbsp
 [![](/images/losSeresVivosInertes.png)](/docs/losSeresVivosInertes.pdf) | &nbsp; &nbsp; | [![](/images/propriedadesDeLosAnimales.png)](/docs/propriedadesDeLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/clasificacionDeLosAnimales.png)](/docs/clasificacionDeLosAnimales.pdf)
 Rimas y adivinanzas | &nbsp; &nbsp; | Clasificacion de los animales - vertebrados | &nbsp; &nbsp; | Los animales y su habitat
 [![](/images/rimasAdivinanzas.png)](/docs/rimasAdivinanzas.pdf) | &nbsp; &nbsp; | [![](/images/clasificacionDeLosAnimalesVertebrados.png)](/docs/clasificacionDeLosAnimalesVertebrados.pdf) | &nbsp; &nbsp; | [![](/images/losAnimalesHabitat.png)](/docs/losAnimalesHabita.pdf)
-Qué comen los animales | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
-[![](/images/queComenLosAnimales.png)](/docs/queComenLosAnimales.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+Qué comen los animales | &nbsp; &nbsp; | Como nacen los animales | &nbsp; &nbsp; | &nbsp; &nbsp;
+[![](/images/queComenLosAnimales.png)](/docs/queComenLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/comoNacenLosAnimales.png)](/docs/comoNacenLosAnimales.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp;
 &nbsp;
