@@ -33,6 +33,8 @@ Recuerdos de la Navidad | &nbsp; &nbsp; | Partes de la casa | &nbsp; &nbsp; | Fa
 [![](/images/recuerdosDeLaNavidad.png)](/docs/recuerdosDeLaNavidad.pdf) | &nbsp; &nbsp; | [![](/images/partesDeLaCasa.png)](/docs/partesDeLaCasa.pdf) | &nbsp; &nbsp; | [![](/images/familiaDePalabras.png)](/docs/familiaDePalabras.pdf)
 Los seres vivos e inertes | &nbsp; &nbsp; | Propriedades de los animales | &nbsp; &nbsp; | Clasificacion de los animales
 [![](/images/losSeresVivosInertes.png)](/docs/losSeresVivosInertes.pdf) | &nbsp; &nbsp; | [![](/images/propriedadesDeLosAnimales.png)](/docs/propriedadesDeLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/clasificacionDeLosAnimales.png)](/docs/clasificacionDeLosAnimales.pdf)
-Rimas y adivinanzas | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
-[![](/images/rimasAdivinanzas.png)](/docs/rimasAdivinanzas.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+Rimas y adivinanzas | &nbsp; &nbsp; | Clasificacion de los animales - vertebrados | &nbsp; &nbsp; | Los animales y su habitat
+[![](/images/rimasAdivinanzas.png)](/docs/rimasAdivinanzas.pdf) | &nbsp; &nbsp; | [![](/images/clasificacionDeLosAnimalesVertebrados.png)](/docs/clasificacionDeLosAnimalesVertebrados.pdf) | &nbsp; &nbsp; | [![](/images/losAnimalesHabitat.png)](/docs/losAnimalesHabita.pdf)
+Qué comen los animales | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+[![](/images/queComenLosAnimales.png)](/docs/queComenLosAnimales.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
 &nbsp;
