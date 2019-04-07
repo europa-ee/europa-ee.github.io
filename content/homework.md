@@ -19,9 +19,9 @@ What Am I | &nbsp; &nbsp; | Connect Four | &nbsp; &nbsp; | Number Undercover
 
 &nbsp;
 
-Pancake | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+Pancake Recipe | &nbsp; &nbsp; | Common Exception Words | &nbsp; &nbsp; | &nbsp; &nbsp;
 :---: | --- | :----: | --- | :----:
-[![](/images/pancakeRecipe.png)](/docs/pancakeRecipe.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+[![](/images/pancakeRecipe.png)](/docs/pancakeRecipe.pdf) | &nbsp; &nbsp; | [![](/images/commonExceptionWords.png)](/docs/commonExceptionWords.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp;
 
 
 ## Español
