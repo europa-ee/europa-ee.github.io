@@ -43,7 +43,7 @@ Rimas y adivinanzas | &nbsp; &nbsp; | Clasificacion de los animales - vertebrado
 [![](/images/rimasAdivinanzas.png)](/docs/rimasAdivinanzas.pdf) | &nbsp; &nbsp; | [![](/images/clasificacionDeLosAnimalesVertebrados.png)](/docs/clasificacionDeLosAnimalesVertebrados.pdf) | &nbsp; &nbsp; | [![](/images/losAnimalesHabitat.png)](/docs/losAnimalesHabita.pdf)
 Qué comen los animales | &nbsp; &nbsp; | Como nacen los animales | &nbsp; &nbsp; | Las plantas
 [![](/images/queComenLosAnimales.png)](/docs/queComenLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/comoNacenLosAnimales.png)](/docs/comoNacenLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/lasPlantas.png)](/docs/lasPlantas.pdf)
-Las Plantas Que Comemos | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
-[![](/images/lasPlantasQueComemos.png)](/docs/lasPlantasQueComemos.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+Las Plantas Que Comemos | &nbsp; &nbsp; | Las Estaciones de Año | &nbsp; &nbsp; | &nbsp; &nbsp;
+[![](/images/lasPlantasQueComemos.png)](/docs/lasPlantasQueComemos.pdf) | &nbsp; &nbsp; | [![](/images/lasEstacionesDeAno.png)](/docs/lasEstacionesDeAno.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp;
 
 &nbsp;
