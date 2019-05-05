@@ -1,7 +1,7 @@
 ---
 title: Homework and running with the wind
 author: ~
-date: 2019-03-26T16:47:00
+date: 2019-04-26T16:47:00
 slug: homework-and-running-with-the-wind
 categories:
     - Annoncements
