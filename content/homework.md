@@ -45,7 +45,6 @@ Qué comen los animales | &nbsp; &nbsp; | Como nacen los animales | &nbsp; &nbsp
 [![](/images/queComenLosAnimales.png)](/docs/queComenLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/comoNacenLosAnimales.png)](/docs/comoNacenLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/lasPlantas.png)](/docs/lasPlantas.pdf)
 Las Plantas Que Comemos | &nbsp; &nbsp; | Las Estaciones de Año | &nbsp; &nbsp; | Noticias: El periódico
 [![](/images/lasPlantasQueComemos.png)](/docs/lasPlantasQueComemos.pdf) | &nbsp; &nbsp; | [![](/images/lasEstacionesDeAno.png)](/docs/lasEstacionesDeAno.pdf) | &nbsp; &nbsp; | [![](/images/elPeriodicos.png)](/docs/elPeriodicos.pdf)
-
 Foletto Informativo | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
 [![](/images/folettoInformativo.png)](/docs/folettoInformativo.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
 
