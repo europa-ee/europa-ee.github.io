@@ -22,4 +22,4 @@ Warmest wishes,
 
 Liz Cook
 
-[![](/images/IMG_5377_thumbnail.JPG)](images/IMG_5377.JPG)
+[![](/images/IMG_5377_thumbnail.JPG)](/images/IMG_5377.JPG)
