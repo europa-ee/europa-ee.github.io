@@ -45,7 +45,7 @@ Qué comen los animales | &nbsp; &nbsp; | Como nacen los animales | &nbsp; &nbsp
 [![](/images/queComenLosAnimales.png)](/docs/queComenLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/comoNacenLosAnimales.png)](/docs/comoNacenLosAnimales.pdf) | &nbsp; &nbsp; | [![](/images/lasPlantas.png)](/docs/lasPlantas.pdf)
 Las Plantas Que Comemos | &nbsp; &nbsp; | Las Estaciones de Año | &nbsp; &nbsp; | Noticias: El periódico
 [![](/images/lasPlantasQueComemos.png)](/docs/lasPlantasQueComemos.pdf) | &nbsp; &nbsp; | [![](/images/lasEstacionesDeAno.png)](/docs/lasEstacionesDeAno.pdf) | &nbsp; &nbsp; | [![](/images/elPeriodicos.png)](/docs/elPeriodicos.pdf)
-Foletto Informativo | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
-[![](/images/folettoInformativo.png)](/docs/folettoInformativo.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+Foletto Informativo | &nbsp; &nbsp; | Descripcion de un Paisaje | &nbsp; &nbsp; | Que hora es?
+[![](/images/folettoInformativo.png)](/docs/folettoInformativo.pdf) | &nbsp; &nbsp; | [![](/images/descripcionPaisaje.png)](/docs/descripcionPaisaje.pdf) | &nbsp; &nbsp; | [![](/images/queHora.png)](/docs/queHora.pdf)
 
 &nbsp;
