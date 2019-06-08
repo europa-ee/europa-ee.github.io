@@ -47,5 +47,7 @@ Las Plantas Que Comemos | &nbsp; &nbsp; | Las Estaciones de Año | &nbsp; &nbsp;
 [![](/images/lasPlantasQueComemos.png)](/docs/lasPlantasQueComemos.pdf) | &nbsp; &nbsp; | [![](/images/lasEstacionesDeAno.png)](/docs/lasEstacionesDeAno.pdf) | &nbsp; &nbsp; | [![](/images/elPeriodicos.png)](/docs/elPeriodicos.pdf)
 Foletto Informativo | &nbsp; &nbsp; | Descripcion de un Paisaje | &nbsp; &nbsp; | Que hora es?
 [![](/images/folettoInformativo.png)](/docs/folettoInformativo.pdf) | &nbsp; &nbsp; | [![](/images/descripcionPaisaje.png)](/docs/descripcionPaisaje.pdf) | &nbsp; &nbsp; | [![](/images/queHora.png)](/docs/queHora.pdf)
+Textos de Ficción | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+[![](/images/textosFiccion.png)](/docs/textosFiccion.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; 
 
 &nbsp;
