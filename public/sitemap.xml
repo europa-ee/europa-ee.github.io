@@ -3,8 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/events/</loc>
+    <lastmod>2019-06-22T07:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/summer-fete-2019/</loc>
+    <lastmod>2019-06-22T07:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/06/14/fun-run-toilet-rolls-and-spellings/</loc>
+    <lastmod>2019-06-14T18:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/05/24/happy-holidays/</loc>
+    <lastmod>2019-05-24T18:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/05/17/film-and-spellings/</loc>
+    <lastmod>2019-05-17T16:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/05/10/no-english-homework-other-than-reading-this-weekend/</loc>
+    <lastmod>2019-05-10T16:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/05/03/homework-and-running-with-the-wind/</loc>
+    <lastmod>2019-05-03T16:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/04/26/homework-and-running-with-the-wind/</loc>
+    <lastmod>2019-04-26T16:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/04/05/2019-04-05t173800-campfire-photos-and-homework/</loc>
+    <lastmod>2019-04-05T17:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/03/29/2019-03-29t171100-spellings-and-falconry/</loc>
+    <lastmod>2019-03-29T17:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/03/27/2019-03-27t141200-science-next-week/</loc>
+    <lastmod>2019-03-27T14:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/03/22/spellings-and-important-information-re-millets-falconry-trip/</loc>
+    <lastmod>2019-03-22T17:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/03/15/spellings-and-story/</loc>
     <lastmod>2019-03-15T16:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/03/09/spellings-and-yoghurt-pots/</loc>
+    <lastmod>2019-03-09T14:48:00+00:00</lastmod>
   </url>
   
   <url>
@@ -310,43 +375,49 @@
   
   <url>
     <loc>/tags/2ee/</loc>
-    <lastmod>2019-03-15T16:46:00+00:00</lastmod>
+    <lastmod>2019-06-14T18:43:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/annoncements/</loc>
+    <lastmod>2019-04-26T16:47:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/announcement/</loc>
-    <lastmod>2019-01-18T18:42:00+00:00</lastmod>
+    <lastmod>2019-06-14T18:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/announcements/</loc>
-    <lastmod>2019-03-15T16:46:00+00:00</lastmod>
+    <lastmod>2019-05-17T16:37:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-01-18T18:42:00+00:00</lastmod>
+    <lastmod>2019-04-26T16:47:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/english/</loc>
-    <lastmod>2019-03-15T16:46:00+00:00</lastmod>
+    <lastmod>2019-06-14T18:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/espa%C3%B1ol/</loc>
-    <lastmod>2019-01-10T11:38:00+00:00</lastmod>
+    <lastmod>2019-03-27T14:12:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-15T16:46:00+00:00</lastmod>
+    <lastmod>2019-06-22T07:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -364,7 +435,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-03-15T16:46:00+00:00</lastmod>
+    <lastmod>2019-06-14T18:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
