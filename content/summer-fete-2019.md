@@ -7,7 +7,7 @@ date: "2019-06-22T07:10:00+00:00"
 
 # Europa School UK Class 2EE presents a **Summer of Pokémon**!
 
-For **£2**, come join us catch, play and have a picture with your favourite Pokémons!
+For **£2**, come join us catch, play and have a picture with your favourite Pokémon!
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 :---: | --- | :---: | --- | :----:
@@ -37,7 +37,7 @@ and many more!
 
 # How it works
 
-1. Find us at Europa School UK's Tower Block (map above).
+1. Find us at **[Europa School UK](http://europaschooluk.org/)'s Tower Block** (map above).
 
 2. Sign-up with your name and your choice of up to two Pokémons that you want to catch and play with. If you have a grown-up with you, you can ask them if you can have your photo taken with your chosen Pokémons and let us know of this choice when you sign up. If they agree to have your photo taken with your chosen Pokémons, they can provide us with their email address and/or mobile phone number so we can send your photos right away.
 
@@ -47,6 +47,7 @@ and many more!
 
 5. Once done, you can stay and enjoy the other Pokémon activities or try the other activities in Europa School UK Summer Fete.
 
+&nbsp;
 
 # See you at the Summer of Pokemon!
 
