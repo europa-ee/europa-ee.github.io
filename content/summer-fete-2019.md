@@ -12,7 +12,7 @@ For **£2**, come join us catch, play and have a picture with your favourite Pok
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 :---: | --- | :---: | --- | :----:
 Pikachu | &nbsp; | Eevee | &nbsp; | Squirtle
-![pikachu](/pokefete/pikachu.png) | &nbsp; | ![eevee](/pokefete/eevee.png) | &nbsp; | ![squirtle](/pokefete/squirtle.png)
+<img src="pokefete/eevee.png" width="100px" align="center" /> | &nbsp; | ![eevee](/pokefete/eevee.png) | &nbsp; | ![squirtle](/pokefete/squirtle.png)
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 Jigglypuff | &nbsp; | Arcanine | &nbsp; | Magikarp
 ![jigglypuff](/pokefete/jigglypuff.png) | &nbsp; | ![arcanine](/pokefete/arcanine.png) | &nbsp; | ![magikarp](/pokefete/magikarp.png)
