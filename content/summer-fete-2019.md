@@ -23,6 +23,8 @@ Moltres | &nbsp; | Scizor | &nbsp; | Entei
 Mudkip | &nbsp; | Zangoose | &nbsp; | Charmander
 ![mudkip](/pokefete/mudkip.png) | &nbsp; | ![zangoose](/pokefete/zangoose.png) | &nbsp; | ![charmander](/pokefete/charmander.png)
 
+&nbsp;
+
 and many more!
 
 # Find us at the Tower Block on Saturday, 29 June 2019
