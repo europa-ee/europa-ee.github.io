@@ -3,7 +3,7 @@ title: "Summer of Pokémon"
 date: "2019-06-22T07:10:00+00:00"
 ---
 
-<img src="/pokefete/poke-fete-website-large.png" align="center" />
+<img src="/pokefete/poke-fete-website-large.png" align="middle" />
 
 # Europa School UK Class 2EE presents a **Summer of Pokémon**!
 
@@ -12,16 +12,16 @@ For **£2**, come join us catch, play and have a picture with your favourite Pok
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 :---: | --- | :---: | --- | :----:
 Pikachu | &nbsp; | Eevee | &nbsp; | Squirtle
-<img src="/pokefete/pikachu.png" width="200px" align="center" /> | &nbsp; | <img src="/pokefete/eevee.png" width="200px" align="center" /> | &nbsp; | <img src="/pokefete/squirtle.png" width="200px" align="center" />
+<img src="/pokefete/pikachu.png" width="200px" align="middle" /> | &nbsp; | <img src="/pokefete/eevee.png" width="200px" align="middle" /> | &nbsp; | <img src="/pokefete/squirtle.png" width="200px" align="middle" />
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 Jigglypuff | &nbsp; | Arcanine | &nbsp; | Magikarp
-<img src="/pokefete/jigglypuff.png" width="200px" align="center" /> | &nbsp; | <img src="/pokefete/arcanine.png" width="200px" align="center" /> | &nbsp; | <img src="/pokefete/magikarp.png" width="200px" align="center" />
+<img src="/pokefete/jigglypuff.png" width="200px" align="middle" /> | &nbsp; | <img src="/pokefete/arcanine.png" width="200px" align="middle" /> | &nbsp; | <img src="/pokefete/magikarp.png" width="200px" align="middle" />
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 Moltres | &nbsp; | Scizor | &nbsp; | Entei
-<img src="/pokefete/moltres.png" width="200px" align="center" /> | &nbsp; | <img src="/pokefete/scizor.png" width="200px" align="center" /> | &nbsp; | <img src="/pokefete/entei.png" width="200px" align="center" />
+<img src="/pokefete/moltres.png" width="200px" align="middle" /> | &nbsp; | <img src="/pokefete/scizor.png" width="200px" align="middle" /> | &nbsp; | <img src="/pokefete/entei.png" width="200px" align="middle" />
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 Mudkip | &nbsp; | Zangoose | &nbsp; | Charmander
-<img src="/pokefete/mudkip.png" width="200px" align="center" /> | &nbsp; | <img src="/pokefete/zangoose.png" width="200px" align="center" /> | &nbsp; | <img src="/pokefete/charmander.png" width="200px" align="center" />
+<img src="/pokefete/mudkip.png" width="200px" align="middle" /> | &nbsp; | <img src="/pokefete/zangoose.png" width="200px" align="middle" /> | &nbsp; | <img src="/pokefete/charmander.png" width="200px" align="middle" />
 
 &nbsp;
 
@@ -31,7 +31,7 @@ and many more!
 
 # Find us at the Tower Block on Saturday, 29 June 2019
 
-<img src="/pokefete/findus.png" align="center" />
+<img src="/pokefete/findus.png" align="middle" />
 
 &nbsp;
 
