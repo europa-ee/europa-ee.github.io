@@ -3,9 +3,7 @@ title: "Summer of Pokémon"
 date: "2019-06-22T07:10:00+00:00"
 ---
 
-![](/pokefete/poke-fete-website-medium.png)
-
-<img src="pokefete/poke-fete-website-medium.png" align="center" />
+![](/pokefete/poke-fete-website-large.png)
 
 # Europa School UK Class 2EE presents a **Summer of Pokémon**!
 
