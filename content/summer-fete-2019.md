@@ -9,6 +9,7 @@ Europa School UK Class 2EE presents a **Summer of Pokémon**!
 
 Come join us catch, play and have a picture with our favourite Pokémons!
 
+:---: | --- | :---: | --- | :----:
 Pikachu | &nbsp; | Eevee | &nbsp; | Squirtle
 ![pikachu](/pokefete/pikachu.png) | &nbsp; | ![eevee](/pokefete/eevee.png) | &nbsp; | ![squirtle](/pokefete/squirtle.png)
 
