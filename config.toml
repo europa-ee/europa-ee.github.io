@@ -23,12 +23,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Resources"
     url = "/resources/"
     weight = 3
+
+[[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 4
     
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 4
-    
+    weight = 5
+
 [taxonomies]
     category = "categories"
     tag = "tags"
