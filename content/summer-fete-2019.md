@@ -5,7 +5,7 @@ date: "2019-06-22T07:10:00+00:00"
 
 ![](/pokefete/poke-fete-website-large.png)
 
-Europa School UK Class 2EE presents a **Summer of Pokémon**!
+# Europa School UK Class 2EE presents a **Summer of Pokémon**!
 
 Come join us catch, play and have a picture with your favourite Pokémons!
 
@@ -23,6 +23,11 @@ Moltres | &nbsp; | Scizor | &nbsp; | Entei
 Mudkip | &nbsp; | Zangoose | &nbsp; | Squirtle
 ![mudkip](/pokefete/mudkip.png) | &nbsp; | ![zangoose](/pokefete/zangoose.png) | &nbsp; | ![squirtle](/pokefete/squirtle.png)
 
+and many more!
+
+# Find us at the Tower Block on Saturday, 29 June 2019
+
+![map](/pokefete/findus.png)
 
 
 
