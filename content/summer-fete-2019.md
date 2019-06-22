@@ -20,8 +20,8 @@ Jigglypuff | &nbsp; | Arcanine | &nbsp; | Magikarp
 Moltres | &nbsp; | Scizor | &nbsp; | Entei
 ![moltres](/pokefete/moltres.png) | &nbsp; | ![scizor](/pokefete/scizor.png) | &nbsp; | ![entei](/pokefete/entei.png)
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Mudkip | &nbsp; | Zangoose | &nbsp; | Squirtle
-![mudkip](/pokefete/mudkip.png) | &nbsp; | ![zangoose](/pokefete/zangoose.png) | &nbsp; | ![squirtle](/pokefete/squirtle.png)
+Mudkip | &nbsp; | Zangoose | &nbsp; | Charmander
+![mudkip](/pokefete/mudkip.png) | &nbsp; | ![zangoose](/pokefete/zangoose.png) | &nbsp; | ![charmander](/pokefete/charmander.png)
 
 and many more!
 
