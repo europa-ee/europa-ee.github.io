@@ -41,7 +41,7 @@ and many more!
 
 2. Sign-up with your name and your choice of up to two Pokémons that you want to catch and play with. If you have a grown-up with you, you can ask them if you can have your photo taken with your chosen Pokémons and let us know of this choice when you sign up. If they agree to have your photo taken with your chosen Pokémons, they can provide us with their email address and/or mobile phone number so we can send your photos right away.
 
-3. Wait for your turn to catch and play and have a photo with your chosen Pokémons. While waiting, we have different activities that you can do such as colouring your favourite Pokémon and playing various Pokémon games. If you are a Pokémon cards collector, we have setup a Pokémon cards trading bazaar (so don't forget to bring your Pokémon cards with you) where collectors can show off their card collection with other fellow collectors and trade Pokémon cards.
+3. Wait for your turn to catch and play and have a photo with your chosen Pokémons. While waiting, we have different activities that you can do such as colouring your favourite Pokémon and playing various [Pokémon games](#games). If you are a Pokémon cards collector, we have setup a Pokémon cards trading bazaar (so don't forget to bring your Pokémon cards with you) where collectors can show off their card collection with other fellow collectors and trade Pokémon cards.
 
 4. When your name is called, come up to the Pokémon hall. You will then be given instructions on how to catch your Pokémons, how you can pet your Pokémons and if your grown-up gave you permission, have your photo taken with your Pokémons.
 
@@ -50,6 +50,7 @@ and many more!
 &nbsp;
 
 # Pokémon games
+(#games)
 
 ## Where is Litten?
 
@@ -63,7 +64,7 @@ and many more!
 
 ## Pokémon Trivia
 
-<img src="/pokefete/pokemons.jpg" width="350px" align="left" /> Put your Pokémon knowledge to the test. Answer correctly trivia questions and win a prize!
+<img src="/pokefete/pokemons.jpg" width="350px" align="left" /> Put your Pokémon knowledge to the test. Answer trivia questions correctly and win a prize!
 
 &nbsp;
 
