@@ -57,7 +57,7 @@ and many more!
 
 ## Pokémon Triva
 
-<img src="/pokefete/pokemons.jpg" align="left" /> Put your Pokémon knowledge to the test. Answer correctly trivia questions and win a prize!
+<img src="/pokefete/pokemons.jpg" width="150px" align="left" /> Put your Pokémon knowledge to the test. Answer correctly trivia questions and win a prize!
 
 &nbsp;
 
