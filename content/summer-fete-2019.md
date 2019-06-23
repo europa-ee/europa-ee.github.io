@@ -41,13 +41,7 @@ and many more!
 
 2. Sign-up with your name and your choice of up to two Pokémons that you want to catch and play with. If you have a grown-up with you, you can ask them if you can have your photo taken with your chosen Pokémons and let us know of this choice when you sign up. If they agree to have your photo taken with your chosen Pokémons, they can provide us with their email address and/or mobile phone number so we can send your photos right away.
 
-3. Wait for your turn to catch and play and have a photo with your chosen Pokémons. While waiting, we have different Pokémon-related activities that you can do. 
-
-* For those who are new to Pokémon, there is a station where you can learn more about the most popular Pokémons and then have a go at making your very own Pokémon card. 
-
-* For those who are familiar with Pokémon already, we have organised two [Pokémon games](#games) that will test your Pokémon skills and knowledge.
-
-* For the Pokémon experts and Pokémon cards collector, we have setup a [Pokémon cards trading bazaar](#bazaar) where collectors can show off their card collection with other fellow collectors and trade Pokémon cards. So don't forget to bring your Pokémon cards with you.
+3. Wait for your turn to catch and play and have a photo with your chosen Pokémons. While waiting, we have different Pokémon-related activities that you can do. For those who are new to Pokémon, there is a station where you can learn more about the most popular Pokémons and then have a go at making your very own Pokémon card. For those who are familiar with Pokémon already, we have organised two [Pokémon games](#games) that will test your Pokémon skills and knowledge. For the Pokémon experts and Pokémon cards collector, we have setup a [Pokémon cards trading bazaar](#bazaar) where collectors can show off their card collection with other fellow collectors and trade Pokémon cards. So don't forget to bring your Pokémon cards with you.
 
 4. When your name is called, come up to the Pokémon hall. You will then be given instructions on how to catch your Pokémons, how you can pet your Pokémons and if your grown-up gave you permission, have your photo taken with your Pokémons.
 
