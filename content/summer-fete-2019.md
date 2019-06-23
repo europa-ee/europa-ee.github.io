@@ -51,9 +51,9 @@ and many more!
 
 # Pokémon games {#games}
 
-## Where is Litten?
+## Where is Pikachu?
 
-<img src="/pokefete/pokeballs.png" align="left" /> **Litten** has been caught. But which **Pokeball** has **Litten** been caught in? Guess which **Pokeball** holds **Litten** and win a prize! 
+<img src="/pokefete/pokeballs.png" align="left" /> **Pikachu** has been caught. But which **Pokeball** has **Pikachu** been caught in? Guess which **Pokeball** holds **Pikachu** and win a prize! 
 
 &nbsp;
 
