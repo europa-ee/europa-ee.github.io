@@ -49,6 +49,22 @@ and many more!
 
 &nbsp;
 
+# Pokémon games
+
+## Where is Litten?
+
+**Litten** has been caught. But which **Pokeball** has **Litten** been caught in? Guess which **Pokeball** holds **Litten** and win a prize! <img src="/pokefete/pokeballs.png" align="right" />
+
+## Pokémon Triva
+
+<img src="/pokefete/pokemons.jpg" align="left" /> Put your Pokémon knowledge to the test. Answer correctly trivia questions and win a prize!
+
+&nbsp;
+
+# Pokémon cards trading bazaar
+
+&nbsp;
+
 # See you at the Summer of Pokemon!
 
 
