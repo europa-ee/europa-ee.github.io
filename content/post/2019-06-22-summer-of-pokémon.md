@@ -15,7 +15,7 @@ Class 2EE presents the **Summer of Pokemon**
 
 Come join us catch, play and have a picture with your favourite Pokémon at the Europa School UK Summer Fete!
 
-Find us at the Tower Block on Saturyda, 29 of June 2019.
+Find us at the Tower Block on Saturday, 29 of June 2019.
 
 For more information, visit http://bit.ly/poke-fete
 

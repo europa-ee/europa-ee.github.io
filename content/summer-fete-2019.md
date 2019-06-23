@@ -41,7 +41,7 @@ and many more!
 
 2. Sign-up with your name and your choice of up to two Pokémons that you want to catch and play with. If you have a grown-up with you, you can ask them if you can have your photo taken with your chosen Pokémons and let us know of this choice when you sign up. If they agree to have your photo taken with your chosen Pokémons, they can provide us with their email address and/or mobile phone number so we can send your photos right away.
 
-3. Wait for your turn to catch and play and have a photo with your chosen Pokémons. While waiting, we have different activities that you can do such as colouring your favourite Pokémon and playing various [Pokémon games](#games). If you are a Pokémon cards collector, we have setup a Pokémon cards trading bazaar (so don't forget to bring your Pokémon cards with you) where collectors can show off their card collection with other fellow collectors and trade Pokémon cards.
+3. Wait for your turn to catch and play and have a photo with your chosen Pokémons. While waiting, we have different activities that you can do such as colouring your favourite Pokémon and playing various [Pokémon games](#games). If you are a Pokémon cards collector, we have setup a [Pokémon cards trading bazaar](#bazaar) (so don't forget to bring your Pokémon cards with you) where collectors can show off their card collection with other fellow collectors and trade Pokémon cards.
 
 4. When your name is called, come up to the Pokémon hall. You will then be given instructions on how to catch your Pokémons, how you can pet your Pokémons and if your grown-up gave you permission, have your photo taken with your Pokémons.
 
@@ -71,9 +71,9 @@ and many more!
 
 &nbsp;
 
-# Pokémon cards trading bazaar
+# Pokémon cards trading bazaar {#bazaar}
 
-<img src="/pokefete/pokemoncards.jpg" align="left" /> If you are a Pokémon card collector, come and visit our Pokémon cards trading bazaar.
+<img src="/pokefete/pokemoncards.jpg" width="350px" align="left" /> If you are a Pokémon card collector, come and visit our Pokémon cards trading bazaar.
 
 We have brought in our special collection of more than a 100 Pokémon cards for you to look at to find that last few missing to complete you set or to bulk up your decks. All cards are in mint condition. In this collection we have a minimum of 5 holographic cards and 4 rare cards up for sale.
 
