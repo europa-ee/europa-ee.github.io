@@ -73,6 +73,12 @@ and many more!
 
 # Pokémon cards trading bazaar
 
+<img src="/pokefete/pokemoncards.jpg" align="left" /> If you are a Pokémon card collector, come and visit our Pokémon cards trading bazaar.
+
+We have brought in our special collection of more than a 100 Pokémon cards for you to look at to find that last few missing to complete you set or to bulk up your decks. All cards are in mint condition. In this collection we have a minimum of 5 holographic cards and 4 rare cards up for sale.
+
+Come with your Pokémon card collection to show with other card collectors and to trade with in our bazaar.
+
 &nbsp;
 
 # See you at the Summer of Pokemon!
