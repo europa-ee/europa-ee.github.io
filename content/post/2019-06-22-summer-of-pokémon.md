@@ -11,9 +11,9 @@ tags:
 
 [![](/pokefete/poke-fete-website-medium.png)](/summer-fete-2019)
 
-Class 2EE presents the **Summer of Pokemon**
+**Class 2EE** presents the **Summer of Pokemon**
 
-Come join us catch, play and have a picture with your favourite Pokémon at the Europa School UK Summer Fete!
+Come join us catch, play and have a picture with your favourite Pokémon at the [Europa School UK Summer Fete](https://www.europa-pta.org/summer-fete.html)!
 
 Find us at the Tower Block on Saturday, 29 of June 2019.
 

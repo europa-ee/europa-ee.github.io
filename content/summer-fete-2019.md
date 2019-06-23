@@ -73,7 +73,7 @@ and many more!
 
 # Pokémon cards trading bazaar {#bazaar}
 
-<img src="/pokefete/pokemoncards.jpg" width="350px" align="left" /> If you are a Pokémon card collector, come and visit our **Pokémon cards trading bazaar**.
+<img src="/pokefete/pokemoncards.jpg" width="350px" align="right" /> If you are a Pokémon card collector, come and visit our **Pokémon cards trading bazaar**.
 
 We have brought in our special collection of more than a **100 Pokémon cards** for you to look at and to find that last few missing to complete your set or to bulk up your decks. All cards are in mint condition. In this collection we have a minimum of **5 holographic cards** and **4 rare cards** up for sale.
 
