@@ -53,11 +53,15 @@ and many more!
 
 ## Where is Litten?
 
-**Litten** has been caught. But which **Pokeball** has **Litten** been caught in? Guess which **Pokeball** holds **Litten** and win a prize! <img src="/pokefete/pokeballs.png" align="right" />
+<img src="/pokefete/pokeballs.png" align="middle" />
+
+**Litten** has been caught. But which **Pokeball** has **Litten** been caught in? Guess which **Pokeball** holds **Litten** and win a prize! 
 
 ## Pokémon Triva
 
-<img src="/pokefete/pokemons.jpg" width="300px" align="left" /> Put your Pokémon knowledge to the test. Answer correctly trivia questions and win a prize!
+<img src="/pokefete/pokemons.jpg" width="400px" align="left" />
+
+Put your Pokémon knowledge to the test. Answer correctly trivia questions and win a prize!
 
 &nbsp;
 
