@@ -56,7 +56,9 @@ and many more!
 <img src="/pokefete/pokeballs.png" align="left" /> **Litten** has been caught. But which **Pokeball** has **Litten** been caught in? Guess which **Pokeball** holds **Litten** and win a prize! 
 
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 
 ## Pokémon Trivia
@@ -64,7 +66,9 @@ and many more!
 <img src="/pokefete/pokemons.jpg" width="350px" align="left" /> Put your Pokémon knowledge to the test. Answer correctly trivia questions and win a prize!
 
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 
 # Pokémon cards trading bazaar
