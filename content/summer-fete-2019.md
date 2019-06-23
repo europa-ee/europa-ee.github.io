@@ -49,8 +49,7 @@ and many more!
 
 &nbsp;
 
-# Pokémon games
-[#games]
+# Pokémon games {#games}
 
 ## Where is Litten?
 
