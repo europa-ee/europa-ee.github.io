@@ -23,6 +23,11 @@ Pancake Recipe | &nbsp; &nbsp; | Common Exception Words | &nbsp; &nbsp; | Maths 
 :---: | --- | :----: | --- | :----:
 [![](/images/pancakeRecipe.png)](/docs/pancakeRecipe.pdf) | &nbsp; &nbsp; | [![](/images/commonExceptionWords.png)](/docs/commonExceptionWords.pdf) | &nbsp; &nbsp; | [![](/images/mathsPaper.png)](/docs/mathsPaper.pdf)
 
+&nbsp;
+
+Maths Mosaic | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+:---: | --- | :----: | --- | :----:
+[![](/images/mathsMosaic.png)](/docs/mathsMosaic.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
 
 ## Español
 
