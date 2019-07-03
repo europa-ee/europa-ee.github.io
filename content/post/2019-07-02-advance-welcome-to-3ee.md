@@ -6,7 +6,7 @@ slug: advance-welcome-to-3ee
 categories:
     - Announcements
 tags:
-    - Class 3EE
+    - 3EE
 ---
 
 Dear soon-to-be 3EE parents,
