@@ -54,5 +54,7 @@ Foletto Informativo | &nbsp; &nbsp; | Descripcion de un Paisaje | &nbsp; &nbsp; 
 [![](/images/folettoInformativo.png)](/docs/folettoInformativo.pdf) | &nbsp; &nbsp; | [![](/images/descripcionPaisaje.png)](/docs/descripcionPaisaje.pdf) | &nbsp; &nbsp; | [![](/images/queHora.png)](/docs/queHora.pdf)
 Textos de Ficción | &nbsp; &nbsp; | El verbo como acción | &nbsp; &nbsp; | Despacito
 [![](/images/textosFiccion.png)](/docs/textosFiccion.pdf) | &nbsp; &nbsp; | [![](/images/verboAccion.png)](/docs/verboAccion.pdf) | &nbsp; &nbsp; | [![](/images/despacito.png)](/docs/verboAccion.pdf) 
+Hablamos de acontecimientos | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+[![](/images/hablamosAcontecimientos.png)](docs/hablamosAcontecimientos.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
 
 &nbsp;
