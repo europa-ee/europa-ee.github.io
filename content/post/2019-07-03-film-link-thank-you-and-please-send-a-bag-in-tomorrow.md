@@ -2,7 +2,7 @@
 title: Film link, thank you! and please send a bag in tomorrow
 author: ~
 date: 2019-07-03T19:35:00
-slug: 2019-07-03T19:35:00-film-link-thank-you-and-please-send-a-bag-in-tomorrow
+slug: film-link-thank-you-and-please-send-a-bag-in-tomorrow
 categories:
     - Announcements
 tags:

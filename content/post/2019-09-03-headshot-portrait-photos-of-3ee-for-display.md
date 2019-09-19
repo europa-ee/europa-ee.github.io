@@ -2,7 +2,7 @@
 title: Headshot/portrait photos of 3EE for display
 author: ~
 date: 2019-09-03T07:36:00
-slug: 2019-09-03T07:36:00-headshot-portrait-photos-of-3ee-for-display
+slug: headshot-portrait-photos-of-3ee-for-display
 categories:
     - Announcements
 tags:

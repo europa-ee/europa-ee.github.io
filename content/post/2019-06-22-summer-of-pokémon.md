@@ -2,7 +2,7 @@
 title: Summer of Pokémon
 author: ~
 date: 2019-06-22T20:48:00
-slug: 2019-06-22T20:48:00-summer-of-pokémon
+slug: summer-of-pokémon
 categories:
     - Announcements
 tags:

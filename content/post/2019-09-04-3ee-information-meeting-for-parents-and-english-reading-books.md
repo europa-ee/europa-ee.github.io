@@ -2,7 +2,7 @@
 title: 3EE information meeting for parents and English reading books
 author: ~
 date: 2019-09-04T21:42:00
-slug: 2019-09-04T21:42:00-3ee-information-meeting-for-parents-and-english-reading-books
+slug: 3ee-information-meeting-for-parents-and-english-reading-books
 categories:
     - Announcements
 tags:

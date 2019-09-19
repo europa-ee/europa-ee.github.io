@@ -2,7 +2,7 @@
 title: Happy weekend
 author: ~
 date: 2019-06-28T17:09:00
-slug: 2019-06-28T17:09:00-happy-weekend
+slug: happy-weekend
 categories:
     - Announcements
 tags:
