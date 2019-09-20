@@ -3,6 +3,15 @@ title: "Homework"
 date: "2018-09-25T00:19:55+00:00"
 ---
 
+# Year 3
+
+## English
+
+Spelling Autumn Week 1 | &nbsp; &nbsp; | Maths Autumn Week 1
+:---: | --- | :---:
+[![](/images/spellingAutumnWeek1.png)](/docs/spellingAutumnWeek1.pdf) | &nbsp; &nbsp; | [![](/images/mathsAutumnWeek1.jpg)](/docs/mathsAutumnWeek1.pdf)
+
+
 # Year 2
 
 ## English
