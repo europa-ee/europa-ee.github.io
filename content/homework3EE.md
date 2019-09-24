@@ -17,6 +17,9 @@ Spelling Autumn Week 3 | &nbsp; &nbsp; | Maths Autumn Week 3
 :---: | --- | :---:
 [![](/images/spellingAutumnWeek3.png)](/docs/spellingAutumnWeek3.pdf) | &nbsp; &nbsp; | [![](/images/mathsAutumnWeek3.jpg)](/docs/mathsAutumnWeek3.pdf)
 
+Spelling Autumn Week 4| &nbsp; &nbsp; | Maths Autumn Week 4
+:---: | --- | :---:
+[![](/images/spellingAutumnWeek4png)](/docs/spellingAutumnWeek4.pdf) | &nbsp; &nbsp; | [![](/images/mathsAutumnWeek4.jpg)](/docs/mathsAutumnWeek4.pdf)
 
 &nbsp;
 
