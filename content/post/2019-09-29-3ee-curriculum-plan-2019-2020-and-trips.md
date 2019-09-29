@@ -38,3 +38,5 @@ If you are interested in helping on a trip or a special interest half day please
 
 Many thanks,
 Ruthy Trevitt and Sofia Morton
+
+[![](/images/3EE long term plan 2019-20.png)](/docs/3EE long term plan 2019-20.pdf)
