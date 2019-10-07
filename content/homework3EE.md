@@ -33,3 +33,7 @@ Spelling Autumn Week 5| &nbsp; &nbsp; | Maths Autumn Week 5
 Las Letras El abecedario | &nbsp; &nbsp; | Ordena estas palabras en orden alfabetico
 :---: | --- | :---:
 [![](/images/lasLetrasAbecedario.png)](/docs/lasLetrasAbecedario.pdf) | &nbsp; &nbsp; | [![](/images/ordenaPalabrasAlfabetico.png)](/docs/ordenaPalabrasAlfabetico.pdf)
+
+En el centro comercial | &nbsp; &nbsp; | Las descripciones
+:---: | --- | :---:
+[![](/images/enElCentroComercial.png)](/docs/enElCentroComercial.pdf) | &nbsp; &nbsp; | [![](/images/lasDescripciones.png)](/docs/lasDescripciones.pdf)
