@@ -25,6 +25,22 @@ Spelling Autumn Week 5| &nbsp; &nbsp; | Maths Autumn Week 5
 :---: | --- | :---:
 [![](/images/spellingAutumnWeek5.png)](/docs/spellingAutumnWeek5.pdf) | &nbsp; &nbsp; | [![](/images/mathsAutumnWeek5.png)](/docs/mathsAutumnWeek5.pdf)
 
+Spelling Autumn Week 6| &nbsp; &nbsp; | Maths Autumn Week 6
+:---: | --- | :---:
+[![](/images/spellingAutumnWeek6.png)](/docs/spellingAutumnWeek6.pdf) | &nbsp; &nbsp; | [![](/images/mathsAutumnWeek6.png)](/docs/mathsAutumnWeek6.pdf)
+
+Spelling Autumn Week 7| &nbsp; &nbsp; | Maths Autumn Week 7
+:---: | --- | :---:
+[![](/images/spellingAutumnWeek7.png)](/docs/spellingAutumnWeek7.pdf) | &nbsp; &nbsp; | [![](/images/mathsAutumnWeek7.png)](/docs/mathsAutumnWeek7.pdf)
+
+Spelling Autumn Week 8| &nbsp; &nbsp; | Maths Autumn Week 8
+:---: | --- | :---:
+[![](/images/spellingAutumnWeek8.png)](/docs/spellingAutumnWeek8.pdf) | &nbsp; &nbsp; | [![](/images/mathsAutumnWeek8.png)](/docs/mathsAutumnWeek8.pdf)
+
+Spelling Autumn Week 9| &nbsp; &nbsp; | Maths Autumn Week 9
+:---: | --- | :---:
+[![](/images/spellingAutumnWeek9.png)](/docs/spellingAutumnWeek9.pdf) | &nbsp; &nbsp; | [![](/images/mathsAutumnWeek9.png)](/docs/mathsAutumnWeek9.pdf)
+
 &nbsp;
 
 
