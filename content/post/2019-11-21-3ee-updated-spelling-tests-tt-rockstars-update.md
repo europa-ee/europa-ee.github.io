@@ -18,126 +18,156 @@ Please find attached a full list of the common exception words children are expe
 
 **List A common words**
 
-TESTS FOR LIST A - 25.11.19, 13.01.20, 24.02.20, 30.03.20, 01.06.20
+*TESTS FOR LIST A*
 
-1 actually
+* 25 November 2019
+* 13 January 2020
+* 24 February 2020
+* 30 March 2020
+* 01 June 2020
 
-2 all
+1. actually
 
-3 although
+2. all
 
-4 again
+3. although
 
-5 favourite
+4. again
 
-6 are
+5. favourite
 
-7 our
+6. are
 
-8 your
+7. our
 
-9 my
+8. your
 
-10 after
+9. my
+
+10. after
 
 **List B common words**
 
-TESTS FOR LIST B - 02.12.19, 20.01.20, 02.03.20, 20.04.20, 08.06.20
+*TESTS FOR LIST B*
 
-11 busy
+* 02 December 2019
+* 20 January 2020
+* 02 March 2020
+* 20 April 2020
+* 08 June 2020
 
-12 business
+11. busy
 
-13 centre
+12. business
 
-14 certain
+13. centre
 
-15 children
+14. certain
 
-16 come
+15. children
 
-17 some
+16. come
 
-18 love
+17. some
 
-19 move
+18. love
 
-20 straight
+19. move
+
+20. straight
 
 **List C common words**
 
-TESTS FOR LIST C - 09.12.19, 27.01.20, 09.03.20, 27.04.20, 15.06.20
+*TESTS FOR LIST C* 
 
-21 who
+* 09 December 2019
+* 27 January 2020
+* 09 March 2020
+* 27 April 2020
+* 15 June 2020
 
-22 what
+21. who
 
-23 when
+22. what
 
-24 went
+23. when
 
-25 where
+24. went
 
-26 were
+25. where
 
-27 there
+26. were
 
-28 they
+27. there
 
-29 why
+28. they
 
-30 father
+29. why
+
+30. father
 
 **List D common words** 
 
-TESTS FOR LIST D - 16.12.19, 03.02.20, 16.03.20, 04.05.20, 22.06.20
+*TESTS FOR LIST D*
 
-31 would 
+* 16 December 19
+* 03 February 2020
+* 16 March 2020
+* 04 May 2020
+* 22 June 2020
 
-32 should
+31. would 
 
-33 could
+32. should
 
-34 special
+33. could
 
-35 every
+34. special
 
-36 everyone
+35. every
 
-37 thought
+36. everyone
 
-38 through
+37. thought
 
-39 though
+38. through
 
-40 many 
+39. though
+
+40. many 
 
 **List E common words**
 
-TESTS FOR LIST E - 06.01.20, 10.02.20, 23.03.20, 11.05.20, 29.06.20
+*TESTS FOR LIST E*
 
-41 believe
+* 06 Jaunary 2020
+* 10 February 2020
+* 23 March 2020
+* 11 May 2020
+* 29 June 2020
 
-42 friend
+41. believe
 
-43 because
+42. friend
 
-44 people
+43. because
 
-45 said
+44. people
 
-46 says
+45. said
 
-47 was
+46. says
 
-48 whole
+47. was
 
-49 quarter
+48. whole
 
-50 women
+49. quarter
+
+50. women
 
 
-Summary test of all 50 words from lists A, B, C, D, E to inform the end of year report will be on 18.05.20.
+Summary test of all 50 words from lists A, B, C, D, E to inform the end of year report will be on 18 May 2020.
 
 If your child finds spelling a challenge at the moment I would recommend you only focus on the common exception words set out above in the 5 lists A-E and do not worry about the spelling rule lists which are stuck in and sent home as these spelling rules will be revised again through the course of year 4 - use year 3 to consolidate and secure the common exception words. Children will get two spelling scores in their book each week - out of 10 for the common exception words and out of 10 for the words following the rules. Just encourage them in their endeavours and praise any improvements on the common exception words.
 
@@ -149,6 +179,4 @@ Warm regards,
 
 Ruthy Trevitt
 
-[![](/images/wordsAndSoundsMat.png)](/docs/wordsAndSoundsMat.pdf)
-
-[![](/images/year1to4commonExceptionWords.png)](/docs/year1to4commonExceptionWords.pdf)
+[![](/images/wordsAndSoundsMat.png)](/docs/wordsAndSoundsMat.pdf) [![](/images/year1to4commonExceptionWords.png)](/docs/year1to4commonExceptionWords.pdf)

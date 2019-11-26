@@ -19,4 +19,5 @@ If your child suffers from travel sickness please send an email to your class te
 Could parent helpers please sign in at the main reception and then make your way to the classroom to meet up with the teacher and read the risk assessment before the class departs for the trip.
 
 Many thanks,
+
 Year 3 teachers

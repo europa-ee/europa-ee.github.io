@@ -13,7 +13,7 @@ tags:
 
 Dear parents,
 
-Please come to room 99 for parents evening appointments, not the classroom. As we will be starting appointments when the classroom is in use then all of the meetings will be in room 99 which is in the hostel block, opposite the Thame Lane reception office. There will be a few chairs outside to wait on. 
+Please come to **room 99** for parents evening appointments, not the classroom. As we will be starting appointments when the classroom is in use then all of the meetings will be in **room 99** which is in the hostel block, opposite the Thame Lane reception office. There will be a few chairs outside to wait on. 
 
 Many thanks,
 

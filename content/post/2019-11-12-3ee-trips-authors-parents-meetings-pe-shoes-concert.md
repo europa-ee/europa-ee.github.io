@@ -61,20 +61,32 @@ c) The English song will be the traditional Sussex Carol, On Christmas Night. It
 &nbsp;
 
 On Christmas night all Christians sing
+
 to hear the news the angels bring;
+
 on Christmas night all Christians sing
+
 to hear the news the angels bring:
+
 news of great joy, news of great mirth,
+
 news of the merciful King's birth.
 
 &nbsp;
 
 All out of darkness there is light,
+
 which made the angels sing this night;
+
 all out of darkness there is light
+
 which made the angels sing this night:
+
 “Glory to God, goodwill and peace
+
 be to all now and never cease!”
+
+&nbsp;
 
 
 Mrs R Trevitt
