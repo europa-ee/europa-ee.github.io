@@ -149,6 +149,6 @@ Warm regards,
 
 Ruthy Trevitt
 
-[[](images/wordsAndSoundsMat.png)](docs/wordsAndSoundsMat.pdf)
+[![](/images/wordsAndSoundsMat.png)](/docs/wordsAndSoundsMat.pdf)
 
-[[](images/year1to4commonExceptionWords.png)](docs/year1to4commonExceptionWords.pdf)
+[![](/images/year1to4commonExceptionWords.png)](/docs/year1to4commonExceptionWords.pdf)

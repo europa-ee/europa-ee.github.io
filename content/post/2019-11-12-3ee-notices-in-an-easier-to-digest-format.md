@@ -17,5 +17,5 @@ Many thanks,
 Ruthy
 
 
-[[](images/Dear 3EE parents.png)](docs/Dear 3EE parents.docx)
-[[](images/English Christmas Song 2019.png)](docs/English Christmas Song 2019.docx)
+[![](/images/Dear 3EE parents.png)](/docs/Dear 3EE parents.docx)
+[![](/images/English Christmas Song 2019.png)](/docs/English Christmas Song 2019.docx)
