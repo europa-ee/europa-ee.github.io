@@ -26,4 +26,4 @@ Many thanks,
 
 Ruthy Trevitt (English teacher for 3EE)
 
-[![](images/Matt Brown_Europa.png)](/docs/Matt Brown_Europa.pdf)
+[![](images/Matt Brown_Europa.png)](docs/Matt Brown_Europa.pdf)

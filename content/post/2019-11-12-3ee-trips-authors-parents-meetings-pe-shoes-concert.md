@@ -15,7 +15,10 @@ Dear 3EE parents,
 There are five points of information for you in this email: trips, author visit, parents evening, PE shoes, and the Christmas concert. We hope you find it  helpful and apologise for the short notice of some of the details.
 
 Many thanks,
+
 Ruthy Trevitt and Sofia Morton 
+
+&nbsp;
 
 **1) TRIPS**
 
@@ -55,30 +58,22 @@ b) We will have our class Christmas party after the concert, in 3EE with a chanc
 
 c) The English song will be the traditional Sussex Carol, On Christmas Night. It is a lovely Engish folk melody (a chance to share English culture) and also tells the Christmas story in a simple way. The words have been slightly amended to ensure that the children are singing about what Christians believe and not ascribing those beliefs to themselves so that it is suitable for children of any faith or none. If you would like to sing along at home as your child learns it please find the words below. We are also seeing if we can play along with glockenspiels - 29 violins/cellos take too long to tune! Any musical parents may like to know we are doing it in the key of F major and the glockenspiels will be playing a drone of C and F on the first beat of the bar for most of the lines, then a drone of C and G for the penultimate line of the verse before returning to C and F. At least that is the plan!
 
+&nbsp;
+
 On Christmas night all Christians sing
-
 to hear the news the angels bring;
-
 on Christmas night all Christians sing
-
 to hear the news the angels bring:
-
 news of great joy, news of great mirth,
-
 news of the merciful King's birth.
 
 &nbsp;
 
 All out of darkness there is light,
-
 which made the angels sing this night;
-
 all out of darkness there is light
-
 which made the angels sing this night:
-
 “Glory to God, goodwill and peace
-
 be to all now and never cease!”
 
 
