@@ -5,11 +5,11 @@ date: "2018-03-26T00:48:15-07:00"
 
 <br/>
 
-<iframe src="https://calendar.google.com/calendar/b/2/embed?title=Class%203EE%20Calendar&height=600&wkst=1&bgcolor=%23FFFFFF&src=europa.ee.2016%40gmail.com&color=%231B887A&src=uuhn0nb244pv3reh1bbs6m4fps%40group.calendar.google.com&color=%234f86f7&src=43hkv2m0lftg1df5g8rfrgs06k4q2obc@import.calendar.google.com&ctz=Europe%2FLondon&color=%23182C57" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/2/embed?title=Class%203EE%20Calendar&height=600&wkst=1&bgcolor=%23FFFFFF&src=europa.ee.2016%40gmail.com&color=%231B887A&src=uuhn0nb244pv3reh1bbs6m4fps%40group.calendar.google.com&color=%23691426&src=43hkv2m0lftg1df5g8rfrgs06k4q2obc@import.calendar.google.com&ctz=Europe%2FLondon&color=%23182C57" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <br/>
 
 * <span style="color:#1B887A">**3EE Events**<span>
-* <span style="color:#4f86f7">**Birthdays**</span>
+* <span style="color:#691426">**Birthdays**</span>
 * <span style="color:#182C57">**Europa School Events**</span>
 
