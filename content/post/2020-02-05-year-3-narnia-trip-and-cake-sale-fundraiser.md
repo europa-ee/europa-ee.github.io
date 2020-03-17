@@ -23,4 +23,5 @@ If you are able to assist in the set up or running of the cake sale on either Th
 Also if you have any clean ice-cream tubs or similar small/medium sized reusable tubs which people could use to take home multiple cakes then that may encourage more sales. Please donate any suitable clean and dry tubs with lids at the same time as you bring in cake/biscuit donations on Wednesday 4th or Thursday 5th March. 
 
 Many thanks,
+
 Ruthy Trevitt
