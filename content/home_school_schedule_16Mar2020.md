@@ -132,9 +132,15 @@ date: "2020-03-16T08:00:00+00:00"
 
 * 'Trial of the century'
 
+[![](/images/lk23_09.jpg)](http://www.bricktestament.com/the_life_of_jesus/trial_of_the_century/jn18_13p19.html)
+
 * 'The crucifixion' 
 
+[![](/images/lk23_44-45.jpg)](http://www.bricktestament.com/the_life_of_jesus/the_crucifixion/mt27_27p29-30.html)
+
 * 'The empty Tomb'
+
+[![](/images/jn20_14.jpg)](http://www.bricktestament.com/the_life_of_jesus/the_empty_tomb/jn20_01.html)
 
 Don't include 'the fate of Judas' as it portrays Judas as he hanged himself in remorse, not suitable for this age group - just explain that he regretted betraying Jesus.
 
