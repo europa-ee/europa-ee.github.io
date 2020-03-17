@@ -15,7 +15,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Activity:** PE: we will be following the exercise video available here for free (it is on a subscription site but some trial sessions are free to view) - [https://watch.lesmillsondemand.com/born-to-move-free/season:1/videos/born-to-move-17-6-7-baila-with-me](https://watch.lesmillsondemand.com/born-to-move-free/season:1/videos/born-to-move-17-6-7-baila-with-me)
 
-<iframe src="https://watch.lesmillsondemand.com/born-to-move-free/season:1/videos/born-to-move-17-6-7-baila-with-me" width="720" height="405" frameborder="0" allowfullscreen></iframe>
+[![](/images/bornToMove.png)](https://watch.lesmillsondemand.com/born-to-move-free/season:1/videos/born-to-move-17-6-7-baila-with-me")
 
 &nbsp;
 
@@ -121,6 +121,8 @@ date: "2020-03-16T08:00:00+00:00"
 **Time:** 9.45 - 10.10
 
 **Activity:** RE: tell the Easter story as Christians believe it using the brick testament website (illustrations of bible stories in Lego), go to the life of Jesus and read 'Last supper', 'Jesus is arrested', 'Trial of the century', 'The crucifixion', 'The empty Tomb'. don't include 'the fate of Judas' as it portrays Judas as he hanged himself in remorse, not suitable for this age group - just explain that he regretted betraying Jesus. Follow up work on this tomorrow. RE not covered every week hence a longer focus on it this week. Link to brick testament [http://www.thebricktestament.com/the_life_of_jesus/index.html](http://www.thebricktestament.com/the_life_of_jesus/index.html)
+
+<iframe src="http://www.thebricktestament.com/the_life_of_jesus/index.html" width="720" height="405" frameborder="0"></iframe>
 
 &nbsp;
 
