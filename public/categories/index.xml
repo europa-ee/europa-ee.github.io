@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Europa Español-English Class 2016</title>
@@ -6,17 +6,17 @@
     <description>Recent content in Categories on Europa Español-English Class 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 26 Apr 2019 16:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 13:37:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Annoncements</title>
-      <link>/categories/annoncements/</link>
-      <pubDate>Fri, 26 Apr 2019 16:47:00 +0000</pubDate>
+      <title>Announcements</title>
+      <link>/categories/announcements/</link>
+      <pubDate>Mon, 16 Mar 2020 13:37:00 +0000</pubDate>
       
-      <guid>/categories/annoncements/</guid>
+      <guid>/categories/announcements/</guid>
       <description></description>
     </item>
     
@@ -30,11 +30,11 @@
     </item>
     
     <item>
-      <title>Announcements</title>
-      <link>/categories/announcements/</link>
-      <pubDate>Fri, 17 May 2019 16:37:00 +0000</pubDate>
+      <title>Annoncements</title>
+      <link>/categories/annoncements/</link>
+      <pubDate>Fri, 26 Apr 2019 16:47:00 +0000</pubDate>
       
-      <guid>/categories/announcements/</guid>
+      <guid>/categories/annoncements/</guid>
       <description></description>
     </item>
     

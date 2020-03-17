@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Europa Español-English Class 2016</title>
@@ -6,33 +6,24 @@
     <description>Recent content in Tags on Europa Español-English Class 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 Jun 2018 11:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 13:37:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>1ee</title>
-      <link>/tags/1ee/</link>
-      <pubDate>Mon, 25 Jun 2018 11:54:00 +0000</pubDate>
+      <title>3EE</title>
+      <link>/tags/3ee/</link>
+      <pubDate>Mon, 16 Mar 2020 13:37:00 +0000</pubDate>
       
-      <guid>/tags/1ee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2ee</title>
-      <link>/tags/2ee/</link>
-      <pubDate>Fri, 14 Jun 2019 18:43:00 +0000</pubDate>
-      
-      <guid>/tags/2ee/</guid>
+      <guid>/tags/3ee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
       <link>/tags/english/</link>
-      <pubDate>Fri, 14 Jun 2019 18:43:00 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2020 13:37:00 +0000</pubDate>
       
       <guid>/tags/english/</guid>
       <description></description>
@@ -41,9 +32,36 @@
     <item>
       <title>Español</title>
       <link>/tags/espa%C3%B1ol/</link>
-      <pubDate>Wed, 27 Mar 2019 14:12:00 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2020 18:54:00 +0000</pubDate>
       
       <guid>/tags/espa%C3%B1ol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2EE</title>
+      <link>/tags/2ee/</link>
+      <pubDate>Wed, 03 Jul 2019 19:35:00 +0000</pubDate>
+      
+      <guid>/tags/2ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class 2EE</title>
+      <link>/tags/class-2ee/</link>
+      <pubDate>Fri, 28 Jun 2019 17:09:00 +0000</pubDate>
+      
+      <guid>/tags/class-2ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish</title>
+      <link>/tags/spanish/</link>
+      <pubDate>Wed, 28 Nov 2018 14:15:00 +0000</pubDate>
+      
+      <guid>/tags/spanish/</guid>
       <description></description>
     </item>
     
@@ -57,11 +75,11 @@
     </item>
     
     <item>
-      <title>Spanish</title>
-      <link>/tags/spanish/</link>
-      <pubDate>Wed, 28 Nov 2018 14:15:00 +0000</pubDate>
+      <title>1EE</title>
+      <link>/tags/1ee/</link>
+      <pubDate>Mon, 25 Jun 2018 11:54:00 +0000</pubDate>
       
-      <guid>/tags/spanish/</guid>
+      <guid>/tags/1ee/</guid>
       <description></description>
     </item>
     
