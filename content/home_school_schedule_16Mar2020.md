@@ -3,7 +3,6 @@ title: "3EE Class Topics for 16 March 2020, Monday"
 date: "2020-03-16T08:00:00+00:00"
 ---
 
-
 **Time** | **Topic/Activities**
 :--- | :---
 8.25 - 8.40 | Registration: change books, set up and change shoes for PE
