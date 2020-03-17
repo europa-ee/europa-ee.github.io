@@ -15,6 +15,8 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Activity:** PE: we will be following the exercise video available here for free (it is on a subscription site but some trial sessions are free to view) - [https://watch.lesmillsondemand.com/born-to-move-free/season:1/videos/born-to-move-17-6-7-baila-with-me](https://watch.lesmillsondemand.com/born-to-move-free/season:1/videos/born-to-move-17-6-7-baila-with-me)
 
+<iframe src="https://watch.lesmillsondemand.com/born-to-move-free/season:1/videos/born-to-move-17-6-7-baila-with-me" width="720" height="405" frameborder="0" allowfullscreen></iframe>
+
 &nbsp;
 
 **Time:** 9.00 - 9.45
