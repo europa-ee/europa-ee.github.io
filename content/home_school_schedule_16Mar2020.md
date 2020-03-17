@@ -169,11 +169,15 @@ Create more of your own fractions problems using shape and number and keep using
 
 **Activity:** Music, children will learn more violin, if they are at home they could go on charanga music, practise another instrument they already play or go to bbc bitesize, primary, KS2 (key stage 2), music and explore some of the sections found there [https://www.bbc.co.uk/bitesize/subjects/zwxhfg8](https://www.bbc.co.uk/bitesize/subjects/zwxhfg8)
 
+[![](/images/bitesizeMusic.png)](https://www.bbc.co.uk/bitesize/subjects/zwxhfg8)
+
 &nbsp;
 
 **Time:** 1-2.00 
 
 **Activity:** Science (discovery of the world), food chains, try activities and watch class clips on BBC bitesize, KS2, science, foodchains and habitats [https://www.bbc.co.uk/bitesize/topics/zbnnb9q](https://www.bbc.co.uk/bitesize/topics/zbnnb9q).
+
+[![](/images/bitesizeFoodChains.png)](https://www.bbc.co.uk/bitesize/topics/zbnnb9q)
 
 &nbsp;
 
