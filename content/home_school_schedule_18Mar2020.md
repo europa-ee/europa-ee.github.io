@@ -15,21 +15,21 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Activity:** Comprehension using a music video [http://mrparkinsonict.blogspot.com/2013/04/music-videos-to-inspire-writing.html](http://mrparkinsonict.blogspot.com/2013/04/music-videos-to-inspire-writing.html) and questions below it, the narrative music video is to Chris Malinchak's song 'So good to me'and the questions are
 
-    * Watch the first 20 seconds - how is the girl feeling? What makes you think that? What might she be doing? 
+* Watch the first 20 seconds - how is the girl feeling? What makes you think that? What might she be doing? 
     
-    * Pause just before a minute - how has the girl's feelings changed? Why do you think that is? What might she have lost? What could she do now that may help?
+* Pause just before a minute - how has the girl's feelings changed? Why do you think that is? What might she have lost? What could she do now that may help?
 
-    * Pause again at 1.42 - Has the girl's feelings changed even more now? Why do you think that maybe?
+* Pause again at 1.42 - Has the girl's feelings changed even more now? Why do you think that maybe?
 
-    * Once the giraffe appears - are you shocked why? How does the girl feel now?
+* Once the giraffe appears - are you shocked why? How does the girl feel now?
     
-    * Write a description of the giraffe - what does it look like? smell? feel?
+* Write a description of the giraffe - what does it look like? smell? feel?
 
-    * Research and write a non chronological report on giraffes.
+* Research and write a non chronological report on giraffes.
 
-    * Write a set of instructions for keeping a giraffe as a pet.
+* Write a set of instructions for keeping a giraffe as a pet.
 
-    * If you could choose any animal in the world to keep as a pet, what would it be and why? What would you do with them? How would you need to change your house to take care of it?
+* If you could choose any animal in the world to keep as a pet, what would it be and why? What would you do with them? How would you need to change your house to take care of it?
 
 <hr>
 

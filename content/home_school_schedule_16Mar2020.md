@@ -9,7 +9,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Activity:** Registration: change books, set up and change shoes for PE
 
-&nbsp;
+<hr>
 
 **Time:** 8.40 - 9.00
 
@@ -17,7 +17,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 [![](/images/bornToMove.png)](https://watch.lesmillsondemand.com/born-to-move-free/season:1/videos/born-to-move-17-6-7-baila-with-me")
 
-&nbsp;
+<hr>
 
 **Time:** 9.00 - 9.45
 
@@ -116,7 +116,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 20. inflexible
 
-&nbsp;
+<hr>
 
 **Time:** 9.45 - 10.10
 
@@ -152,7 +152,7 @@ Link to brick testament [http://www.thebricktestament.com/the_life_of_jesus/inde
 
 [![](/images/brickTestament.png)](http://www.thebricktestament.com/the_life_of_jesus/index.html)
 
-&nbsp;
+<hr>
 
 **Time:** 10.30-11.00 
 **Activity:** Maths, fractions - objective is to learn that if one of the equal parts and the number of parts is known the whole can be constructed.
@@ -171,7 +171,7 @@ Example 3:
 
 ![](/images/fraction3.png)
 
-&nbsp;
+<hr>
 
 Create more of your own fractions problems using shape and number and keep using PART, EQUAL PARTS and WHOLE, ask a friend/parent to solve them. 
 
@@ -179,7 +179,7 @@ Create more of your own fractions problems using shape and number and keep using
 
 * Number problem e.g. if one part of a plate of cupcakes is 3 cup cakes and there are 4 equal parts how many cakes are there on the whole plate?
 
-&nbsp;
+<hr>
 
 **Time:** 11-11.45
 
@@ -187,7 +187,7 @@ Create more of your own fractions problems using shape and number and keep using
 
 [![](/images/bitesizeMusic.png)](https://www.bbc.co.uk/bitesize/subjects/zwxhfg8)
 
-&nbsp;
+<hr>
 
 **Time:** 1-2.00 
 
@@ -195,13 +195,13 @@ Create more of your own fractions problems using shape and number and keep using
 
 [![](/images/bitesizeFoodChains.png)](https://www.bbc.co.uk/bitesize/topics/zbnnb9q)
 
-&nbsp;
+<hr>
 
 **Time:** 2.00-2.35 
 
 **Activity:** Touch typing and can then practise typing up Narnia stories (photocopies of Narnia stories will go home with children or be posted to those self isolating)
 
-&nbsp;
+<hr>
 
 **Time:** 2.50-3.30 
 
