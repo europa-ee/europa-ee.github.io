@@ -31,7 +31,11 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Time:** 11.30 - 11.45 
 
-**Activity:** class adventure, fantasy, crime story - the flight of the magic clog. If you are at home you could read a chapter or two of an adventure story with your children e.g. another Narnia adventure or Harry Potter or Emil and the detectives or Carbonel the witches cat (there are a second and third book in this series - we read the first book in class in September.)
+**Activity:** class adventure, fantasy, crime story - the flight of the magic clog. 
+
+![](/images/magicalClog.jpg)
+
+If you are at home you could read a chapter or two of an adventure story with your children e.g. another Narnia adventure or Harry Potter or Emil and the detectives or Carbonel the witches cat (there are a second and third book in this series - we read the first book in class in September.)
 
 <hr>
 
