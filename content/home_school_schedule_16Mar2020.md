@@ -159,17 +159,17 @@ Link to brick testament [http://www.thebricktestament.com/the_life_of_jesus/inde
 
 Example 1:
 
-![](/images/fraction1.png)
+![](/images/fractions1.png)
 
 
 Example 2:
 
-![](/images/fraction2.png)
+![](/images/fractions2.png)
 
 
 Example 3:
 
-![](/images/fraction3.png)
+![](/images/fractions3.png)
 
 <hr>
 
