@@ -1,5 +1,5 @@
 ---
-title: "3EE Class Topics for 17 March 2020, Tuesda"
+title: "3EE Class Topics for 17 March 2020, Tuesday"
 date: "2020-03-16T08:00:00+00:00"
 ---
 
