@@ -157,6 +157,22 @@ Link to brick testament [http://www.thebricktestament.com/the_life_of_jesus/inde
 **Time:** 10.30-11.00 
 **Activity:** Maths, fractions - objective is to learn that if one of the equal parts and the number of parts is known the whole can be constructed.
 
+Example 1:
+
+![](/images/fraction1.png)
+
+
+Example 2:
+
+![](/images/fraction2.png)
+
+
+Example 3:
+
+![](/images/fraction3.png)
+
+&nbsp;
+
 Create more of your own fractions problems using shape and number and keep using PART, EQUAL PARTS and WHOLE, ask a friend/parent to solve them. 
 
 * Shape problem e.g. if one part of the shape is a square and there are 5 equal parts what could the whole shape be? A long oblong (meaning longer in one dimension than another) rectangle, a cross shape, an L shape or other. 
