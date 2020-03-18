@@ -18,4 +18,6 @@ This research will be used after the scheduled Easter holidays to put together a
 
 Many thanks,
 
-Year 3 team 
+Year 3 team
+
+[![](/images/bealeParkFactFile.png)](/docs/Beale Park bilingual animal factfile (1).pdf)
