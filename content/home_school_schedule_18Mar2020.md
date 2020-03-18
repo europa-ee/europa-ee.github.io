@@ -37,7 +37,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Activity:** Grammar lesson on how to use speech marks (also known as inverted commas); Teaching video [https://www.youtube.com/watch?v=6-YFmLctwDY](https://www.youtube.com/watch?v=6-YFmLctwDY)
 
-{{< youtube https://www.youtube.com/watch?v=6-YFmLctwDY >}}
+{{< youtube 6-YFmLctwDY >}}
 
 The main points are: 
 
