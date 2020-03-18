@@ -43,6 +43,8 @@ If you are at home you could read a chapter or two of an adventure story with yo
 
 **Activity:** Touch typing practise using BBC bitesize, KS2, computing, Information Technology, dance mat touch typing programme for 15 mins at the link [https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) and then write your own retelling of the Easter Story, using the Lego Brick testament pictures [http://www.thebricktestament.com/the_life_of_jesus/index.html](http://www.thebricktestament.com/the_life_of_jesus/index.html) to help you. A picture and caption sheet for your retelling is on google classroom scheduled to appear on Tuesday 17th March at 8am
 
+![](/images/bitesizeTouchType.png)
+
 <hr>
 
 **Time:** 2.00 - 2.30 and 2.50 - 3.30
