@@ -13,7 +13,11 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Time:** 8.50 - 9.30
 
-**Activity:** Comprehension using a music video [http://mrparkinsonict.blogspot.com/2013/04/music-videos-to-inspire-writing.html](http://mrparkinsonict.blogspot.com/2013/04/music-videos-to-inspire-writing.html) and questions below it, the narrative music video is to Chris Malinchak's song 'So good to me'and the questions are
+**Activity:** Comprehension using a music video
+
+{{< youtube KrMl32cuC2A >}}
+
+[http://mrparkinsonict.blogspot.com/2013/04/music-videos-to-inspire-writing.html](http://mrparkinsonict.blogspot.com/2013/04/music-videos-to-inspire-writing.html) and questions below it, the narrative music video is to Chris Malinchak's song 'So good to me'and the questions are
 
 * Watch the first 20 seconds - how is the girl feeling? What makes you think that? What might she be doing? 
     
