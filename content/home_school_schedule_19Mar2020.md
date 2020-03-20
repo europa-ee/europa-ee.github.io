@@ -33,7 +33,7 @@ Realiza las páginas 5, 6, 7 y 8 del cuadernillo de ortografía (Lengua evoluci�
 
 ### 3. Utiliza el link para repasar las figuras geométricas y haz los juegos.
 
-[![](/images/lasFigures.png)](https://www.onlinefreespanish.com/aplica/lessons/shapes/shapesmenu.htm#.XnRgKS2cbUI)
+[![](/images/lasFiguras.png)](https://www.onlinefreespanish.com/aplica/lessons/shapes/shapesmenu.htm#.XnRgKS2cbUI)
 
 ### 4. Realiza la actividad sobre las figuras geométricas.
 
