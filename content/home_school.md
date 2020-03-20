@@ -7,6 +7,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 # [Getting ready for distance learning](/home_school_getting_ready/)
 
+&nbsp;
 
 # Daily schedule
 
@@ -15,6 +16,8 @@ date: "2020-03-17T08:39:00+00:00"
 * [Tuesday - 17 March 2020](/home_school_schedule_17Mar2020/)
 
 * [Wednesday - 18 March 2020](/home_school_schedule_18Mar2020/)
+
+* [Thursday - 19 March 2020](/home_schoo_schedule_19March2020/)
 
 <br/>
 <br/>

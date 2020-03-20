@@ -75,5 +75,6 @@ See google classroom for a squared paper template to use for these drawings) the
 
 If you are at home you could read a chapter or two of an adventure story with your children e.g. another Narnia adventure or Harry Potter or Emil and the detectives or Carbonel the witches cat (there are a second and third book in this series - we read the first book in class in September.)
 
-
+<br/>
+<br/>
 
