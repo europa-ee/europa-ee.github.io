@@ -17,7 +17,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Wednesday - 18 March 2020](/home_school_schedule_18Mar2020/)
 
-* [Thursday - 19 March 2020](/home_school_schedule_19March2020/)
+* [Thursday - 19 March 2020](/home_school_schedule_19Mar2020/)
 
 <br/>
 <br/>
