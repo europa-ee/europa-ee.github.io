@@ -33,7 +33,7 @@ Realiza las páginas 5, 6, 7 y 8 del cuadernillo de ortografía (Lengua evoluci�
 
 3. Utiliza el link para repasar las figuras geométricas y haz los juegos.
 
-[Las Figuras](https://www.onlinefreespanish.com/aplica/lessons/shapes/shapesmenu.htm#.XnRgKS2cbUI)
+[![](/images/lasFigures.png)](https://www.onlinefreespanish.com/aplica/lessons/shapes/shapesmenu.htm#.XnRgKS2cbUI)
 
 4. Realiza la actividad sobre las figuras geométricas.
 
@@ -41,9 +41,9 @@ Realiza las páginas 5, 6, 7 y 8 del cuadernillo de ortografía (Lengua evoluci�
 
 5. Haz un dibujo utilizando distintas figuras geométricas que has aprendido.
 
-**PDF** | **PPT**
-:---: | :---:
-[![](/images/figures.png)](/docs/figuras.pdf) | [![](/images/figures.png)](/docs/figuras.ppt) 
+**PDF** | &nbsp; &nbsp; | **PPT**
+:---: | :---: | :---:
+[![](/images/figures.png)](/docs/figuras.pdf) | &nbsp; &nbsp; | [![](/images/figures.png)](/docs/figuras.ppt) 
 
 **NOTE:** Srta Sofia provided a PowerPoint (PPT) format of the figures for this exercise. This can be opened in Google Slides but the shapes and figures cannot be manipulated. A Google Slides format version has been shared to all the kids which can be opened in Google Slides and the shapes and figures inside can be moved, re-sized and re-shaped to make their creations.
 
