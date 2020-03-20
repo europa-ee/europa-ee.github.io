@@ -45,6 +45,8 @@ Realiza las páginas 5, 6, 7 y 8 del cuadernillo de ortografía (Lengua evoluci�
 :---: | :---:
 [![](/images/figures.png)](/docs/figuras.pdf) | [![](/images/figures.png)](/docs/figuras.ppt) 
 
+**NOTE:** Srta Sofia provided a PowerPoint (PPT) format of the figures for this exercise. This can be opened in Google Slides but the shapes and figures cannot be manipulated. A Google Slides format version has been shared to all the kids which can be opened in Google Slides and the shapes and figures inside can be moved, re-sized and re-shaped to make their creations.
+
 <br/>
 <br/>
 
