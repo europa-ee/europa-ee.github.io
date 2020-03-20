@@ -21,6 +21,8 @@ date: "2020-03-16T08:00:00+00:00"
 
 Realiza las páginas 5, 6, 7 y 8 del cuadernillo de ortografía (Lengua evolución) Letra **ch**
 
+[![](/images/lenguaEvolución.png)](/docs/lección2_ch.pdf)
+
 <hr>
 
 ## Matematicas
