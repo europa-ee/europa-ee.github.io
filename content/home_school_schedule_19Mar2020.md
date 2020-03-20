@@ -5,45 +5,49 @@ date: "2020-03-16T08:00:00+00:00"
 
 &nbsp;
 
-**DoW: Los nacionalidades y los paises**
+## DoW: Los nacionalidades y los paises
 
-1. Escucha la canción sobre los países donde se habla Español.
+### 1. Escucha la canción sobre los países donde se habla Español.
 
 [![](/images/Países.png)](https://rockalingua.com/videos/spanish-speaking-countries)
 
-2. Hazte un pasaporte Español. Completa la información.
+### 2. Hazte un pasaporte Español. Completa la información.
 
 [![](/images/spanishPassport.png)](/docs/t2-sp-13822-spanish-passport-template-activity_ver_1.pdf)
 
 <hr>
 
-**Ortografia**
+## Ortografia
 
 Realiza las páginas 5, 6, 7 y 8 del cuadernillo de ortografía (Lengua evolución) Letra **ch**
 
 <hr>
 
-**Matematicas**
+## Matematicas
 
-1. Repasamos la tabla de multiplicar del 2 y del 4.
+### 1. Repasamos la tabla de multiplicar del 2 y del 4.
 
-2. Realiza las multiplicaciones de la ficha.
+### 2. Realiza las multiplicaciones de la ficha.
 
 [![](/images/multiplicaciones del 2 y 4.png)](/docs/multiplicaciones del 2 y 4.pdf)
 
-3. Utiliza el link para repasar las figuras geométricas y haz los juegos.
+### 3. Utiliza el link para repasar las figuras geométricas y haz los juegos.
 
 [![](/images/lasFigures.png)](https://www.onlinefreespanish.com/aplica/lessons/shapes/shapesmenu.htm#.XnRgKS2cbUI)
 
-4. Realiza la actividad sobre las figuras geométricas.
+### 4. Realiza la actividad sobre las figuras geométricas.
 
 [![](/images/figuras geometricas Activ.png)](/docs/figuras geometricas Activ.pdf)
 
-5. Haz un dibujo utilizando distintas figuras geométricas que has aprendido.
+### 5. Haz un dibujo utilizando distintas figuras geométricas que has aprendido.
 
-**PDF** | &nbsp; &nbsp; | **PPT**
+
+
+PDF | &nbsp; &nbsp; | PPT
 :---: | :---: | :---:
 [![](/images/figures.png)](/docs/figuras.pdf) | &nbsp; &nbsp; | [![](/images/figures.png)](/docs/figuras.ppt) 
+
+
 
 **NOTE:** Srta Sofia provided a PowerPoint (PPT) format of the figures for this exercise. This can be opened in Google Slides but the shapes and figures cannot be manipulated. A Google Slides format version has been shared to all the kids which can be opened in Google Slides and the shapes and figures inside can be moved, re-sized and re-shaped to make their creations.
 
