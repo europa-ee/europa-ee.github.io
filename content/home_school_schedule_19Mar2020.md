@@ -43,7 +43,7 @@ Realiza las páginas 5, 6, 7 y 8 del cuadernillo de ortografía (Lengua evoluci�
 
 
 
-PDF | &nbsp; &nbsp; | PPT
+**PDF** | &nbsp; &nbsp; | **PPT**
 :---: | :---: | :---:
 [![](/images/figuras.png)](/docs/figuras.pdf) | &nbsp; &nbsp; | [![](/images/figuras.png)](/docs/figuras.ppt) 
 
