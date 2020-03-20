@@ -45,7 +45,7 @@ Realiza las páginas 5, 6, 7 y 8 del cuadernillo de ortografía (Lengua evoluci�
 
 PDF | &nbsp; &nbsp; | PPT
 :---: | :---: | :---:
-[![](/images/figures.png)](/docs/figuras.pdf) | &nbsp; &nbsp; | [![](/images/figures.png)](/docs/figuras.ppt) 
+[![](/images/figuras.png)](/docs/figuras.pdf) | &nbsp; &nbsp; | [![](/images/figuras.png)](/docs/figuras.ppt) 
 
 
 
