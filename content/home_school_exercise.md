@@ -15,7 +15,7 @@ Starting Monday 23rd March, The Body Coach Joe Wicks will be hosting daily free 
 
 Wworkouts are fun and suitable for all ages and even adults can get involved. No equipment needed, just tune in to his YouTube channel at 9am each morning for a 30-minute, fun workout.
 
-{{< youtube PLyCLoPd4VxBvPHOpzoEk5onAEbq40g2-k >}}
+<iframe width="720" height="405" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLyCLoPd4VxBvPHOpzoEk5onAEbq40g2-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
@@ -32,8 +32,7 @@ Wworkouts are fun and suitable for all ages and even adults can get involved. No
 
 ## Cook with Bun
 
-{{< youtube UCzoE7ovYfd-0BTFjPY6UHZw >}}
-
+{{< youtube QQOBbbx3xaw >}}
 
 <br/>
 <br/>
