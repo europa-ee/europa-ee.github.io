@@ -5,9 +5,9 @@ date: "2020-03-17T08:39:00+00:00"
 
 &nbsp;
 
-## Aprendamos en casa
+## Aprendemos en casa
 
-[![](/images/aprendamos.jpg)](http://www.educacionyfp.gob.es/prensa/actualidad/2020/03/20200321-mefprtve.html)
+[![](/images/aprendemos.jpg)](http://www.educacionyfp.gob.es/prensa/actualidad/2020/03/20200321-mefprtve.html)
 
 <hr>
 
