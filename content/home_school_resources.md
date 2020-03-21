@@ -21,6 +21,8 @@ This [page](/home_school_general/) is a compilation of general resources provide
 
 This [page](/home_school_european/) contains the list of resources included in the "recommendations to parents"" document provided by the Office of the Secretary General of European Schools.
 
+<hr>
+
 ## [Physical Education and Exercise](/home_school_exercise/)
 
 This [page](/home_school_exercise/) is a compilation of resources for physical education and exercise to do with the kids that can be incorporated into the kids home learning routine or just as part of daily family routine to keep active and healthy while at home. These are suggestions made by parents who have used these resources with their children and the whole family.

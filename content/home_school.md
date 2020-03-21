@@ -7,11 +7,11 @@ date: "2020-03-17T08:39:00+00:00"
 
 # [Getting ready for distance learning](/home_school_getting_ready/)
 
-&nbsp;
+<hr>
 
 # [Distance learning resources](/home_school_resources/)
 
-&nbsp;
+<hr>
 
 # Daily schedule
 
