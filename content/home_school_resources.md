@@ -11,7 +11,7 @@ For younger (primary) students, this is something that parents are expected to r
 
 <hr>
 
-## [General resources shared by Europa School UK](/home_schoo_general/)
+## [General resources shared by Europa School UK](/home_school_general/)
 
 This [page](/home_school_general/) is a compilation of general resources provided by the school to help parents with home learning.
 
