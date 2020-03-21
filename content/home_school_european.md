@@ -5,6 +5,10 @@ date: "2020-03-17T08:39:00+00:00"
 
 &nbsp;
 
+This [page](/home_school_european/) contains the list of resources included in the "recommendations to parents"" document provided by the Office of the Secretary General of European Schools.
+
+<hr>
+
 ## Gynzy Kids
 
 **Website:** [https://www.gynzykids.com/#/en-us/leerling/index/oefenen](https://fr.khanacademy.org/math/be-1ere-primaire2)
