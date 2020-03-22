@@ -19,7 +19,7 @@ This [page](/home_school_general/) is a compilation of general resources provide
 
 ## [General resources shared by the Office of the Secretary General of European Schools](/home_school_european/)
 
-This [page](/home_school_european/) contains the list of resources included in the "recommendations to parents"" document provided by the Office of the Secretary General of European Schools.
+This [page](/home_school_european/) contains the list of resources included in the "recommendations to parents" document provided by the Office of the Secretary General of European Schools.
 
 <hr>
 
