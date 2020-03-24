@@ -11,7 +11,7 @@ This [page](/home_school_european/) contains the list of resources included in t
 
 ## Gynzy Kids
 
-**Website:** [https://www.gynzykids.com/#/en-us/leerling/index/oefenen](https://fr.khanacademy.org/math/be-1ere-primaire2)
+**Website:** [https://www.gynzykids.com/#/en-us/leerling/index/oefenen](https://www.gynzykids.com/#/en-us/leerling/index/oefenen)
 
 **Language:** EN/NL
 
@@ -51,7 +51,7 @@ This [page](/home_school_european/) contains the list of resources included in t
 
 ## Khan Academy
 
-**Website:** [https://fr.khanacademy.org/math/be-1ere-primaire2}(https://fr.khanacademy.org/math/be-1ere-primaire2)
+**Website:** [https://fr.khanacademy.org/math/be-1ere-primaire2](https://fr.khanacademy.org/math/be-1ere-primaire2)
 
 **Language:** FR/EN
 

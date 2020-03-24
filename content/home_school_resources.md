@@ -23,6 +23,12 @@ This [page](/home_school_european/) contains the list of resources included in t
 
 <hr>
 
+## [General resources shared by parents](/home_school_other/)
+
+This [page](/home_school_other/) contains list of resources shared by parents.
+
+<hr>
+
 ## [Physical Education and Exercise](/home_school_exercise/)
 
 This [page](/home_school_exercise/) is a compilation of resources for physical education and exercise to do with the kids that can be incorporated into the kids home learning routine or just as part of daily family routine to keep active and healthy while at home. These are suggestions made by parents who have used these resources with their children and the whole family.
@@ -32,7 +38,6 @@ This [page](/home_school_exercise/) is a compilation of resources for physical e
 ## [Español](/home_school_espanol/)
 
 This [page](/home_school_espanol/) is a compilation of resources for learning Spanish.
-
 
 <br/>
 <br/>
