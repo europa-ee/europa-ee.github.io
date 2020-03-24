@@ -27,7 +27,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 * Monday - 23 March 2020 - Teachers' Training
 
-* Tuesday - 24 March 2020
+* [Tuesday - 24 March 2020](/home_school_schedule_24Mar2020/)
 
 * [Wedensday - 25 March 2020] (/home_school_schedule_25Mar2020/)
 
