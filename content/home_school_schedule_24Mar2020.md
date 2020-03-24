@@ -11,7 +11,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 White Rose Lesson A Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
 
-:---: | :---:  
+
 [Worksheet](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-WO2-Making-the-whole-2019.pdf) | [Answers](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-ANS2-Making-the-whole-2019.pdf) 
 
 <hr>
@@ -20,7 +20,13 @@ White Rose Lesson A Year 3 - [https://whiterosemaths.com/homelearning/year-3/](h
 
 **Activity:** PE: PE with Joe
 
-[https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
+Today's Kids Workout
+
+{{< youtube 6v-a_dpwhro >}}
+
+Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
+
+
 
 <hr>
 
@@ -30,7 +36,6 @@ White Rose Lesson A Year 3 - [https://whiterosemaths.com/homelearning/year-3/](h
 
 White Rose Lesson B Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
 
-:---: | :---:  
 [Worksheet](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-WO3-Tenths-2019.pdf) | [Answers](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-ANS3-Tenths-2019.pdf)
 
 <hr>
