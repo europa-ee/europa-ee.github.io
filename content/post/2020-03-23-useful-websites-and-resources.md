@@ -17,27 +17,27 @@ Please see below additional resources that children can use independently to con
 
 ## Interactives activities, experiments, educational videos and games for all different subjects.
 
-    * [https://www.mundoprimaria.com/juegos-educativos](https://www.mundoprimaria.com/juegos-educativos)
+* [https://www.mundoprimaria.com/juegos-educativos](https://www.mundoprimaria.com/juegos-educativos)
     
-    * [https://happylearning.tv/](https://happylearning.tv/)
+* [https://happylearning.tv/](https://happylearning.tv/)
     
-    * [https://smileandlearn.com/](https://smileandlearn.com/)
+* [https://smileandlearn.com/](https://smileandlearn.com/)
     
-    * [https://arbolabc.com/lecturas-cortas-para-ni%C3%B1os](https://arbolabc.com/lecturas-cortas-para-ni%C3%B1os)
+* [https://arbolabc.com/lecturas-cortas-para-ni%C3%B1os](https://arbolabc.com/lecturas-cortas-para-ni%C3%B1os)
     
-    * [https://www.onlinefreespanish.com/](https://www.onlinefreespanish.com/)
+* [https://www.onlinefreespanish.com/](https://www.onlinefreespanish.com/)
 
 
 ## Songs, worksheets and games
 
-    * [https://rockalingua.com/](https://rockalingua.com/)
+* [https://rockalingua.com/](https://rockalingua.com/)
 
 
 ## Storyteller
 
-    * [https://www.youtube.com/channel/UCY0TNnnoZMapIQ3cXv1M1rg](https://www.youtube.com/channel/UCY0TNnnoZMapIQ3cXv1M1rg)
+* [https://www.youtube.com/channel/UCY0TNnnoZMapIQ3cXv1M1rg](https://www.youtube.com/channel/UCY0TNnnoZMapIQ3cXv1M1rg)
 
-    * [https://www.youtube.com/user/BeatrizMontero/videos](https://www.youtube.com/user/BeatrizMontero/videos)
+* [https://www.youtube.com/user/BeatrizMontero/videos](https://www.youtube.com/user/BeatrizMontero/videos)
 
 I hope you will find these useful.
 
