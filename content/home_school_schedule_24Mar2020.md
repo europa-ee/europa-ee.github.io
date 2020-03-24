@@ -7,7 +7,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 **Time:** 09.00 - 09.30
 
-**Activity:** Maths: White Rose Lesson A Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+**Activity:** Maths: White Rose Lesson 1 Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
 
 <hr>
 
@@ -21,7 +21,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 **Time:** 10.00 - 10:30
 
-**Activity:** Maths: White Rose Lesson B Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+**Activity:** Maths: White Rose Lesson 2 Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
 
 <hr>
 
