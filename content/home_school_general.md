@@ -13,6 +13,8 @@ This [page](/home_school_general/) is a compilation of general resources provide
 
 [![](/images/homeLearning.png)](/docs/Home Learning graphic.pdf)
 
+<hr>
+
 ## Distance learning recommendations to parents from the Office of the Secretary General of the European Schools
 
 [![](/images/distanceLearningRecommendations.png)](http://europaschooluk.org/wp-content/uploads/2020/03/2020-03-D-21-en-Recommendations-to-parents-on-how-to-support-learning-at-home-during-temporary-suspension-of-obligatory-regular-attendance-of-Pupils.pdf)
