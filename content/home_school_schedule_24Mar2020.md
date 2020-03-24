@@ -7,7 +7,12 @@ date: "2020-03-24T08:00:00+00:00"
 
 **Time:** 09.00 - 09.30
 
-**Activity:** Maths: White Rose Lesson 1 Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+**Activity:** Maths: Making the whole
+
+White Rose Lesson A Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+
+:---: | :---:  
+[Worksheet](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-WO2-Making-the-whole-2019.pdf) | [Answers](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-ANS2-Making-the-whole-2019.pdf) 
 
 <hr>
 
@@ -21,7 +26,12 @@ date: "2020-03-24T08:00:00+00:00"
 
 **Time:** 10.00 - 10:30
 
-**Activity:** Maths: White Rose Lesson 2 Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+**Activity:** Maths: Tenths
+
+White Rose Lesson B Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+
+:---: | :---:  
+[Worksheet](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-WO3-Tenths-2019.pdf) | [Answers](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-ANS3-Tenths-2019.pdf)
 
 <hr>
 
@@ -33,13 +43,19 @@ date: "2020-03-24T08:00:00+00:00"
 
 **Time:** 11:00 - 11.30 
 
-**Activity:** English: Comprehension (??)
+**Activity:** English: Comprehension
+
+Schofield and Sims Comprehension book pages 28-29 - The Story of Hellen Keller.
+
+Read the passage and then try and answer the questions. If you get the chance then discuss them with a friend or a grown up. If you get really stuck, read your reading book and try a reading journal activity instead, see below. Spend about 20-30 minutes on either the comprehension or reading journal activity.
 
 <hr>
 
 **Time:** 11.30 - 12.00
 
 **Activity:** English creative writing
+
+Use one of the interesting story starts below to write your own adventure or borrow one of their ideas and twist it a bit! You can write it using cursive handwriting take a picture and send it to me or type it and submit it that way. You can finish or improve it tomorrow.
 
 <hr>
 
