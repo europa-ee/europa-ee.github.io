@@ -49,6 +49,8 @@ Schofield and Sims Comprehension book pages 28-29 - The Story of Hellen Keller.
 
 Read the passage and then try and answer the questions. If you get the chance then discuss them with a friend or a grown up. If you get really stuck, read your reading book and try a reading journal activity instead, see below. Spend about 20-30 minutes on either the comprehension or reading journal activity.
 
+[![](/images/schofieldAndSims.png)](/docs/hellenKeller.pdf)
+
 <hr>
 
 **Time:** 11.30 - 12.00
