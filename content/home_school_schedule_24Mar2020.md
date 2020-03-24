@@ -51,6 +51,8 @@ Read the passage and then try and answer the questions. If you get the chance th
 
 [![](/images/schofieldAndSims.png)](/docs/hellenKeller.pdf)
 
+[![](/images/readingJournal.png)](/docs/Reading_Journal_activities RT.pdf)
+
 <hr>
 
 **Time:** 11.30 - 12.00
@@ -58,6 +60,8 @@ Read the passage and then try and answer the questions. If you get the chance th
 **Activity:** English creative writing
 
 Use one of the interesting story starts below to write your own adventure or borrow one of their ideas and twist it a bit! You can write it using cursive handwriting take a picture and send it to me or type it and submit it that way. You can finish or improve it tomorrow.
+
+[![](/images/startStory.png)](/docs/startStory.pdf)
 
 <hr>
 
