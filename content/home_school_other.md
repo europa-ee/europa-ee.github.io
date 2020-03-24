@@ -179,7 +179,7 @@ This [page](/home_school_other/) contains list of resources shared by parents.
 
 ## Nature Detectives
 
-**Website:** [https://naturedetectives.woodlandtrust.org.uk/naturedetect…/](https://naturedetectives.woodlandtrust.org.uk/naturedetectives/)
+**Website:** [https://naturedetectives.woodlandtrust.org.uk/naturedetectives/](https://naturedetectives.woodlandtrust.org.uk/naturedetectives/)
 
 **Description:** A lot of these can be done in a garden, or if you can get to a remote forest location!
 
