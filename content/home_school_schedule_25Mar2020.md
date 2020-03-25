@@ -5,6 +5,50 @@ date: "2020-03-16T08:00:00+00:00"
 
 &nbsp;
 
+**Time:** 09.00 - 09.30
+
+**Activity:** Maths: Count in tenths
+
+White Rose Lesson 4 Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+
+[Worksheet](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-WO4-Count-in-tenths-2019.pdf) | [Answers](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-ANS4-Count-in-tenths-2019.pdf)
+
+<hr>
+
+**Time:** 09.30 - 10.00
+
+**Activity:** PE: PE with Joe
+
+Today's Kids Workout - TBA
+
+Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
+
+<hr>
+
+**Time:** 10.00 - 10:30
+
+**Activity:** English: Grammar
+
+Nelson Grammar Pupil Book 3 Unit 1 - Articles
+
+Read then do the exercises on pages 6 and 7 assigned below. Then get out your purple grammar folder that went home. If you found page 6 and 7 tricky try the "support" sheet for Unit 1 Articles. If you found page 6 and 7 easy then try the "extension" sheet Unit 1 Articles (other side of the "support" sheet).
+
+<hr>
+
+**Time:** 10.30 - 11.00
+
+**Activity:** BREAK
+
+<hr>
+
+**Time:** 11:00 - 11.30 
+
+**Activity:** English: Writing
+
+Either finish the story you started yesterday or write someone you know a letter. Maybe you could write to someone who is feeling lonely at the moment. There are some reminders in the PDF below about what a letter needs to have in it. You can send pictures of your letters or tell me what you had sent back in reply. If you are handwriting don't let the curse of the cursive get you!
+
+<hr>
+
 ## Comprensión lectora
 
 ### 1. Lee el cuento "El Palacio de la reina"
