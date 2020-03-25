@@ -19,7 +19,9 @@ White Rose Lesson 4 Year 3 - [https://whiterosemaths.com/homelearning/year-3/](h
 
 **Activity:** PE: PE with Joe
 
-Today's Kids Workout - TBA
+Today's Kids Workout
+
+{{< youtube 4wzoy_J3I_c >}}
 
 Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
 
