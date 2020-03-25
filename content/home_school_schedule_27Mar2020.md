@@ -48,8 +48,6 @@ Your browser does not support the audio element.
 
 ### 4. Realiza la hoja de trabajo de Quique.
 
-
-
 <hr>
 
 ## Matematicas
