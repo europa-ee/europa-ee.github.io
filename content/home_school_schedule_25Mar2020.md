@@ -5,6 +5,16 @@ date: "2020-03-16T08:00:00+00:00"
 
 &nbsp;
 
+**Activity:** PE: PE with Joe
+
+Today's Kids Workout
+
+{{< youtube 4wzoy_J3I_c >}}
+
+Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
+
+<hr>
+
 **Time:** 09.00 - 09.30
 
 **Activity:** Maths: Count in tenths
@@ -17,13 +27,11 @@ White Rose Lesson 4 Year 3 - [https://whiterosemaths.com/homelearning/year-3/](h
 
 **Time:** 09.30 - 10.00
 
-**Activity:** PE: PE with Joe
+**Activity:** Maths: Tenths as decimals
 
-Today's Kids Workout
+White Rose Lesson 5 Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
 
-{{< youtube 4wzoy_J3I_c >}}
-
-Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
+[Worksheet](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-WO5-Tenths-as-decimals-2019.pdf) | [Answers](https://wrm-13b48.kxcdn.com/wp-content/uploads/2020/homelearning/year-3/Y3-Spring-Block-5-ANS5-Tenths-as-decimals-2019.pdf)
 
 <hr>
 
