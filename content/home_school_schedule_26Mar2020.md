@@ -5,6 +5,30 @@ date: "2020-03-16T08:00:00+00:00"
 
 &nbsp;
 
+## DoW: La ciudad
+
+### 1. Lee la canción.
+
+[![](/images/21_lirycs_pasoaladerecha.png)](/docs/21_lirycs_pasoaladerecha.pdf)
+
+### 2. Escucha la canción y cántala.
+
+[![](/images/un_paso_a_la_derecha.png)](https://rockalingua.com/videos/directions-right-left)
+
+### 3. Mira y lee las flashcards
+
+**Flashcard 1** | **Flashcard 2** | **Flashcard 3**
+:---: | :---: | :---:
+[![](/images/Flashcard1.jpeg)](/docs/Flashcard1.pdf) | [![](/images/Flashcard2.jpeg)](/docs/Flashcard2.pdf) | [![](/images/Flashcard3.jpeg)](/docs/Flashcard3.pdf)
+
+### 4. Ahora sin mirar las flashcards realiza las actividades, ¿recuerdas?
+
+**Actividad 1** | **Actividad 2** | **Actividad 3**
+:---: | :---: | :---:
+[![](/images/Une con flechas direcciones.png)](/docs/Une con flechas direcciones.pdf) | [![](/images/Une con flechas lugares.jpeg)](/docs/Une con flechas lugares.jpeg) | [![](/images/Elige la opción correcta.jpeg)](/docs/Elige la opción correcta.pdf)
+
+<hr>
+
 ## Español
 
 ### 1. Lee la página 4 y 5 de Colega 3
