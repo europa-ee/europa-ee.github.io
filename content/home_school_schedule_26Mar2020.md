@@ -17,15 +17,15 @@ date: "2020-03-16T08:00:00+00:00"
 
 ### 3. Mira y lee las flashcards
 
-**Flashcard 1** | **Flashcard 2** | **Flashcard 3**
-:---: | :---: | :---:
-[![](/images/Flashcard1.jpeg)](/docs/Flashcard1.pdf) | [![](/images/Flashcard2.jpeg)](/docs/Flashcard2.pdf) | [![](/images/Flashcard3.jpeg)](/docs/Flashcard3.pdf)
+**Flashcard 1** | &nbsp; &nbsp; | **Flashcard 2** | &nbsp; &nbsp; | **Flashcard 3**
+:---: | :---: | :---: | :---: | :---:
+[![](/images/Flashcard1.jpeg)](/docs/Flashcard1.pdf) | &nbsp; &nbsp; | [![](/images/Flashcard2.jpeg)](/docs/Flashcard2.pdf) | &nbsp; &nbsp; | [![](/images/Flashcard3.jpeg)](/docs/Flashcard3.pdf)
 
 ### 4. Ahora sin mirar las flashcards realiza las actividades, ¿recuerdas?
 
-**Actividad 1** | **Actividad 2** | **Actividad 3**
-:---: | :---: | :---:
-[![](/images/Une con flechas direcciones.png)](/docs/Une con flechas direcciones.pdf) | [![](/images/Une con flechas lugares.jpeg)](/docs/Une con flechas lugares.jpeg) | [![](/images/Elige la opción correcta.jpeg)](/docs/Elige la opción correcta.pdf)
+**Actividad 1** | &nbsp; &nbsp; | **Actividad 2** | &nbsp; &nbsp; | **Actividad 3**
+:---: | :---: | :---: | :---: | :---:
+[![](/images/Une con flechas direcciones.png)](/docs/Une con flechas direcciones.pdf) | &nbsp; &nbsp; | [![](/images/Une con flechas lugares.jpeg)](/docs/Une con flechas lugares.jpeg) | &nbsp; &nbsp; | [![](/images/Elige la opción correcta.jpeg)](/docs/Elige la opción correcta.pdf)
 
 <hr>
 
@@ -37,9 +37,9 @@ date: "2020-03-16T08:00:00+00:00"
 
 ### 2. Contesta a las preguntas de las actividades
 
-**Verbo ser** | **Verbo vivir**
-:---: | :---:
-[![](/images/verbo ser.png)](/docs/verbo ser.pdf) | [![](/images/verbo vivir.png)](/docs/verbo vivir.pdf)
+**Verbo ser** | &nbsp; &nbsp; | **Verbo vivir**
+:---: | :---: | :---:
+[![](/images/verbo ser.png)](/docs/verbo ser.pdf) | &nbsp; &nbsp; | [![](/images/verbo vivir.png)](/docs/verbo vivir.pdf)
 
 <hr>
 
@@ -51,8 +51,12 @@ date: "2020-03-16T08:00:00+00:00"
 
 ### 2. Realiza los juegos de la tabla del 2 y del 4 en el link.
 
+**Tabla 2**
 [![](/images/tabla2_ArbolABC.png)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-2)
 
+&nbsp:
+
+**Tabla 4**
 [![](/images/tabla4_ArbolABC.png)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-4)
 
 
