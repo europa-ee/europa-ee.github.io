@@ -43,6 +43,8 @@ Nelson Grammar Pupil Book 3 Unit 1 - Articles
 
 Read then do the exercises on pages 6 and 7 assigned below. Then get out your purple grammar folder that went home. If you found page 6 and 7 tricky try the "support" sheet for Unit 1 Articles. If you found page 6 and 7 easy then try the "extension" sheet Unit 1 Articles (other side of the "support" sheet).
 
+[![](/images/NelGramYr3Page6and7.png)](/docs/NelGramYr3pupilP6andP7.pdf)
+
 <hr>
 
 **Time:** 10.30 - 11.00
@@ -56,6 +58,8 @@ Read then do the exercises on pages 6 and 7 assigned below. Then get out your pu
 **Activity:** English: Writing
 
 Either finish the story you started yesterday or write someone you know a letter. Maybe you could write to someone who is feeling lonely at the moment. There are some reminders in the PDF below about what a letter needs to have in it. You can send pictures of your letters or tell me what you had sent back in reply. If you are handwriting don't let the curse of the cursive get you!
+
+[Instructions for letter writing](/docs/instructions for letter writing.pdf)
 
 <hr>
 
