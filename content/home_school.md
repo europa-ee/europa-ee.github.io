@@ -29,12 +29,19 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Tuesday - 24 March 2020](/home_school_schedule_24Mar2020/)
 
-* [Wedensday - 25 March 2020] (/home_school_schedule_25Mar2020/)
+* [Wednesday - 25 March 2020](/home_school_schedule_25Mar2020/)
 
-* Thursday - 26 March 2020
+* [Thursday - 26 March 2020](/home_school_schedule_26Mar2020/)
 
-* Friday - 27 March 2020
+* [Friday - 27 March 2020](/home_school_schedule_27Mar2020/)
 
+# Spelling
+
+* [23 March 2020](/spelling_23Mar2020/)
+
+
+
+* 
 
 <br/>
 <br/>
