@@ -60,6 +60,18 @@ Your browser does not support the audio element.
 
 [![](/images/Actividad medir.png)](/docs/Actividad medir.pdf)
 
+<hr>
+
+## Arte: Libro las tiendas, manualidad
+
+### 1. Realiza la manualidad de las tiendas en forma de librito.
+
+[![](/images/laciudad craft.png)](/docs/laciudad craft.pdf)
+
+### 2. Ve el video tutorial que explica cómo hacerio.
+
+[![](/images/laciudadCraft.png)](https://rockalingua.com/videos/craft-la-ciudad)
+
 <br/>
 <br/>
 
