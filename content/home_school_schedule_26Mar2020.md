@@ -54,7 +54,7 @@ date: "2020-03-16T08:00:00+00:00"
 **Tabla 2**
 [![](/images/tabla2_ArbolABC.png)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-2)
 
-&nbsp:
+&nbsp;
 
 **Tabla 4**
 [![](/images/tabla4_ArbolABC.png)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-4)
