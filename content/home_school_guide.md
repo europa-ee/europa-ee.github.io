@@ -9,7 +9,11 @@ This [page](/home_schoo_guide/) contains parent-created or parent-curated guides
 
 <hr>
 
-## [Working on PDF documents](/home_school_annotation)
+## [Working on PDF documents using iPad or Android tablets](/home_school_annotation)
+
+<hr>
+
+## [Working on PDF documents using Windows PC or macOS](/home_school_annotation_computer)
 
 <br/>
 <br/>
