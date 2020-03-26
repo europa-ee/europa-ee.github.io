@@ -1,5 +1,5 @@
 ---
-title: "Working on PDF documents"
+title: "Working on PDF documents on iPad or Android tablets"
 date: "2020-03-17T08:39:00+00:00"
 ---
 
@@ -7,7 +7,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 This is a step-by-step guide on how to work with assignments/school work that are in PDF documents. This approach is an alternative to printing PDF documents, answering them on paper and scanning/imaging paper assignment for submission online. This guide is specific to using Google Suite for Education specifically Google Classroom on a tablet device (iPad specifically but steps applicable also to Android tablets).
 
-Before starting, it would be good to be aware of the ideal setup when using an iPad or an Android tablet or Google Suite for Education. On a computer, the access to Google Suite for Education is via a browser, ideally Google Chrome, and the applications included in the Google Suite for Education is made available via your Google account through the browser. For iPads and Android tablets, the browser can also be used in the same way as you would on a computer. However, there are specific applications available on these devices that provide optimised utilisation of the Google Suite for Education. From experience so far, the set of Google applications that are best to have on an iPad or Android tablet for use in education are those show in the image below:
+Before starting, it would be good to be aware of the ideal setup when using an iPad or an Android tablet for Google Suite for Education. On a computer, the access to Google Suite for Education is via a browser, ideally Google Chrome, and the applications included in the Google Suite for Education is made available via your Google account through the browser. For iPads and Android tablets, the browser can also be used in the same way as you would on a computer. However, there are specific applications available on these devices that provide optimised utilisation of the Google Suite for Education. From experience so far, the set of Google applications that are best to have on an iPad or Android tablet for use in education are those show in the image below:
 
 ![](/images/guides/annotation01.png)
 
