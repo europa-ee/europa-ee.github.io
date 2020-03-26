@@ -60,6 +60,14 @@ Your browser does not support the audio element.
 
 <hr>
 
+## DoW: Dibujo mi ciudad
+
+### 1. Dibuja una ciudad como te gustaría y pon en ella los lugares que has apprendido, puedes poner otros lugares que quieras y conozcas
+
+### 2. Escribe el nombre de los lugares en el plano de tu ciudad y ponle un nombre e tu ciudad.
+
+<hr>
+
 ## Matematicas
 
 ### 1. Aprende sobre el centímetro.
