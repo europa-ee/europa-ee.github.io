@@ -48,6 +48,8 @@ Your browser does not support the audio element.
 
 ### 4. Realiza la hoja de trabajo de Quique.
 
+[![](/images/Quique vive en Argentina hoja de trabajo.png)](/docs/Quique vive en Argentina hoja de trabajo.pdf)
+
 <hr>
 
 ## Matematicas
