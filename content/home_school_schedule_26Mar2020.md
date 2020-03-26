@@ -25,7 +25,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Actividad 1** | &nbsp; &nbsp; | **Actividad 2** | &nbsp; &nbsp; | **Actividad 3**
 :---: | :---: | :---: | :---: | :---:
-[![](/images/Une con flechas direcciones.png)](/docs/Une con flechas direcciones.pdf) | &nbsp; &nbsp; | [![](/images/Une con flechas lugares.jpeg)](/docs/Une con flechas lugares.pdf) | &nbsp; &nbsp; | [![](/images/Elige la opción correcta.jpeg)](/docs/Elige la opción correcta.pdf)
+[![](/images/Une con flechas direcciones.png)](/docs/Une con flechas direcciones.pdf) | &nbsp; &nbsp; | [![](/images/Une con flechas lugares.jpeg)](/docs/Une con flechas lugares.pdf) | &nbsp; &nbsp; | [![](/images/Elige la opción correcta.jpeg)](/docs/Elige la opción correcta.pdf)
 
 <hr>
 
