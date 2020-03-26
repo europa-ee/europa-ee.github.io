@@ -52,6 +52,14 @@ Your browser does not support the audio element.
 
 <hr>
 
+## Comprensión lectora
+
+### 1. Responde a las preguntas sobre el libro de lectura "Cuando trabajé en el circo"
+
+[![](/images/cuando trabaje en el circo.png)](/docs/cuando trabaje en el circo.pdf)
+
+<hr>
+
 ## Matematicas
 
 ### 1. Aprende sobre el centímetro.
