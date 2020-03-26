@@ -47,6 +47,16 @@ Más de 5,000 actividades educativas para niños de 3 a 12 años
 
 <hr>
 
+## Linguascope
+
+[Linguascope](https://linguascope.com), the language learning platform.
+
+**Username:** europauk
+
+**Password:** linglang
+
+<hr>
+
 ## Rockalingua
 
 [Rockalingua](https://rockalingua.com) - music-based Spanish learning
