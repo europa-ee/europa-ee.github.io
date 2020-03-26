@@ -9,6 +9,10 @@ date: "2020-03-17T08:39:00+00:00"
 
 <hr>
 
+# [Guide to using Google Suite for Education](/home_school_guide/)
+
+<hr>
+
 # [Distance learning resources](/home_school_resources/)
 
 <hr>
