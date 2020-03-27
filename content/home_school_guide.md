@@ -15,6 +15,10 @@ This [page](/home_schoo_guide/) contains parent-created or parent-curated guides
 
 ## [Working on PDF documents using Windows PC or macOS](/home_school_annotation_computer)
 
+<hr>
+
+## [Using Zoom for videoconferencing](/home_school_zoom/)
+
 <br/>
 <br/>
 
