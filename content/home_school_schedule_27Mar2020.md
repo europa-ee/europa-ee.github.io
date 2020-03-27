@@ -70,6 +70,10 @@ Your browser does not support the audio element.
 
 ## Matematicas
 
+## Video explicativo "la longitud"
+
+[![](/images/laLongitud.png)](https://happylearning.tv/la-longitud-y-su-unidad-de-medida-el-metro)
+
 ### 1. Aprende sobre el centímetro.
 
 [![](/images/el centimetro.png)](/docs/el centimetro.pdf)
