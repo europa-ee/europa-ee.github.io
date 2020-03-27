@@ -7,9 +7,14 @@ date: "2020-03-17T08:39:00+00:00"
 
 Using [Zoom](https://zoom.us) requires the installation of their Meetings client into either a mobile device (iOS or Android platforms) or a computer/laptop (Windows PC or macOS). Their Meetings client is what allows for the more advanced functionalities available with [Zoom](https://zoom.us) compared to a web-only application such as Google Meet. Once Meetings client has been installed, you can already participate in [Zoom](https://zoom.us)-hosted meetings without having to create an account with [Zoom](https://zoom.us) (unless you already have a [Zoom](https://zoom.us) account or if you want to host a meeting). 
 
-Following is a step-by-step guide on how to get started with using [Zoom](https://zoom.us) for videoconferencing.
+Following is a step-by-step guide on how to get started with using [Zoom](https://zoom.us) for videoconferencing on various platforms.
+
+<a href="#android">Android</a> | <a href="#iOS">iOS</a> | <a href="#computer">Computer</a>
+
+<hr>
 
 ## For Android devices
+<a id="android"></a>
 
 ### Step 1: Install Zoom Meeting client
 
@@ -52,6 +57,7 @@ You will require a meeting ID (see below) to identify the meeting you want to jo
 <hr>
 
 ## For iOS devices (iPhone and iPad):
+<a id="iOS"></a>
 
 ### Step 1: Install Zoom Meeting client
 
@@ -94,6 +100,7 @@ You will require a meeting ID (see below) to identify the meeting you want to jo
 <hr>
 
 ## For computers/laptops (Windows PC or macOS):
+<a id="computer"></a>
 
 ### Step 1: Install Zoom Meeting client
 

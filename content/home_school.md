@@ -9,7 +9,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 <hr>
 
-# [Guide to using Google Suite for Education](/home_school_guide/)
+# [Guide to using various technologies for distance learning](/home_school_guide/)
 
 <hr>
 

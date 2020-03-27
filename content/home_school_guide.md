@@ -1,11 +1,11 @@
 ---
-title: "Guides to using Google Suite for Education"
+title: "Guides to using various technologies for distance learning"
 date: "2020-03-17T08:39:00+00:00"
 ---
 
 &nbsp;
 
-This [page](/home_schoo_guide/) contains parent-created or parent-curated guides to using Google Suite for Education for parents who are helping their kids out with home school.
+This [page](/home_schoo_guide/) contains parent-created or parent-curated guides to using various technologies for distance learning to help their kids out with home school.
 
 <hr>
 
