@@ -9,7 +9,9 @@ Using [Zoom](https://zoom.us) requires the installation of their Meetings client
 
 Following is a step-by-step guide on how to get started with using [Zoom](https://zoom.us) for videoconferencing on various platforms.
 
-<a href="#android">Android</a> | <a href="#iOS">iOS</a> | <a href="#computer">Computer</a>
+&nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp;
+:---: | :---: | :---: | :---: | :---: 
+<a href="#android">Android</a> | &nbsp; &nbsp; | <a href="#iOS">iOS</a> | &nbsp; &nbsp; | <a href="#computer">Computer</a>
 
 <hr>
 
