@@ -11,7 +11,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 **Topic/Focus:** Music into art
 
-**Teacher:** Rosa (Ale's mum)
+**Teacher:** Shibin (Leo's mum)
 
 **Description:**
 Session on music into art with introduction to [Paul Klee](https://en.wikipedia.org/wiki/Paul_Klee)'s work.
