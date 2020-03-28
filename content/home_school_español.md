@@ -24,12 +24,12 @@ Interactive Spanish session focusing on Latin American countries. The children h
 
 **Schedule:**
 
-**Time** | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | **Activity**
-:--- | --- | --- | --- | :--- 
-2.00 - 2.10 | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | Greetings and general conversation about how we all are feeling/doing.
-2.10 - 2.20 | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | General chat about what they know about Latin America; getting them to chat about different continents in the world; where do they speak Spanish in the world; Spain vs. Latin America.
-2.20 - 2.40 | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | Naming Latin American countries (I will ask each of the children to name countries - we will practice writing the names of the countries as well as adjectives for its people (e.g. Marco vive en Argentina; él es argentino - Marco lives in Argentina; he is Argentine).
-2.40 - 3.00 | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | Learning about Latin American countries: discuss fun things like flags and their colours, famous footballers/celebrities, type of music, food, climate/when is winter/summer.
+**Time** | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | **Activity**
+:--- | --- | --- | --- | --- | --- | :--- 
+2.00 - 2.10 | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | Greetings and general conversation about how we all are feeling/doing.
+2.10 - 2.20 | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | General chat about what they know about Latin America; getting them to chat about different continents in the world; where do they speak Spanish in the world; Spain vs. Latin America.
+2.20 - 2.40 | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | Naming Latin American countries (I will ask each of the children to name countries - we will practice writing the names of the countries as well as adjectives for its people (e.g. Marco vive en Argentina; él es argentino - Marco lives in Argentina; he is Argentine).
+2.40 - 3.00 | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | Learning about Latin American countries: discuss fun things like flags and their colours, famous footballers/celebrities, type of music, food, climate/when is winter/summer.
 
 <br/>
 <br/>
