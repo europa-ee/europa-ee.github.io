@@ -39,11 +39,22 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Friday - 27 March 2020](/home_school_schedule_27Mar2020/)
 
+<hr>
+
 # Spelling
 
 * [23 March 2020](/spelling_23Mar2020/)
 
 * [30 March 2020](/spelling_30Mar2020/)
+
+<hr>
+
+# Special sessions
+
+* [Class 3EE Español](/home_school_español/)
+
+* [Class 3EE Art Classes](/home_school_art/)
+
 
 <br/>
 <br/>
