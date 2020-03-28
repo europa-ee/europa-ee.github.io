@@ -35,9 +35,9 @@ This [page](/home_school_exercise/) is a compilation of resources for physical e
 
 <hr>
 
-## [Español](/home_school_espanol/)
+## [Español](/home_school_language/)
 
-This [page](/home_school_espanol/) is a compilation of resources for learning Spanish.
+This [page](/home_school_language/) is a compilation of resources for learning Spanish.
 
 <br/>
 <br/>
