@@ -5,7 +5,9 @@ date: "2020-03-17T08:39:00+00:00"
 
 &nbsp;
 
-**Date and Time:** 30 March 2020, Monday
+**Date:** 30 March 2020, Monday
+
+**Time:** 15:00 - 16:00
 
 **Topic/Focus:** Music into art
 

@@ -5,7 +5,9 @@ date: "2020-03-17T08:39:00+00:00"
 
 &nbsp;
 
-**Date and Time:** 23 March 2020, Monday
+**Date:** 23 March 2020, Monday
+
+**Time:** 14.00 - 15.00
 
 **Topic/Focus:** Latin American Countries
 
@@ -22,7 +24,7 @@ Interactive Spanish session focusing on Latin American countries. The children h
 
 **Schedule:**
 
-**Time** | &nbsp; &nbsp; | **Activity**
+**Time** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Activity**
 :--- | --- | :--- 
 2.00 - 2.10 | &nbsp; &nbsp; | Greetings and general conversation about how we all are feeling/doing.
 2.10 - 2.20 | &nbsp; &nbsp; | General chat about what they know about Latin America; getting them to chat about different continents in the world; where do they speak Spanish in the world; Spain vs. Latin America.
