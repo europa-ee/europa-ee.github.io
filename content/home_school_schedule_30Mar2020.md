@@ -43,15 +43,22 @@ White Rose Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://wh
 
 **Time:** 11:00 - 11.30 
 
-**Activity:** English: Comprehension
+**Activity:** English: Spelling
 
-Schofield and Sims Comprehension book pages 28-29 - The Story of Hellen Keller.
+Spelling to be tested today
 
-Read the passage and then try and answer the questions. If you get the chance then discuss them with a friend or a grown up. If you get really stuck, read your reading book and try a reading journal activity instead, see below. Spend about 20-30 minutes on either the comprehension or reading journal activity.
-
-[![](/images/schofieldAndSims.png)](/docs/hellenKeller.pdf)
-
-[![](/images/readingJournal.png)](/docs/Reading_Journal_activities RT.pdf)
+**Common Exception Words (A)** | &nbsp; &nbsp; | **Spelling test rule (time words)**
+:---: | :---: | :---:
+1. actually | &nbsp; &nbsp; | 11. often
+2. all | &nbsp; &nbsp; | 12. recent
+3. although | &nbsp; &nbsp; | 13. regular
+4. again | &nbsp; &nbsp; | 14. forwards
+5. favourite | &nbsp; &nbsp; | 15. perhaps
+6. are | &nbsp; &nbsp; | 16. probably
+7. our | &nbsp; &nbsp; | 17. certain
+8. your | &nbsp; &nbsp; | 18. favourite
+9. my | &nbsp; &nbsp; | 19. popular
+10. after | &nbsp; &nbsp; | 20. length
 
 <hr>
 
@@ -59,9 +66,7 @@ Read the passage and then try and answer the questions. If you get the chance th
 
 **Activity:** English creative writing
 
-Use one of the interesting story starts below to write your own adventure or borrow one of their ideas and twist it a bit! You can write it using cursive handwriting take a picture and send it to me or type it and submit it that way. You can finish or improve it tomorrow.
-
-[![](/images/startStory.png)](/docs/startStory.pdf)
+TBA
 
 <hr>
 
