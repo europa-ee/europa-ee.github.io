@@ -9,7 +9,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Activity:** Maths: Fractions of a set of objects (2)
 
-[![](/images/whiterose/y3/Y3Week2Lesson3Step6.png)](https://whiterosemaths.com/homelearning/year-3/)
+[![](/images/whiterose/y3/Y3Week2Lesson3Step8.png)](https://whiterosemaths.com/homelearning/year-3/)
 
 Follow the White Rose home learning video tutorial on their website of home learning for year 3 [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/) for week 2 lesson 3 and then print out and answer the questions on the sheet which is available on the website. Open the answers sheet, which is also available on the website, to mark your questions. If your printer isn't working or you want some more maths on the same topic do green Power Maths Book B p. 146-148. The answers for Power Maths are also below.
 
@@ -33,7 +33,7 @@ Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlR
 
 **Activity:** Maths: Fractions of a set of objects (3)
 
-[![](/images/whiterose/y3/Y3Week2Lesson4Step6.png)](https://whiterosemaths.com/homelearning/year-3/)
+[![](/images/whiterose/y3/Y3Week2Lesson4Step9.png)](https://whiterosemaths.com/homelearning/year-3/)
 
 Follow the White Rose home learning video tutorial on their website of home learning for year 3 [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/) for week 2 lesson 4 and then print out and answer the questions on the sheet which is available on the website. Open the answers sheet, which is also available on the website, to mark your questions. If your printer isn't working or you want some more maths on the same topic do green Power Maths Book B p. 149-151. The answers for Power Maths are also below.
 
