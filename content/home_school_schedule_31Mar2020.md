@@ -9,9 +9,13 @@ date: "2020-03-16T08:00:00+00:00"
 
 **Activity:** Maths: Fractions of a set of objects (2)
 
-White Rose Maths Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+[![](/images/whiterose/y3/Y3Week2Lesson1Step6.png)](https://whiterosemaths.com/homelearning/year-3/)
 
-[Worksheet](/docs/whiterose/y3/Lesson-3-Y3-Spring-Block-5-WO8-Fractions-of-a-set-of-objects-2-2019.pdf) | [Answers](/docs/whiterose/y3/Y3-Spring-Block-5-ANS8-Fractions-of-a-set-of-objects-2-2019.pdf)
+Follow the White Rose home learning video tutorial on their website of home learning for year 3 [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/) for week 2 lesson 3 and then print out and answer the questions on the sheet which is available on the website. Open the answers sheet, which is also available on the website, to mark your questions. If your printer isn't working or you want some more maths on the same topic do green Power Maths Book B p. 146-148. The answers for Power Maths are also below.
+
+**White Rose Worksheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **White Rose Answers** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Power Maths B Answers**
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+[![](/images/whiterose/y3/Lesson-3-Y3-Spring-Block-5-WO8-Fractions-of-a-set-of-objects-2-2019.png)](/docs/whiterose/y3/Lesson-3-Y3-Spring-Block-5-WO8-Fractions-of-a-set-of-objects-2-2019.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/whiterose/y3/Y3-Spring-Block-5-ANS8-Fractions-of-a-set-of-objects-2-2019.png)](/docs/whiterose/y3/Y3-Spring-Block-5-ANS8-Fractions-of-a-set-of-objects-2-2019.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u09_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u09_practicebookanswers.pdf)
 
 <hr>
 
@@ -29,9 +33,13 @@ Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlR
 
 **Activity:** Maths: Fractions of a set of objects (3)
 
-White Rose Maths Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+[![](/images/whiterose/y3/Y3Week2Lesson1Step6.png)](https://whiterosemaths.com/homelearning/year-3/)
 
-[Worksheet](/docs/whiterose/y3/Lesson-4-Y3-Spring-Block-5-WO9-Fractions-of-a-set-of-objects-3-2019.pdf) | [Answers](/docs/whiterose/y3/Y3-Spring-Block-5-ANS9-Fractions-of-a-set-of-objects-3-2019.pdf)
+Follow the White Rose home learning video tutorial on their website of home learning for year 3 [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/) for week 2 lesson 4 and then print out and answer the questions on the sheet which is available on the website. Open the answers sheet, which is also available on the website, to mark your questions. If your printer isn't working or you want some more maths on the same topic do green Power Maths Book B p. 149-151. The answers for Power Maths are also below.
+
+**White Rose Worksheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **White Rose Answers** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Power Maths B Answers**
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+[![](/images/whiterose/y3/Lesson-4-Y3-Spring-Block-5-WO9-Fractions-of-a-set-of-objects-3-2019.png)](/docs/whiterose/y3/Lesson-4-Y3-Spring-Block-5-WO9-Fractions-of-a-set-of-objects-3-2019.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/whiterose/y3/Y3-Spring-Block-5-ANS9-Fractions-of-a-set-of-objects-3-2019.png)](/docs/whiterose/y3/Y3-Spring-Block-5-ANS9-Fractions-of-a-set-of-objects-3-2019.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u09_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u09_practicebookanswers.pdf)
 
 <hr>
 
