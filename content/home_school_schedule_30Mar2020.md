@@ -11,7 +11,11 @@ date: "2020-03-24T08:00:00+00:00"
 
 White Rose Maths Year 3 - [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
 
-[Worksheet](/docs/whiterose/y3/Lesson-1-Y3-Spring-Block-5-WO6-Fractions-on-a-number-line-2019.pdf) | [Answers](/docs/whiterose/y3/Y3-Spring-Block-5-ANS6-Fractions-on-a-number-line-2019.pdf) 
+[![](/images/whiterose/y3/Y3Week2Lesson1Step6.png)](https://whiterosemaths.com/homelearning/year-3/)
+
+**Worksheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Answers**
+:---: | :---: | :---: | :---:
+[![](/images/whiterose/y3/Lesson-1-Y3-Spring-Block-5-WO6-Fractions-on-a-number-line-2019.png)](/docs/whiterose/y3/Lesson-1-Y3-Spring-Block-5-WO6-Fractions-on-a-number-line-2019.pdf) | [![](/images/whiterose/y3/Y3-Spring-Block-5-ANS6-Fractions-on-a-number-line-2019.png)](/docs/whiterose/y3/Y3-Spring-Block-5-ANS6-Fractions-on-a-number-line-2019.pdf)
 
 <hr>
 
