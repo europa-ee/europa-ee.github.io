@@ -78,9 +78,13 @@ Spelling to be tested today
 
 **Time:** 11.30 - 12.00
 
-**Activity:** English creative writing
+**Activity:** English: creative writing
 
-TBA
+Firstly - you only need to spend 30 minutes doing this so if you haven't finished all the tasks, that's ok, stop!
+
+Secondly - if you find you are loving limericks then you could carry it on as an afternoon project.
+
+The "Laughable limericks" document is attached twice. Once as a Google Doc if you want to type into it and as a PDF if you want to electronically fill it in or print it.
 
 <hr>
 
