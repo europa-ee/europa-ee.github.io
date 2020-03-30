@@ -55,9 +55,7 @@ Follow the White Rose home learning video tutorial on their website of home lear
 
 **Activity:** English: Spelling
 
-Spend only 30 minutes on spellings. Do the spelling test - get someone else (could be a sibling or grandma on the phone) to read out the list and maybe put them in a sentence to help you. If you still have time then try the spelling activity sheet and presentation attached below. I like the "picturing words" one as it is quite fun but I got stuck for a bit on the one with a picture of a boat. My tip is to ignore the boat and think of the proper name for the paddles you use in a rowing boat. Extension - can you make your own "picturing words" puzzles by drawing some parts of a long word (where there are words within the longer word), I'd love to try some of your puzzles! It's the holidays next week so no spellings to learn.
-
-Spelling to be tested today
+Spend only 30 minutes on spellings. Do the spelling test - get someone else (could be a sibling or grandma on the phone) to read out the list and maybe put them in a sentence to help you. 
 
 **Common Exception Words (A)** | &nbsp; &nbsp; | **Spelling test rule (time words)**
 :---: | :---: | :---:
@@ -72,7 +70,11 @@ Spelling to be tested today
 9. my | &nbsp; &nbsp; | 19. popular
 10. after | &nbsp; &nbsp; | 20. length
 
-[![](/images/spelling_key_words.png)](/docs/spelling_key_words.ppt)
+If you still have time then try the spelling activity sheet and presentation attached below. I like the "picturing words" one as it is quite fun but I got stuck for a bit on the one with a picture of a boat. My tip is to ignore the boat and think of the proper name for the paddles you use in a rowing boat. Extension - can you make your own "picturing words" puzzles by drawing some parts of a long word (where there are words within the longer word), I'd love to try some of your puzzles! It's the holidays next week so no spellings to learn.
+
+**PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
+:---: | :---: | :---: | :---: 
+[![](/images/spelling_key_words.png)](/docs/spelling_key_words.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/spelling_key_words.png)](/docs/spelling_key_words.pdf)
 
 <hr>
 
