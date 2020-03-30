@@ -6,5 +6,5 @@
 
 This is online home of the Europa School Español-English Class 2016.
 
-![](/images/class3EE.png)
+![](/static/images/class3EE.png)
 
