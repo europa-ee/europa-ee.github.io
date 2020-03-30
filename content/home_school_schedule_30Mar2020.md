@@ -23,7 +23,9 @@ Follow the White Rose home learning video tutorial on their website of home lear
 
 **Activity:** PE: PE with Joe
 
-Today's Kids Workout - TBA
+Today's Kids Workout
+
+{{< youtube sX05HHni9Wk >}}
 
 Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
 
