@@ -14,7 +14,10 @@ date: "2020-03-17T08:39:00+00:00"
 **May Picture** | &nbsp; &nbsp; | **Castle and Sun**
 :---: | :---: | :---:
 ![](/images/mayPicture.jpeg) | &nbsp; &nbsp; | ![](/images/castleAndSun.jpg)
-![](/images/newHarmony.jpeg) | &nbsp; &nbsp; | ![](/images/redBridge.jpg)
+
+**New Harmony** | &nbsp; &nbsp; | **Red Bridge**
+:---: | :---: | :---:
+![](/images/newHarmony.jpg) | &nbsp; &nbsp; | ![](/images/redBridge.jpg)
 
 **Teacher:** Shibin (Leo's mum)
 
@@ -73,13 +76,13 @@ Meeting ID: 526 006 1739
 
 **Tap "Participants" icon** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Tap hand icon**
 :---: | :---: | :---: | :---:
-![](/images/zoomMobile1.jpeg) &nbsp; &nbsp; | &nbsp; &nbsp; | ![](/images/zoomMobile2.jpeg)
+![](/images/zoomMobile1.jpeg) | &nbsp; &nbsp; | &nbsp; &nbsp; | ![](/images/zoomMobile2.jpeg)
 
 Speaker/facilitator will see your raised hand and will acknowledge as appropriate to allow you to ask your question or make a comment. You can then unmute your audio and then speak. When using a mobile device, make sure to swipe right and then tap the "Tap to speak" button before speaking (see below):
 
 **Swipe right** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Tap "Tap to speak" button**
 :---: | :---: | :---: | :---:
-![](/images/zoomMobile3.jpeg) &nbsp; &nbsp; | &nbsp; &nbsp; | ![](/images/zoomMobile4.jpeg)
+![](/images/zoomMobile3.jpeg) | &nbsp; &nbsp; | &nbsp; &nbsp; | ![](/images/zoomMobile4.jpeg)
 
 
 
