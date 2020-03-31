@@ -83,6 +83,30 @@ Beatriz Montero es escritora y coordinadora de la Red Internacional de Cuentacue
 
 https://www.youtube.com/user/BeatrizMontero/videos
 
+<hr>
+
+## Los días en que todo se detuvo
+
+[![](/images/losDiasEnQueTodoSeDetuvo.jpg)](https://pixelatl.com/es-MX/contenidos/FB06E116-D4B8-47DC-A15E-286BDAA71448/Los_dias_en_que_todo_se_detuvo.html)
+
+La actual pandemia consecuencia del llamado COVID-19 está afectando a todo el mundo. Los niños y niñas también han visto trastocada su vida, y comparten el azoro de todos, pero además observan a sus adultos de confianza angustiados por la incertidumbre, y no necesariamente encuentran el modo de expresarlo.
+
+En medio de la contingencia, Pixelatl junto con un grupo de artistas y creadores de México y Colombia hemos desarrollado este sencillo libro para niños, diseñado para que pueda ser leído junto con sus padres, como una herramienta más para ayudar a los pequeños a reflexionar en lo sucedido, y poder discutir con ellos las medidas de higiene y sana distancia recomendadas por las autoridades. Pero más allá de ello, como un pretexto para provocarlos a que expresen cómo se sienten, para ayudarlos a procesar la experiencia que estamos viviendo.
+
+Aquí les compartimos el libro. Puedes descargarlo en PDF en la siguiente liga:
+
+[![](/images/losDiasEnQueTodoSeDetuvo_book.png)](https://1cae4daa431a99d58259-9bdc952f8135a71056243221595a2db3.ssl.cf1.rackcdn.com/2817F16424614BDBB241D5D60FE6758A.pdf)
+
+<hr>
+
+## La biblioteca en marcha
+
+Cuentos en PDF y enlaces para la lectura
+
+A continuación os vamos a facilitar una serie de cuentos y libros y que os podréis descargar en PDF. Esperamos que sea del agrado de los chicos y de las chicas.
+
+[http://bibliojxxiii.blogspot.com/2020/03/cuentos-en-pdf-y-enlaces-para-la-lectura.html](http://bibliojxxiii.blogspot.com/2020/03/cuentos-en-pdf-y-enlaces-para-la-lectura.html)
+
 <br/>
 <br/>
 
