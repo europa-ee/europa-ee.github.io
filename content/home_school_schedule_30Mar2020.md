@@ -86,7 +86,23 @@ Firstly - you only need to spend 30 minutes doing this so if you haven't finishe
 
 Secondly - if you find you are loving limericks then you could carry it on as an afternoon project.
 
-The "Laughable limericks" document is attached twice. Once as a Google Doc if you want to type into it and as a PDF if you want to electronically fill it in or print it.
+The "[Laughable limericks](/docs/3EE Laughable limericks.pdf)" document is attached twice. Once as a Google Doc if you want to type into it and as a [PDF](/docs/3EE Laughable limericks.pdf) if you want to electronically fill it in or print it.
+
+**The Limerick Song@
+
+{{< youtube k-rN3DGMCsE >}}
+
+<br>
+
+**7 Little Limericks**
+
+{{< youtube VtLQO1Gk39g >}}
+
+<br>
+
+**How to write a limerick**
+
+{{< youtube kQ79VFgDr8Q >}}
 
 <hr>
 
