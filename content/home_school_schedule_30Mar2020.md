@@ -92,7 +92,7 @@ Secondly - if you find you are loving limericks then you could carry it on as an
 
 The "[Laughable limericks](/docs/3EE Laughable limericks.pdf)" document is attached twice. Once as a Google Doc if you want to type into it and as a [PDF](/docs/3EE Laughable limericks.pdf) if you want to electronically fill it in or print it.
 
-**The Limerick Song@
+**The Limerick Song**
 
 {{< youtube k-rN3DGMCsE >}}
 
