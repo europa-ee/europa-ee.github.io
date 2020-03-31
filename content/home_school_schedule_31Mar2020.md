@@ -77,7 +77,7 @@ You will need paper, or a writing book, and a pencil to record your instructions
 
 **Instructions** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Pictures**
 :---: | :---: | :---: | :---:
-[![](/images/instruction_rules 31.03.20_p1.png)](/docs/instruction_rules 31.03.20.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/imageas/cuptea.png)](/docs/cuptea.pdf)
+[![](/images/instruction_rules 31.03.20_p1.png)](/docs/instruction_rules 31.03.20.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/cuptea.png)](/docs/cuptea.pdf)
 
 <hr>
 
