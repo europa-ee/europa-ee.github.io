@@ -76,7 +76,7 @@ If you still have time then try the spelling activity sheet and presentation att
 :---: | :---: | :---: | :---: 
 [![](/images/spelling_key_words.png)](/docs/spelling_key_words.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/spelling_key_words.png)](/docs/spelling_key_words.pdf)
 
-[![](/images/picturing words.png)](/docs/picturing words.pdf)
+[![](/images/picturing_words.png)](/docs/picturing_words.pdf)
 
 <hr>
 
