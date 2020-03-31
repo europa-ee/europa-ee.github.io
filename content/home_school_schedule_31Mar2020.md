@@ -57,6 +57,8 @@ Follow the White Rose home learning video tutorial on their website of home lear
 
 Schofield and Sims Comprehension book p. 30-31 "Rebecca, who slammed doors for fun and perished miserably". Read the passage and then try and answer the questions. If you get a chance then discuss them with a friend or a grownup. If you get really stuck or finish early, read your reading book and try a reading journal activity instead, see below. Spend about 20-30 minutes in total on the comprehension or reading journal activity.
 
+[![](/images/schofieldAndSims.png)](/docs/Comprehension_Rebecca.pdf)
+
 <hr>
 
 **Time:** 11:30 - 12:00 
@@ -75,7 +77,9 @@ You will need paper, or a writing book, and a pencil to record your instructions
 
 5. Make someone a cup of tea (an adult may need to help with the boiling water part - assess the risk)
 
-[![](/images/instruction_rules 31.03.20_p1.png)](/docs/instruction_rules 31.03.20.pdf)
+**Instructions** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Pictures**
+:---: | :---: | :---: | :---:
+[![](/images/instruction_rules 31.03.20_p1.png)](/docs/instruction_rules 31.03.20.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/cuptea.png)](/docs/cuptea.pdf)
 
 <hr>
 
