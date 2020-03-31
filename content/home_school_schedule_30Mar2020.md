@@ -76,6 +76,10 @@ If you still have time then try the spelling activity sheet and presentation att
 :---: | :---: | :---: | :---: 
 [![](/images/spelling_key_words.png)](/docs/spelling_key_words.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/spelling_key_words.png)](/docs/spelling_key_words.pdf)
 
+**Picturing Words**
+
+[![](/images/picturing_words.png)](/docs/picturing_words.pdf)
+
 <hr>
 
 **Time:** 11.30 - 12.00
