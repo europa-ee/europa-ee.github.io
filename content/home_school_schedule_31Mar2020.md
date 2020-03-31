@@ -75,7 +75,7 @@ You will need paper, or a writing book, and a pencil to record your instructions
 
 5. Make someone a cup of tea (an adult may need to help with the boiling water part - assess the risk)
 
-[![](/images/instruction_rules 31.03.20.png)](/docs/instruction_rules 31.03.20.pdf)
+[![](/images/instruction_rules 31.03.20_p1.png)](/docs/instruction_rules 31.03.20.pdf)
 
 <hr>
 
