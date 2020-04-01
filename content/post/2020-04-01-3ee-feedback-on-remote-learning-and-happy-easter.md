@@ -1,7 +1,7 @@
 ---
 title: 3EE feedback on remote learning and happy Easter
 author: ~
-date: '2020-04-01'
+date: '2020-04-01T18:52:00'
 slug: 3ee-feedback-on-remote-learning-and-happy-easter
 categories:
     - Announcements
