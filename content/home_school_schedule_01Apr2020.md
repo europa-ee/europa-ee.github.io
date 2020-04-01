@@ -20,7 +20,9 @@ Power Maths Book B in p. 152-154
 
 **Activity:** PE: PE with Joe
 
-Today's Kids Workout - TBA
+Today's Kids Workout
+
+{{< youtube lEWcBIvqjDk >}}
 
 Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
 
