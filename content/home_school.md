@@ -45,6 +45,8 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Wednesday - 1 April 2020](/home_school_schedule_01Apr2020/)
 
+* [Thursday - 2 April 2020](/home_school_schedule_02Apr2020/)
+
 <hr>
 
 # Spelling
