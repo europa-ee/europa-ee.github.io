@@ -61,7 +61,8 @@ Then if you still have time you can get more practice with the "support" or "ext
 Extra for curious parents who love grammar or very curious pupils who like technical challenges - if you are wondering why "I" appears to take the plural form (the plural for "we" and "they" is "we like" and "they like" but the singular for he and she is "he likes" and "she likes", for the singular I thought it is "I like") and want a bit more information please go into the relevant document below. Parents with expert grammar knowledge please tell me if there are errors in the document below and I will endeavour to correct them, I have taken it from [https://www.quora.com/Why-is-I-treated-as-a-plural-subject](https://www.quora.com/Why-is-I-treated-as-a-plural-subject).
 
 **Nelson Grammer p 8-9** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Why I is plural**
-[![](/images/NelGramYr3pupilP8and9.png)](/docs/NelGramYr3pupilP8and9.pdf) &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/detailedGrammarInfo.png)](/docs/detailedGrammerInfo.pdf)
+:---: | :---: | :---: | :---: 
+[![](/images/NelGramYr3pupilP8and9.png)](/docs/NelGramYr3pupilP8and9.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/detailedGrammarInfo.png)](/docs/detailedGrammerInfo.pdf)
 
 <hr>
 
