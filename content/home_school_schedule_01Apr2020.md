@@ -13,7 +13,7 @@ Power Maths Book B in p. 152-154
 
 **Worksheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Answers**
 :---: | :---: | :---: | :---: 
-[![](/images/powermaths/y3/PowerMathsB_p152to154.png)](/docs/powermaths/y3/PowerMathsB_p152to154.pdf) &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u09_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u09_practicebookanswers.pdf)
+[![](/images/powermaths/y3/PowerMathsB_p152to154.png)](/docs/powermaths/y3/PowerMathsB_p152to154.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u09_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u09_practicebookanswers.pdf)
 
 
 <hr>
