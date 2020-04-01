@@ -45,7 +45,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 ### 1. Repasa la tabla del 3 y haz las multiplicaciones.
 
-[![](/images/t3-sp-121-my-living-room-spot-the-differences-game-spanish-espantildeol.png)](/docs/t3-sp-121-my-living-room-spot-the-differences-game-spanish-espantildeol.pdf)
+[![](/images/tabla del 3.png)](/docs/tabla del 3.pdf)
 
 ### 2. Practica con la tabla del 3 en el link que envío.
 
