@@ -37,7 +37,7 @@ Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlR
 Follow the White Rose home learning video tutorial on their website of home learning for year 3 [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/) for week 2 lesson 5 and then print out and answer the questions on the sheet which is available on the website. Open the answers sheet, which is also available on the website, to mark your questions. If your printer isn't working or you want some more maths on the same topic do green Power Maths Book C p. 6-8. The answers for Power Maths are also below.
 
 **White Rose Worksheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **White Rose Answers** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Power Maths C Answers**
-:---: | :---: | :---: | :---: | :---: | :---: 
+:---: | :---: | :---: | :---: | :---: | :---: | :---: 
 [![](/images/whiterose/y3/Lesson-5-Y3-Summer-Block-1-WO1-Equivalent-fractions-1-2020.png)](/docs/whiterose/y3/Lesson-5-Y3-Summer-Block-1-WO1-Equivalent-fractions-1-2020.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/whiterose/y3/Y3-Summer-Block-1-ANS1-Equivalent-fractions-1-2020.png)](/docs/whiterose/y3/Y3-Summer-Block-1-ANS1-Equivalent-fractions-1-2020.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u10_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u10_practicebookanswers.pdf)
 
 <hr>
