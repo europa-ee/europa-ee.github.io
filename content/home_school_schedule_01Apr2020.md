@@ -11,7 +11,9 @@ date: "2020-03-24T08:00:00+00:00"
 
 Power Maths Book B in p. 152-154
 
-[![](/images/powermaths/y3/pm_y3_u09_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u09_practicebookanswers.pdf)
+**Worksheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Answers**
+:---: | :---: | :---: | :---: 
+[![](/images/powermaths/y3/PowerMathsB_p152-154.png)](/docs/powermaths/y3/PowerMathsB_p152-154.pdf) &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u09_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u09_practicebookanswers.pdf)
 
 
 <hr>
