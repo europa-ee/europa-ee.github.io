@@ -84,6 +84,12 @@ Tell me what you have enjoyed about the tasks you have been set and what you don
 
 <hr>
 
+**Time:** 13:00 -14:00
+
+**Activity:** PE: Juggling
+
+{{< youtube ssRTkwMgoT4 >}}
+
 
 <br/>
 <br/>
