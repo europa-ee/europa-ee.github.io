@@ -7,11 +7,11 @@ date: "2020-03-17T08:39:00+00:00"
 
 **Date:** 3 April 2020, Friday
 
-**Time:** 11.00 - 12:00
+**Time:** 11.00 - 12:00 / 12.00 - 13.00
 
 **Topic/Focus:** Las direcciones en la ciudad
 
-**Teacher:** Rosa (Ale's mum)
+**Teacher:** Rosa (Ale's mum) / Juliana (Sam's mum)
 
 **Description:**
 1. **First five minutes:** Greetings and going over rules (we will listen to one another; each child will mute their microphone until her/his name is called to speak).
