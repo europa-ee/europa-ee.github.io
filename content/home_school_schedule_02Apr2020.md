@@ -43,6 +43,8 @@ Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlR
 
 [![](/images/activ prep. de lugar tarro.png)](/docs/activ prep. de lugar tarro.pdf)
 
+<hr>
+
 ## Español: Encuentra las diferencias
 
 ### 1. Observa las dos imágenes y encuentra las diferencias. Escribe las frases.
