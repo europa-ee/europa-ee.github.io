@@ -58,7 +58,7 @@ Your browser does not support the audio element.
 
 1. Mira el video para saber cómo se hace tu conejito de pascua.
 
-[![](/images/easterBunny.png)](http://krokotak.com/2020/03/easter-bunny/)
+{{< youtube sJGHVHlGeJw >}}
 
 [![](/images/conejito de pascua.png)](/docs/conejito de pascua.pdf)
 
