@@ -17,7 +17,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 Part 1. **First five minutes:** Greetings and going over rules (we will listen to one another; each child will mute their microphone until her/his name is called to speak).
 
-Part 2. **Activity 1 (10 minutes):** Vocabulary Review - Review Document **Cómo indicar direcciones en la ciudad** - we will go over key vocabulary in the sheet as well as the differences between informal (tú) and forma (Ud.)
+Part 2. **Activity 1 (10 minutes):** Vocabulary Review - Review Document **Cómo indicar direcciones en la ciudad** - we will go over key vocabulary in the sheet as well as the differences between informal (tú) and formal (Ud.)
 
 Part 3. **Activity 2: Direcciones** (15 minutes) - Using the Ficha Ciudad Map, I will assign each child a location (e.g. ‘cine’, ‘peluqueria’, ‘universidad’). I will ask them each to write down the answer to the question ¿Cómo se va hasta’ (to their respective locations), using the Plaza as a starting point. Before we do this, I will use the ‘farmacia’ as an example. I will call on each to share their answers with the group. Time permitting, I will ask each one to tell the group how to reach another location.
 
