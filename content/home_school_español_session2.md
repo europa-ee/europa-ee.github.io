@@ -34,7 +34,13 @@ Using the Ficha Ciudad Map, I will assign each child a location (e.g. ‘cine’
 
 * 2 PDF documents: (1) Ficha Ciudad and (2) Indicar-Direcciones
 
+**Ficha Ciudad** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Indicar - Direcciones**
+:---: | :---: | :---: | :---:
+[![](/images/Ficha A4 Ciudad DELE - Alumno.png)](/docs/Ficha A4 Ciudad DELE - Alumno.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/indicar-direcciones.png)](/docs/indicar-direcciones.pdf)
+
 * Book: Inés al Reves (PDF)
+
+[![](/images/inesdelreves.png)](/docs/inesdelreves.pdf)
 
 **Note to Parents:** if possible please would you please print the Ficha Ciudad PDF document, or have it visible on another screen (e.g. phone, tablet) during our session.
 
