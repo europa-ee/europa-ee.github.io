@@ -62,7 +62,6 @@ Your browser does not support the audio element.
 
 [![](/images/conejito de pascua.png)](/docs/conejito de pascua.pdf)
 
-
 2. También puedes hacer cestas para los huevos de pascua en el segundo video.
 
 {{< youtube bcq6AhQMqcQ >}}
