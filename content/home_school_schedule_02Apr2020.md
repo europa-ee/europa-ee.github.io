@@ -5,6 +5,16 @@ date: "2020-03-16T08:00:00+00:00"
 
 &nbsp;
 
+**Activity:** PE: PE with Joe
+
+Today's Kids Workout
+
+{{< youtube faE7889AIaU >}}
+
+Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
+
+<hr>
+
 ## DoW: Las direcciones
 
 ### 1. Ve el powerpoint que explica cómo damos direcciones en español.
@@ -32,6 +42,8 @@ date: "2020-03-16T08:00:00+00:00"
 ### 3. Realiza las actividades. En el documento activ.prep. de lugar, escribe frases para decir dónde están los animales y en el siguiente ejercicio dibuja dónde está la pelota.
 
 [![](/images/activ prep. de lugar tarro.png)](/docs/activ prep. de lugar tarro.pdf)
+
+<hr>
 
 ## Español: Encuentra las diferencias
 
