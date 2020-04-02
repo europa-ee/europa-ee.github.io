@@ -41,23 +41,31 @@ Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlR
 
 <hr>
 
-## Español: Encuentra las diferencias
+## Ortografia: Dictado
 
-### 1. Observa las dos imágenes y encuentra las diferencias. Escribe las frases.
+1. Escucha el dictado y escríbelo.
 
-[![](/images/t3-sp-121-my-living-room-spot-the-differences-game-spanish-espantildeol.png)](/docs/t3-sp-121-my-living-room-spot-the-differences-game-spanish-espantildeol.pdf)
+<audio controls>
+  <source src="/audio/Dictado 2 de abril.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+2. Haz un dibujo para cada frase.
 
 <hr>
 
-## Matematicas
+## Arte: Crea tu conejito de pascua
 
-### 1. Repasa la tabla del 3 y haz las multiplicaciones.
+1. Mira el video para saber cómo se hace tu conejito de pascua.
 
-[![](/images/tabla del 3.png)](/docs/tabla del 3.pdf)
+[![](/images/easterBunny.png)](http://krokotak.com/2020/03/easter-bunny/)
 
-### 2. Practica con la tabla del 3 en el link que envío.
+[![](/images/conejito de pascua.png)](/docs/conejito de pascua.pdf)
 
-[![](/images/tabla_del_3.png)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-3)
+
+2. También puedes hacer cestas para los huevos de pascua en el segundo video.
+
+{{< youtube bcq6AhQMqcQ >}}
 
 <br/>
 <br/>
