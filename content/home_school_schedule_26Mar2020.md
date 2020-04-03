@@ -13,7 +13,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 ### 2. Escucha la canción y cántala.
 
-[![](/images/un_paso_a_la_derecha.png)](https://rockalingua.com/videos/directions-right-left)
+[![](/images/un_paso_la_derecha.png)](https://rockalingua.com/videos/directions-right-left)
 
 ### 3. Mira y lee las flashcards
 
