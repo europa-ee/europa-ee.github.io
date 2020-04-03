@@ -9,7 +9,7 @@ date: "2020-03-16T08:00:00+00:00"
 
 Today's Kids Workout
 
-TBA
+{{< youtube 3Z05939ZMbE >}}
 
 Joe Wick's YouTube Channel - [https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)
 
