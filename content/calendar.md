@@ -10,6 +10,6 @@ date: "2018-03-26T00:48:15-07:00"
 <br/>
 
 * <span style="color:#1B887A">**3EE Events**<span>
-* <span style="color:#691426">**Birthdays**</span>
+* <span style="color:#691426">**3EE Birthdays**</span>
 * <span style="color:#182C57">**Europa School Events**</span>
 
