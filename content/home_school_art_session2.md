@@ -13,7 +13,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 **Tree of Life** | &nbsp; &nbsp; | **Squares with concentric circles** | &nbsp; &nbsp; | **Composition VII**
 :---: | :---: | :---: | :---: | :---:
-![](/images/treeLife.jpg) | &nbsp; &nbsp; | ![](/images/colorStudy.jpg) | &nbsp; &nbsp; | ![](/images/compositionVII.jpg)
+[![](/images/treeLife.jpg)]() | &nbsp; &nbsp; | [![](/images/colorStudy.jpg)](https://www.wikiart.org/en/wassily-kandinsky/color-study-squares-with-concentric-circles-1913) | &nbsp; &nbsp; | [![](/images/compositionVII.jpg)](https://www.wikiart.org/en/wassily-kandinsky/study-for-composition-vii-1913)
 
 **Teacher:** Shibin (Leo's mum)
 
