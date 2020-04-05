@@ -77,7 +77,7 @@ https://www.calvertjournal.com/articles/show/9836/this-video-lets-you-step-insid
 
 Session will be on Google Meet. Instructions to join have been sent to the kid's email addresses.
 
-To secure the session, please make sure to join using the kids Google Suite for Education accounts and not parents' accounts.
+To secure the session, please make sure to join using the kids' Google Suite for Education accounts and not parents' accounts.
 
 <br/>
 <br/>
