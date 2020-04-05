@@ -13,7 +13,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 **Tree of Life** | &nbsp; &nbsp; | **Squares with concentric circles** | &nbsp; &nbsp; | **Composition VII**
 :---: | :---: | :---: | :---: | :---:
-[![](/images/treeLife.jpg)]() | &nbsp; &nbsp; | [![](/images/colorStudy.jpg)](https://www.wikiart.org/en/wassily-kandinsky/color-study-squares-with-concentric-circles-1913) | &nbsp; &nbsp; | [![](/images/compositionVII.jpg)](https://www.wikiart.org/en/wassily-kandinsky/study-for-composition-vii-1913)
+![](/images/treeLife.jpg) | &nbsp; &nbsp; | [![](/images/colorStudy.jpg)](https://www.wikiart.org/en/wassily-kandinsky/color-study-squares-with-concentric-circles-1913) | &nbsp; &nbsp; | [![](/images/compositionVII.jpg)](https://www.wikiart.org/en/wassily-kandinsky/study-for-composition-vii-1913)
 
 **Teacher:** Shibin (Leo's mum)
 
@@ -29,10 +29,7 @@ Learning Objectives:
 
 4. To practice how to put different colour together to create a beautiful tree
  
-
-Lesson plan in one hour:
-
-Lesson plan in one hour: 
+**Lesson plan in one hour:** 
 
 1. Introducing artist Kandinsky and a few of his abstract work composed by colours 
 
