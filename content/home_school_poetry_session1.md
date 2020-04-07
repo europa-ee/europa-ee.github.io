@@ -39,6 +39,11 @@ Single poem documents are also available for downlaod below after each activity.
 
 [![](/images/theseAreHands.png)](/docs/theseAreHands.pdf)
 
+**How to join:**
+
+Session will be on Google Meet. Instructions to join have been sent to the kids' email addresses.
+
+To secure the session, please make sure to join using the kids' Google Suite for Education accounts and not parents' accounts.
 
 <br/>
 <br/>
