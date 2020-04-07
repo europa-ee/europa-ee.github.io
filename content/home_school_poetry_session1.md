@@ -17,7 +17,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 Please download the document below containing three poems that will be discussed. Please have it printed or available on another device for the kids to read during the session.
 
-[![](images/tooManyDaves.jpg)](/docs/Class 3EE poems.pdf)
+[![](/images/tooManyDaves.jpg)](/docs/Class 3EE poems.pdf)
 
 Single poem documents are also available for downlaod below after each activity.
 
