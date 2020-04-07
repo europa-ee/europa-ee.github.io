@@ -37,7 +37,7 @@ Single poem documents are also available for downlaod below after each activity.
 
 5.	**Final activity (5 minutes).**  I’ll end by reading Michael Rosen’s poem *‘These are the Hands.’*  If anyone would like a follow-on activity, they could try writing their own version of this poem, about their own hands and what they do with them, and they can Whatsapp or email it to me to read if they’d like some feedback.
 
-[![](/images/theseAreHands.jpg)](/docs/theseAreHands.pdf)
+[![](/images/theseAreHands.png)](/docs/theseAreHands.pdf)
 
 
 <br/>
