@@ -27,9 +27,9 @@ Single poem documents are also available for downlaod below after each activity.
 
 2. **Activity 1 (ten minutes).**  I will read everyone the Dr. Seuss poem *‘Too Many Daves.’*  First I’ll ask them just to listen, then I’ll ask them to open the document with the poem so they can read along as I read it a second time.  On this second reading I’ll ask them to choose their favourite name from the poem and remember it.  I’ll then unmute each microphone in turn and ask each child to tell me their favourite name, and we’ll discover which was the most popular choice.
 
-3. **Activity 2 (fifteen minutes).**  **Topic: alliteration.**  I’ll explain what alliteration is to them and why it is a fun thing to use in poetry.  I’ll then ask them to come up with a sentence using their name with several alliterating words, and ask them in turn to say it to everyone else.
-
 [![](/images/tooManyDaves.jpg)](/docs/tooManyDaves.pdf)
+
+3. **Activity 2 (fifteen minutes).**  **Topic: alliteration.**  I’ll explain what alliteration is to them and why it is a fun thing to use in poetry.  I’ll then ask them to come up with a sentence using their name with several alliterating words, and ask them in turn to say it to everyone else.
 
 4.	**Activity 3 (25 minutes).** **Topic: Down Behind the Dustbin.**  We’ll look at a few of Michael Rosen’s short *‘Down Behind the Dustbin’* poems, which I’ll read, with the children looking at them on the document.  They’re fun and very simple poems based on a single rhyme and short lines.  I’ll ask the children to write one of their own and then read them in turn.  As a bonus activity, if anyone finishes quickly, I’ll ask them to think of a name for the dog which is impossible because nothing rhymes with it, and to think of any other words in English which don’t rhyme with anything.
 
