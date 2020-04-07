@@ -63,7 +63,9 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Class 3EE Español](/home_school_español/)
 
-* [Class 3EE Art Classes](/home_school_art/)
+* [Class 3EE Art](/home_school_art/)
+
+* [Class 3EE Poetry](/home_school_poetry/)
 
 
 <br/>
