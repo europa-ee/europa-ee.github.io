@@ -9,6 +9,8 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## [Session 2: Las Direcciones en la Ciudad](/home_school_español_session2/)
 
+## [Session 3: Semana Santa y Pascua](/home_school_español_session3/)
+
 <br/>
 <br/>
 
