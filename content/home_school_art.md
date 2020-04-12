@@ -9,6 +9,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## [Kandinsky - Magic Colour rings](/home_school_art_session2/)
 
+## [René Magritte - what you can see through your eyes?](/home_school_art_session3/)
 
 <br/>
 <br/>
