@@ -7,11 +7,11 @@ date: "2020-03-17T08:39:00+00:00"
 
 **Date:** 15 April 2020, Wednesday
 
-**Time:** 10:30 - 11:30 (additional sessions TBA)
+**Time:** 10:30 - 11:30 / 11:00 - 12:00
 
 **Topic/Focus:** Semana Santa y Pascua
 
-**Teacher:** Elena (Mica's mum)
+**Teacher:** Elena (Mica's mum) / Juliana (Sam's mum)
 
 **Activities:**
 
@@ -33,7 +33,7 @@ Vocabulario:
 
 * Conejos y huevos de pascua.
 
-3. Receta de torrijas (adult help is needed)
+III. Receta de torrijas (adult help is needed)
 
 **Ingredientes para 6 torrijas:**
 
@@ -74,9 +74,9 @@ batido.
 [Download recipe](/docs/SEMANA SANTA Y PASCUA.pdf)
 
 
-III. Ataques de... we will try to read this book (attached) in full. Kids will need to have it printed or on screen as they will be reading the pages by turn. Comments on vocabulary.
+IV. Ataques de... we will try to read this book (attached) in full. Kids will need to have it printed or on screen as they will be reading the pages by turn. Comments on vocabulary.
 
-IV. End of the lesson
+V. End of the lesson
 
 **Materials required:**
 
