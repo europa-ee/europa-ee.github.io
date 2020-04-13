@@ -12,11 +12,11 @@ date: "2020-03-17T08:39:00+00:00"
 **Topic/Focus:** René Magritte - what you can see through your eyes?
 
 **The False Mirror** | &nbsp; &nbsp; | &nbsp; &nbsp; | **La Belle Société**
-:---: | :---: | :---: | :---: | :---:
+:---: | :---: | :---: | :---: 
 [![](/images/theFalseMirror_tn.jpg)](/images/theFalseMirror.jpg) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/laBelleSociete_tn.jpg)](/images/laBelleSociete.jpg)
  
 **La Décalomanie** | &nbsp; &nbsp; | &nbsp; &nbsp; | **The Happy Door**
-:---: | :---: | :---: | :---: | :---:
+:---: | :---: | :---: | :---:
 [![](/images/LaDecalcomanie_tn.jpg)](/images/LaDecalcomanie.jpg) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/TheHappyDoor_tn.jpeg)](/images/TheHappyDoor.jpeg) 
  
 **Teacher:** Shibin (Leo's mum)
@@ -35,7 +35,7 @@ Learning Objectives:
 
 **Materials required:**
 
-Pencil, (/coloured pencils) , paper. Or if you have water resistant ink pen would be great, for in case they want to apply colours (water colours), but it doesn’t have to. 
+Pencil, (coloured pencils) , paper. Or if you have water resistant ink pen would be great, for in case they want to apply colours (water colours), but it doesn’t have to. 
 
 **How to join:**
 
