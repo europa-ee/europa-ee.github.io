@@ -11,6 +11,10 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## [Session 3: Semana Santa y Pascua](/home_school_español_session3/)
 
+## [Session 4: Juego del Lego](/home_school_español_session4/)
+
+## [Session 5: El fantasma de la casa de al lado](/home_school_español_session5/)
+
 <br/>
 <br/>
 
