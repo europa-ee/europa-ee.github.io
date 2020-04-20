@@ -36,7 +36,7 @@ The answers for power maths are also below, click on pm_y3_u10_practicebookanswe
 
 [![](/images/GR_diary_of_a_lively_labrador.png)](/docs/GR_diary_of_a_lively_labrador.pdf)
 
-###b) Open the day 2 document below and JUST DO ACTIVITY 2, you will use it in tomorrow's English activity
+### b) Open the day 2 document below and JUST DO ACTIVITY 2, you will use it in tomorrow's English activity
 
  [![](/images/Year 3 Week 2 Day 2.png)](/docs/Year 3 Week 2 Day 2.pdf)
 
