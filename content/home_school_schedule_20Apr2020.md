@@ -114,7 +114,7 @@ The prefix *'in'*, if it becomes *'il'*, *'im'*, *'ir'*, you double the first le
 ### b) CHOOSE ONE of the activities on the attached work about diaries, either the questions OR adverbs quiz
 There are a lot of activities, don't make life too tricky for yourself, home school is hard without your friends.
 
-
+**Diary of a Labrador** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Activities**
 :---: | :---: | :---: | :---:
 [![](/images/GR_diary_of_a_lively_labrador.png)](/docs/GR_diary_of_a_lively_labrador.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Year 3 Week 2 Day 1.png)](/docs/Year 3 Week 2 Day 1.pdf)
 
