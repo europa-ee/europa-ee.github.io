@@ -51,7 +51,7 @@ Realiza las siguientes actividades.
 
 **Multiplica por 5** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Table del 5** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Problemas**
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-[![](/images/Multiplica por 5.pdf)](/docs/Multiplica por 5.png) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Tabla del 5.png)](/docs/Tabla del 5.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Problemas.png)](/docs/Problemas.pdf)
+[![](/images/Multiplica por 5.png)](/docs/Multiplica por 5.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Tabla del 5.png)](/docs/Tabla del 5.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Problemas.png)](/docs/Problemas.pdf)
 
 
 <br/>
