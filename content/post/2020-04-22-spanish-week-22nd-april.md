@@ -1,7 +1,7 @@
 ---
 title: Spanish week 22nd April
 author: ~
-date: 2020-04-22T15:2700
+date: 2020-04-22T15:27:00
 slug: spanish-week-22nd-april
 categories:
     - Announcements
