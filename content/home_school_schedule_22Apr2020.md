@@ -39,7 +39,7 @@ If you need a reminder of how to use speech marks correctly watch this video: [h
 
 Realiza la siguiente actividad
 
-[![](/images/qué has hecho durante la Pasuca.png)](/docs/qué has hecho durante la Pascua.pdf)
+[![](/images/qué has hecho durante la Pascua.png)](/docs/qué has hecho durante la Pascua.pdf)
 
 
 <br/>
