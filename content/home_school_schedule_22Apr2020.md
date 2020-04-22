@@ -18,6 +18,8 @@ date: "2020-03-24T08:00:00+00:00"
 
 Try the white rose problem solving challenge from day 5 of this week (week 1 of the summer term)
 
+[https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
+
 Fractions problem solving taken from www.nrich.maths.org
 Try some of these problems, don’t worry if you find some of them too tricky. The first two are easier, you only need to spend 30 mins in total on this so don't expect to finish all of them - choose your favourite one to start off with! Draw pictures to help you solve the problems.
 
