@@ -7,8 +7,6 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## All about quails
 
-{{< vimeo 410532375 >}}
-
 <iframe src="https://player.vimeo.com/video/410532375" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **Questions:**
@@ -23,7 +21,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## The incubator
 
-{{< vimeo 410535762 >}}
+<iframe src="https://player.vimeo.com/video/410535762" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **Questions:**
 
@@ -43,7 +41,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## Putting quail eggs in the incubator 
 
-{{< vimeo 410536125 >}}
+<iframe src="https://player.vimeo.com/video/410536125" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **Questions:**
 
@@ -63,7 +61,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## Bantams
 
-{{< vimeo 410536580 >}}
+<iframe src="https://player.vimeo.com/video/410536580" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 1. How many bantams are there?
 
