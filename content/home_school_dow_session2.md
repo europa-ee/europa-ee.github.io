@@ -7,7 +7,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## All about quails
 
-[![](/images/quail1.png)](https://vimeo.com/410532375)
+{{< vimeo 410532375 >}}
 
 <iframe src="https://player.vimeo.com/video/410532375" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
