@@ -1,5 +1,5 @@
 ---
-title: "3EE Class Topics for 21 April 2020, Tuesday"
+title: "3EE Class Topics for 22 April 2020, Wednesday"
 date: "2020-03-24T08:00:00+00:00"
 ---
 
@@ -30,6 +30,17 @@ Try some of these problems, don’t worry if you find some of them too tricky. T
 If you need a reminder of how to use speech marks correctly watch this video: [https://www.youtube.com/watch?v=6-YFmLctwDY](https://www.youtube.com/watch?v=6-YFmLctwDY)
 
 {{< youtube 6-YFmLctwDY >}}
+
+<hr>
+
+## Español
+
+### ¿Qué has hecho durante la Pascua?
+
+Realiza la siguiente actividad
+
+[![](/images/qué has hecho durante la Pasuca.png)](/docs/qué has hecho durante la Pascua.pdf)
+
 
 <br/>
 <br/>
