@@ -7,7 +7,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## All about quails
 
-{{< vimeo 410532375 >}}
+[![](/images/quail1.png)](https://vimeo/410532375)
 
 **Questions:**
 
