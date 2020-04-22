@@ -7,7 +7,11 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## [Bring music to the paintings with introduction of Paul Klee's work](/home_school_art_session1/)
 
+<hr>
+
 ## [Kandinsky - Magic Colour rings](/home_school_art_session2/)
+
+<hr>
 
 ## [René Magritte - what you can see through your eyes?](/home_school_art_session3/)
 
