@@ -32,7 +32,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 1. Lee el powerpoint sobre las plantas.
 
-**PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
+**PPTX** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
 :---: | :---: | :---: | :---:
 [![](/images/es-t-sc-272-todo-sobre-las-plantas-presentacion.png)](/docs/es-t-sc-272-todo-sobre-las-plantas-presentacion.pptx) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/es-t-sc-272-todo-sobre-las-plantas-presentacion.png)](/docs/es-t-sc-272-todo-sobre-las-plantas-presentacion.pdf)
 
