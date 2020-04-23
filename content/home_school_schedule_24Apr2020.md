@@ -13,9 +13,6 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 2. Haz un dibujo explicando qué le ocurre a la semillita. Después explícalo.
 
-
-
-
 ## Arte
 
 ### Pintamos como Picasso
