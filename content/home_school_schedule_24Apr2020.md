@@ -66,6 +66,10 @@ date: "2020-03-24T08:00:00+00:00"
 
 1. Realiza las actividades de las páginas 21 y 31 del cuaderno de Rubio de matemáticas.
 
+**Pagina 21** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Pagina 31**
+:---: | :---: | :---: | :---:
+[![](/images/pagina21_Rubio_Competencia_Matematica.png)](/docs/pagina21_Rubio_Competencia_Matematica.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/pagina31_Rubio_Competencia_Matematica.png)](/docs/pagina31_Rubio_Competencia_Matematica.pdf)
+
 <br/>
 <br/>
 
