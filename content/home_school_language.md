@@ -107,6 +107,51 @@ A continuación os vamos a facilitar una serie de cuentos y libros y que os podr
 
 [http://bibliojxxiii.blogspot.com/2020/03/cuentos-en-pdf-y-enlaces-para-la-lectura.html](http://bibliojxxiii.blogspot.com/2020/03/cuentos-en-pdf-y-enlaces-para-la-lectura.html)
 
+<hr>
+
+## Audiocuento
+
+Elige un cuento y disfruta escuchándolo.
+
+### [Èrase una vez...](https://www.youtube.com/channel/UCEgw_dAlo9yt-bLrFCDOPtA  )
+
+[https://www.youtube.com/channel/UCEgw_dAlo9yt-bLrFCDOPtA](https://www.youtube.com/channel/UCEgw_dAlo9yt-bLrFCDOPt)
+
+### [Aula de Elena](https://www.youtube.com/channel/UCQZICH_X7_nGMucMHcqH2Yw)
+
+[https://www.youtube.com/channel/UCQZICH_X7_nGMucMHcqH2Yw](https://www.youtube.com/channel/UCQZICH_X7_nGMucMHcqH2Yw)
+
+### [La clase de Elena](https://www.youtube.com/channel/UCu8yJZWJQIAAiIH2CiT24Uw)
+
+[https://www.youtube.com/channel/UCu8yJZWJQIAAiIH2CiT24Uw](https://www.youtube.com/channel/UCu8yJZWJQIAAiIH2CiT24Uw)
+
+
+### [Scholasatic en Español](https://www.youtube.com/playlist?list=PLwmYd6YIpBurEZB4_KXzWMkcJpSDhY_yR)
+
+[https://www.youtube.com/playlist?list=PLwmYd6YIpBurEZB4_KXzWMkcJpSDhY_yR](https://www.youtube.com/playlist?list=PLwmYd6YIpBurEZB4_KXzWMkcJpSDhY_yR)
+
+### [Audible en Español](https://stories.audible.com/discovery/enterprise-discovery-21122525011?ref=adbl_ent_anon_ds_ds_dccs_sbtp-0-8)
+
+### [Recopilatorio de Cuentos](/recopilatorio_de_cuentos/)
+
+<hr>
+
+## [Weeblebooks](https://weeblebooks.com/es/cuentos-infantiles/)
+
+En esta página podeis descargar todos los cuentos que aparecen.
+
+[https://weeblebooks.com/es/cuentos-infantiles/](https://weeblebooks.com/es/cuentos-infantiles/)
+
+<hr>
+
+## [Learningapps: Actividades y juegos de español](https://learningapps.org/login.php)
+
+Entra en la clase 3EE, verás diferentes carpetas con diferentes áreas. Entra en una de las áreas y a jugar.
+Primero necesitas crear una cuenta para acceder. Una vez creada podrás acceder a los juegos. Si necesitas ayuda, avísame.
+
+[https://learningapps.org/login.php](https://learningapps.org/login.php)
+
+
 <br/>
 <br/>
 
