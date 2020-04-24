@@ -157,7 +157,7 @@ Primero necesitas crear una cuenta para acceder. Una vez creada podrás acceder 
 
 Escribe qué has hecho durante esta semana y qué cosas interesantes has aprendido.
 
-[!(/images/es-sl-2548243-ficha-de-actividad-diario-de-la-cuarentena_ver_1.png)](/docs/es-sl-2548243-ficha-de-actividad-diario-de-la-cuarentena_ver_1.pdf)
+[![](/images/es-sl-2548243-ficha-de-actividad-diario-de-la-cuarentena_ver_1.png)](/docs/es-sl-2548243-ficha-de-actividad-diario-de-la-cuarentena_ver_1.pdf)
 
 
 <br/>
