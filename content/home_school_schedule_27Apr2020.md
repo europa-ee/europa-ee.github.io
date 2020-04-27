@@ -3,9 +3,6 @@ title: "3EE Class Topics for 27 April 2020, Monday"
 date: "2020-03-24T08:00:00+00:00"
 ---
 
-
-
-
 &nbsp;
 
 ## Maths
@@ -20,7 +17,7 @@ The answers for power maths are also below, click on pm_y3_u10_practicebookanswe
 
 **White Rose Worksheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **White Rose Answers** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Power Maths C Answers**
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-[![](/images/whiterose/y3/Lesson-1-Y3-Summer-Block-1-WO2-Equivalent-fractions-2-2020.png)](/docs/whiterose/y3/Lesson-1-Y3-Summer-Block-1-WO2-Equivalent-fractions-2-2020.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/whiterose/y3/Lesson-1-Y3-Summer-Block-1-ANS2-Equivalent-fractions-2-2020.png)](/docs/whiterose/y3/Lesson-1-Y3-Summer-Block-1-ANS2-Equivalent-fractions-2-2020.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u10_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u10_practicebookanswers.pdf)
+[![](/images/whiterose/y3/Lesson-5-Y3-Summer-Block-1-WO6-Add-fractions-2020.png)](/docs/whiterose/y3/Lesson-5-Y3-Summer-Block-1-WO6-Add-fractions-2020.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/whiterose/y3/Lesson-5-Y3-Summer-Block-1-ANS6-Add-fractions-2020.png)](/docs/whiterose/y3/Lesson-5-Y3-Summer-Block-1-ANS6-Add-fractions-2020.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u10_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u10_practicebookanswers.pdf)
 
 ### Subtract fractions
 
@@ -32,7 +29,7 @@ The answers for power maths are also below, click on pm_y3_u10_practicebookanswe
 
 **White Rose Worksheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **White Rose Answers** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Power Maths C Answers**
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-[![](/images/whiterose/y3/Lesson-1-Y3-Summer-Block-1-WO2-Equivalent-fractions-2-2020.png)](/docs/whiterose/y3/Lesson-4-Answers-Problem-Solving.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/whiterose/y3/Lesson-4-Answers-Problem-Solving.png)](/docs/whiterose/y3/Lesson-4-Answers-Problem-Solving.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u10_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u10_practicebookanswers.pdf)
+[![](/images/whiterose/y3/Lesson-2-Y3-Summer-Block-1-WO7-Subtract-fractions-2020.png)](/docs/whiterose/y3/Lesson-2-Y3-Summer-Block-1-WO7-Subtract-fractions-2020.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/whiterose/y3/Lesson-2-Y3-Summer-Block-1-ANS7-Subtract-fractions-2020.png)](/docs/whiterose/y3/Lesson-2-Y3-Summer-Block-1-ANS7-Subtract-fractions-2020.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/powermaths/y3/pm_y3_u10_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u10_practicebookanswers.pdf)
 
 <hr>
 
