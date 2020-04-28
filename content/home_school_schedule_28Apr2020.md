@@ -46,7 +46,7 @@ OR if you prefer you can do the BBC bitesize lesson on poetry from 24th April:
 
 **Rhyming poem** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Activity Sheet** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Limericks**
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
-[![](/images/Rhyming poem five minutes - Mrs Trevitt's guide.png)](/docs/Rhyming poem five minutes - Mrs Trevitt's guide.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Year 3 Week 2 Day 5.png)](/docs/whiterose/Year 3 Week 2 Day 5.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/3EE Laughable limericks.png)](/docs/3EE Laughable limericks.pdf)
+[![](/images/Rhyming poem five minutes - Mrs Trevitt's guide.png)](/docs/Rhyming poem five minutes - Mrs Trevitt's guide.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Year 3 Week 2 Day 5.png)](/docs/Year 3 Week 2 Day 5.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/3EE Laughable limericks.png)](/docs/3EE Laughable limericks.pdf)
 
 
 
