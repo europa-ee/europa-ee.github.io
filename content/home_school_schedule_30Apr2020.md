@@ -17,6 +17,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 2. Realiza las actividades escribiendo el verbo en pasado.
 
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
 [![](/images/Completa huecos en pasado.png)](/docs/Completa huecos en pasado.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/que hicieron en sus vacaciones con verbos.png)](/docs/que hicieron en sus vacaciones con verbos.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; |  [![](/images/verbos en pasado actividad.png)](/docs/verbos en pasado actividad.pdf)
 
 ### Poesía - Las plantas
@@ -35,7 +36,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 1. Escucha la canción de la primavera, cántala y apréndela.
 
-<iframe src="https://rockalingua.com/videos/spring" width="700" height="500" allowfullscreen="TRUE"></iframe>
+[![](/images/primavera.png)](https://rockalingua.com/videos/spring)
 
 #### 2. Realiza las actividades del cuadernillo
 
@@ -50,9 +51,6 @@ date: "2020-03-24T08:00:00+00:00"
 #### 1. Aprende y juega con la tabla del 6.
 
 [![](/images/tabla6.png)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-6)
-
-<iframe src="https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-6" width="700", height="500" allowfullscreen="TRUE"></iframe>
-
 
 #### 2. Realiza las actividades de las páginas 19 y 20 del cuadernillo de Rubio
 
