@@ -17,8 +17,8 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 2. Realiza las actividades escribiendo el verbo en pasado.
 
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
 [![](/images/Completa huecos en pasado.png)](/docs/Completa huecos en pasado.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/que hicieron en sus vacaciones con verbos.png)](/docs/que hicieron en sus vacaciones con verbos.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; |  [![](/images/verbos en pasado actividad.png)](/docs/verbos en pasado actividad.pdf)
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
 
 ### Poesía - Las plantas
 
