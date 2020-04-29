@@ -9,6 +9,8 @@ date: "2020-03-24T08:00:00+00:00"
 
 ### Time: Months and years - Powermaths unit 11 lesson 1 p. 35-37
 
+[![](/images/pm_y3_u11_practicebookanswers.png)](/docs/pm_y3_u11_practicebookanswers.pdf)
+
 Here's a good little video to show how you can use your knuckles to remember how many days there are in each month.
 
 [https://www.youtube.com/watch?v=UfOpjDv8RxQ](https://www.youtube.com/watch?v=UfOpjDv8RxQ)
