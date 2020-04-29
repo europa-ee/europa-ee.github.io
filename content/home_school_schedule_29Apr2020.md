@@ -31,7 +31,7 @@ Then it links to EVEN MORE information about other calendars used in history and
 
 ### a) In your Schofield and Simms comprehension book read teh passage about 'steam train stories' on p. 32 and then answer the questions on p. 33.
 
-[![](/images/schofieldAndSims.png)](/docs/.pdf)
+[![](/images/schofieldAndSims.png)](/docs/Schofield_Sims_Steam_Train_Stories.pdf)
 
 ### b) Spend 20 minutes (or more if you're loving it) reading your own book and then select a reading journal activity (see attached) that you will enjoy doing and do it really well.
 
@@ -47,6 +47,7 @@ Then it links to EVEN MORE information about other calendars used in history and
 
 ### 2. Realiza las páginas 9, 10, 11 y 12 del cuadernillo de Rubio
 
+[![](/images/lenguaEvolución.png)](/docs/Rubio_Lengua_Evolución_p9-12.pdf)
 
 <br/>
 <br/>
