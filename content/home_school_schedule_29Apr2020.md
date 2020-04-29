@@ -47,7 +47,7 @@ Then it links to EVEN MORE information about other calendars used in history and
 
 ### 2. Realiza las páginas 9, 10, 11 y 12 del cuadernillo de Rubio
 
-[![](/images/lenguaEvolución.png)](/docs/Rubio_Lengua_Evolución_p9-12.pdf)
+[![](/images/lenguaEvolución.png)](/docs/Rubio_Lengua_Evolución_p9-12.pdf)
 
 <br/>
 <br/>
