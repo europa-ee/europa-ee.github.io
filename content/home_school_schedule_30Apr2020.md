@@ -26,7 +26,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 2. Graba un audio diciendo la poesía. Si no puedes aprenderla, leéla.
 
-[![](/images/Poesia las plantas.png)](/docs/Poesia las plantas.pdf)
+[![](/images/Poesia las plantas.png)](/docs/Poesia las plantas v2.pdf)
 
 <hr>
 
