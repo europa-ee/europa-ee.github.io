@@ -54,6 +54,8 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 2. Realiza las actividades de las páginas 19 y 20 del cuadernillo de Rubio
 
+[![](/imaages/competenciaMatematica.png)](/docs/Rubio_Competencia_Matematica_p19-20.pdf)
+
 
 <br/>
 <br/>
