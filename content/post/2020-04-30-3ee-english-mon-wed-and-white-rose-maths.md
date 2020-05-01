@@ -24,9 +24,8 @@ Many thanks,
 
 Ruthy Trevitt
 
-[![](/images/IMG_20200430_110003573.jpg)]
+[![](/images/IMG_20200430_110003573_tn.jpg)](/images/IMG_20200430_110003573.jpg) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/IMG_20200430_110007378_tn.jpg)](/images/IMG_20200430_110007378.jpg)
+:---: | :---: |:---: | :---: 
 
-<hr>
-
-[![](/images/IMG_20200430_110007378.jpg)]
+[Download as PDF](docs/division_tips.pdf)
 
