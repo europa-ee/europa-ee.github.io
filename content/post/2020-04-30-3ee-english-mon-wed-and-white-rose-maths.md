@@ -27,5 +27,5 @@ Ruthy Trevitt
 [![](/images/IMG_20200430_110003573_tn.jpg)](/images/IMG_20200430_110003573.jpg) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/IMG_20200430_110007378_tn.jpg)](/images/IMG_20200430_110007378.jpg)
 :---: | :---: |:---: | :---: 
 
-[Download as PDF](docs/division_tips.pdf)
+[Download as PDF](/docs/division_tips.pdf)
 
