@@ -73,6 +73,24 @@ date: "2020-03-17T08:39:00+00:00"
 
 5. Which day might we expect chicks to hatch?
 
+<hr>
+
+## Chicks
+
+<iframe src="https://player.vimeo.com/video/414545011" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/414545829" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+1. How many of the chicks are black?
+
+2. What colour are the other chicks?
+
+3. What do the chicks eat and drink?
+
+4. How do the chicks keep warm?
+
+5. Draw the bantams and chicks.
+
 <br/>
 <br/>
 
