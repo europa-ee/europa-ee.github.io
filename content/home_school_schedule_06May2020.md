@@ -22,7 +22,6 @@ Worksheets and answers sent via Google Classroom
 ### Oak National Academy
 
 [https://www.thenational.academy/online-classroom/year-3/#schedule](https://www.thenational.academy/online-classroom/year-3/#schedule)
-<iframe src="https://www.thenational.academy/online-classroom/year-3/#schedule" width="700px" height="500px" /></iframe>
 
 ### Time - telling time to 5 mins
 
