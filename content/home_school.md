@@ -69,6 +69,11 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Friday - 1 May 2020](/home_school_schedule_01May2020/)
 
+* [Monday - 4 May 2020](/home_school_schedule_04May2020/)
+
+* [Tuesday - 5 May 2020](/home_school_schedule_05May2020/)
+
+* [Wednesday - 6 May 2020](/home_school_schedule_06May2020/)
 
 <hr>
 
