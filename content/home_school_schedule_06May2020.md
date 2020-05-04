@@ -22,7 +22,7 @@ Worksheets and answers sent via Google Classroom
 ### Oak National Academy
 
 [https://www.thenational.academy/online-classroom/year-3/#schedule](https://www.thenational.academy/online-classroom/year-3/#schedule)
-<iframe src="https://www.thenational.academy/online-classroom/year-3/#schedule" width="700px" height="500px" allowfullscreen /></iframe>
+<iframe src="https://www.thenational.academy/online-classroom/year-3/#schedule" width="700px" height="500px" /></iframe>
 
 ### Time - Estimating time
 
@@ -31,6 +31,8 @@ Power Maths Unit 11: Lesson 2 p. 41-43
 Find answers in the attached PDDF and if you want further challenge then check out the problems on https://nrich.maths.org
 
 [![](/images/powermaths/y3/pm_y3_u10_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u10_practicebookanswers.pdf)
+
+<iframe src="https://nrich.maths.org" width="700px" height="500px" allowfullscreen /></iframe>
 
 <hr>
 
