@@ -54,6 +54,14 @@ Send me a picture of your pages and we can attempt to put them together to make 
 :---: | :---: | :---: | :---:
 [![](/images/That pesky rat - English.png)](/docs/That pesky rat - English.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Lauren Child illustration ideas.png)](/docs/Lauren Child illustration ideas.pdf)
 
+<hr>
+
+## PE
+
+### Golpeos con globo desde casa
+
+{{< youtube 3DZbkOCAiFA >}}
+
 <br/>
 <br/>
 
