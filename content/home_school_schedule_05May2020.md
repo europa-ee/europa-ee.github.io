@@ -10,7 +10,7 @@ date: "2020-03-24T08:00:00+00:00"
 ### Week 3 White Rose Maths
 
 [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
-<iframe src="https://whiterosemaths.com/homelearning/year-3/" width="700px" height="500px" allow="fullscreen" /></iframe>
+<iframe src="https://whiterosemaths.com/homelearning/year-3/" width="700px" height="500px" allowfullscreen /></iframe>
 
 Worksheets and answers sent via Google Classroom
 
