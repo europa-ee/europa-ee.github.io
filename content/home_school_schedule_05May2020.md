@@ -24,9 +24,9 @@ Worksheets and answers sent via Google Classroom
 [https://www.thenational.academy/online-classroom/year-3/#schedule](https://www.thenational.academy/online-classroom/year-3/#schedule)
 <iframe src="https://www.thenational.academy/online-classroom/year-3/#schedule" width="700px" height="500px" /></iframe>
 
-### Time - telling time to 5 mins
+### Time - Estimating time
 
-Power Maths Unit 11: Lesson 2 p. 44-46
+Power Maths Unit 11: Lesson 2 p. 41-43
 
 Find answers in the attached PDDF and if you want further challenge then check out the problems on https://nrich.maths.org
 
