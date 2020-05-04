@@ -10,19 +10,19 @@ date: "2020-03-24T08:00:00+00:00"
 ### Week 3 White Rose Maths
 
 [https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
-<iframe src="https://whiterosemaths.com/homelearning/year-3/" width="700px" allow="fullscreen" /></iframe>
+<iframe src="https://whiterosemaths.com/homelearning/year-3/" width="700px" height="500px" allow="fullscreen" /></iframe>
 
 Worksheets and answers sent via Google Classroom
 
 ### BBC bitesize
 
 [https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/](https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/)
-<iframe src="https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/" width="700px" allowfullscreen /></iframe>
+<iframe src="https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/" width="700px" height="500px" allowfullscreen /></iframe>
 
 ### Oak National Academy
 
 [https://www.thenational.academy/online-classroom/year-3/#schedule](https://www.thenational.academy/online-classroom/year-3/#schedule)
-<iframe src="https://www.thenational.academy/online-classroom/year-3/#schedule" width="700px" allowfullscreen /></iframe>
+<iframe src="https://www.thenational.academy/online-classroom/year-3/#schedule" width="700px" height="500px" allowfullscreen /></iframe>
 
 ### Time - telling time to 5 mins
 
@@ -49,6 +49,7 @@ Look again at Lauren Child's book That Pesky Rat for ideas, or maybe some images
 Send me a picture of your pages and we can attempt to put them together to make a few more pages for 'That Pesky rat' - just so long as the Tiny Trevitts let me!
 
 **That Pesky Rat - story** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Lauren Child illustration ideas**
+:---: | :---: | :---: | :---:
 [![](/images/That pesky rat - English.png)](/docs/That pesky rat - English.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Lauren Child illustration ideas.png)](/docs/Lauren Child illustration ideas.pdf)
 
 
