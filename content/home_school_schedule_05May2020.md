@@ -38,21 +38,11 @@ Find answers in the attached PDDF and if you want further challenge then check o
 
 ## English
 
-Open your document or look at what you wrote yesterday when you planned your page for 'That pesky rat' and now design some art work for the pages (I have attached the guide for writing your pages). 
+Start writing your own set of pages for **That Pesky Rat**. Follow the instructions below and then tomorrow you can make the art work for the book.
 
-Lauren Child (the author of That Pesky Rat) uses collage (cutting out coloured paper and photos) to make her pages and uses textured paper. You can use photos, paint, coloured paper. 
-
-Her text goes in funny directions to show what is happening in the story, for example on the circus page the writing 'swings' like the trapeze then goes either side of the high wire (or tightrope).
-
-Can you write or paint your text on top of the page so that it follows the direction of some parts of your picture? 
-
-Look again at Lauren Child's book That Pesky Rat for ideas, or maybe some images from her other books (you can look on your bookshelf if you already have some or look on the internet).
-
-Send me a picture of your pages and we can attempt to put them together to make a few more pages for 'That Pesky rat' - just so long as the Tiny Trevitts let me!
-
-**That Pesky Rat - story** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Lauren Child illustration ideas**
+**That Pesky Rat - story** | &nbsp; &nbsp; | &nbsp; &nbsp; | **That Pesky Rat - write your own**
 :---: | :---: | :---: | :---:
-[![](/images/That pesky rat - English.png)](/docs/That pesky rat - English.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Lauren Child illustration ideas.png)](/docs/Lauren Child illustration ideas.pdf)
+[![](/images/That pesky rat - English.png)](/docs/That pesky rat - English.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Your pages for that Pesky rat.png)](/docs/Your pages for that Pesky rat.pdf)
 
 
 <br/>
