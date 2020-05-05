@@ -22,7 +22,6 @@ Worksheets and answers sent via Google Classroom
 ### Oak National Academy
 
 [https://www.thenational.academy/online-classroom/year-3/#schedule](https://www.thenational.academy/online-classroom/year-3/#schedule)
-<iframe src="https://www.thenational.academy/online-classroom/year-3/#schedule" width="700px" height="500px" /></iframe>
 
 ### Time - telling time to 5 mins
 
@@ -53,6 +52,14 @@ Send me a picture of your pages and we can attempt to put them together to make 
 **That Pesky Rat - story** | &nbsp; &nbsp; | &nbsp; &nbsp; | **Lauren Child illustration ideas**
 :---: | :---: | :---: | :---:
 [![](/images/That pesky rat - English.png)](/docs/That pesky rat - English.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Lauren Child illustration ideas.png)](/docs/Lauren Child illustration ideas.pdf)
+
+<hr>
+
+## PE
+
+### Golpeos con globo desde casa
+
+{{< youtube 3DZbkOCAiFA >}}
 
 <br/>
 <br/>
