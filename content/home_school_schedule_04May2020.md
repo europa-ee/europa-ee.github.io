@@ -29,7 +29,7 @@ Power Maths Unit 11: Lesson 2 p. 38-40
 
 Find answers in the attached PDDF and if you want further challenge then check out the problems on https://nrich.maths.org
 
-[![](/images/powermaths/y3/pm_y3_u10_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u10_practicebookanswers.pdf)
+[![](/images//powermaths/y3/pm_y3_u11_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u11_practicebookanswers.pdf)
 
 <iframe src="https://nrich.maths.org" width="700px" height="500px" allowfullscreen /></iframe>
 
