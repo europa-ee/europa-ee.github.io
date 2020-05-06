@@ -61,6 +61,21 @@ Send me a picture of your pages and we can attempt to put them together to make 
 
 {{< youtube 3DZbkOCAiFA >}}
 
+<hr>
+
+## Español
+
+### Dictado
+
+#### 1. Escucha y escribe el dictado.
+
+<audio controls>
+  <source src="/audio/Dictado 6 de mayo.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+#### 2. Haz un dibujo del dictado.
+
 <br/>
 <br/>
 
