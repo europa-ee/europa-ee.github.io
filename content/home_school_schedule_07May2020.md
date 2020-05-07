@@ -13,7 +13,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 2. Al final tienes la solución para comprobar si están bien tus respuestas.
 
-[![](ES-T-L-51709-El-ciclo-vital-de-la-gallina-Comprension-lector-de-atencion-a-la-diversidad 1.png)](ES-T-L-51709-El-ciclo-vital-de-la-gallina-Comprension-lector-de-atencion-a-la-diversidad 1.pdf)
+[![](/images/ES-T-L-51709-El-ciclo-vital-de-la-gallina-Comprension-lector-de-atencion-a-la-diversidad 1.png)](/docs/ES-T-L-51709-El-ciclo-vital-de-la-gallina-Comprension-lector-de-atencion-a-la-diversidad 1.pdf)
 
 <hr>
 
