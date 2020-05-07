@@ -1,62 +1,51 @@
 ---
-title: "3EE Class Topics for 30 April 2020, Thursday"
+title: "3EE Class Topics for 7 May 2020, Thursday"
 date: "2020-03-24T08:00:00+00:00"
 ---
 
 &nbsp;
 
-## Español
+## Español Lectura
 
-### Verbos en pasado
+### Comprensión lectora "el ciclo vital de la gallina"
 
-#### 1. Lee el powerpoint para aprendar sobre los verbos.
+#### 1. Lee sobre el ciclo de la gallina y contesta a las preguntas.
 
-**PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
-:---: | :---: | :---: | :---:
-[![](/images/verbos en pasado.png)](/docs/verbos en pasado.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/verbos en pasado.png)](/docs/verbos en pasado.pdf)
+#### 2. Al final tienes la solución para comprobar si están bien tus respuestas.
 
-#### 2. Realiza las actividades escribiendo el verbo en pasado.
-
-[![](/images/Completa huecos en pasado.png)](/docs/Completa huecos en pasado.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/que hicieron en sus vacaciones con verbos.png)](/docs/que hicieron en sus vacaciones con verbos.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; |  [![](/images/verbos en pasado actividad.png)](/docs/verbos en pasado actividad.pdf)
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
-
-### Poesía - Las plantas
-
-#### 1. Lee esta poesía. Intenta aprenderla.
-
-#### 2. Graba un audio diciendo la poesía. Si no puedes aprenderla, leéla.
-
-[![](/images/Poesia las plantas.png)](/docs/Poesia las plantas v2.pdf)
+[![](ES-T-L-51709-El-ciclo-vital-de-la-gallina-Comprension-lector-de-atencion-a-la-diversidad 1.png)](ES-T-L-51709-El-ciclo-vital-de-la-gallina-Comprension-lector-de-atencion-a-la-diversidad 1.pdf)
 
 <hr>
 
-## DoW
+## Español DoW
 
-### La primavera
+### El ciclo de la gallina
 
-#### 1. Escucha la canción de la primavera, cántala y apréndela.
+#### 1. Lee le powerpoint que explica cómo es el ciclo de vida de la gallina.
 
-[![](/images/primavera.png)](https://rockalingua.com/videos/spring)
+**PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
+:---: | :---: | :---: | :---:
+[![](/images/Ciclo de vida de la gallina.png)](/docs/Ciclo de vida de la gallina.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/Ciclo de vida de la gallina.png)](/docs/Ciclo de vida de la gallina.pdf)
 
-#### 2. Realiza las actividades del cuadernillo
+#### 2. Haz la última actividad. Recorta las imágenes y las frases y pégalas en orden en tu cuaderno.
 
-[![](/images/w9_2_primavera_0.png)](/docs/w9_2_primavera_0.pdf)
+[![](/images/Ordena ciclo de la gallina.png)](/docs/Ordena ciclo de la gallina.pdf)
 
 <hr>
 
 ## Matematicas
 
-### Tabla del 6 y ejercicios de repaso
+### El tiempo y la hora
 
-#### 1. Aprende y juega con la tabla del 6.
+#### 1. Lee el powerpoint y repasa los días de la semana y los meses y aprende cómo decir la hora en español.
 
-[![](/images/tabla6.png)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-6)
+**PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
+:---: | :---: | :---: | :---:
+[![](/images/el tiempo.png)](/docs/el tiempo.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/el tiempo.png)](/docs/el tiempo.pdf)
 
-#### 2. Realiza las actividades de las páginas 19 y 20 del cuadernillo de Rubio
+#### 2. Realiza las actividades del powerpoint.
 
-[![](/images/competenciaMatematica.png)](/docs/Rubio_Competencia_Matematica_p19-20.pdf)
-
+#### 3. Realiza las actividades de las páginas 8 y 9 del cuadernillo de Rubio de matemáticas.
 
 <br/>
 <br/>
-
