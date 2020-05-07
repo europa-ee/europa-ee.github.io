@@ -1,31 +1,24 @@
 ---
-title: "3EE Class Topics for 7 May 2020, Thursday"
+title: "3EE Class Topics for 30 April 2020, Thursday"
 date: "2020-03-24T08:00:00+00:00"
 ---
 
 &nbsp;
 
-## Lectura
+## Español
 
-### Comprensión lectora "el ciclo vital de la gallina"
+### Verbos en pasado
 
-#### 1. Lee sobre el ciclo de la gallina y contesta a las preguntas.
+#### 1. Lee el powerpoint para aprendar sobre los verbos.
 
-[![](/images/verbos en pasado.png)](/docs/verbos en pasado.ppt)
+**PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
+:---: | :---: | :---: | :---:
+[![](/images/verbos en pasado.png)](/docs/verbos en pasado.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/verbos en pasado.png)](/docs/verbos en pasado.pdf)
 
-#### 2. Al final tienes la solución para comprobar si están bien tus respuestas.
+#### 2. Realiza las actividades escribiendo el verbo en pasado.
 
-
-## DoW
-
-### El ciclo de la gallina
-
-#### 1. Lee el powerpoint que explica cómo es el ciclo de vida de la gallina.
-
-#### 2. Haz la última actividad. Recorta las imágenes y las frases y pégalas en orden en tu cuaderno.
-
-
-  
+[![](/images/Completa huecos en pasado.png)](/docs/Completa huecos en pasado.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/que hicieron en sus vacaciones con verbos.png)](/docs/que hicieron en sus vacaciones con verbos.pdf) | &nbsp; &nbsp; | &nbsp; &nbsp; |  [![](/images/verbos en pasado actividad.png)](/docs/verbos en pasado actividad.pdf)
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
 
 ### Poesía - Las plantas
 
