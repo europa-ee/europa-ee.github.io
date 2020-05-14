@@ -37,7 +37,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 [https://youtu.be/zxEx821X8as](https://youtu.be/zxEx821X8as)
 
-{{< youtbe zxEx821X8as >}}
+{{< youtube zxEx821X8as >}}
 
 #### 3. Realiza las actividades. Primero, pon en orden los dibujos de la metamorfosis de una mariposa y segundo, explícalo.
 
