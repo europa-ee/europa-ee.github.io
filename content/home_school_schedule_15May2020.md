@@ -23,7 +23,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 1. Cuando hayas terminado de leer el cuento, realiza las actividades propuestas.
 
-[](/docs/Cuando fui a la selva.pdf)
+[Cuado fui a la selva](/docs/Cuando fui a la selva.pdf)
 
 
 ## Español
