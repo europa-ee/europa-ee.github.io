@@ -21,8 +21,7 @@ date: "2020-03-24T08:00:00+00:00"
 [![](https://img.shields.io/badge/PDF-Lengua Ficha No. 7-EC1C24)](/docs/lengua7.pdf)
 [![](https://img.shields.io/badge/PDF-Individuales y colectivos LSE-EC1C24)](/docs/Individuales y colectivos LSE.pdf)
 
-[Lengua 1](/docs/lengua1.pdf) | [Lengua 3](/docs/lengua3.pdf) | [Lengua 7](/docs/lengua7.pdf) | [Individuales y colectivos](/docs/Individuales y colectivos LSE.pdf) 
-
+<hr>
 
 ## Español DoW
 
@@ -30,20 +29,17 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 1. Lee el powerpoint y aprende sobre el ciclo de vida de las mariposas.
 
-**PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
-:---: | :---: | :---: | :---:
-[![](/images/es-t-t-5221-el-ciclo-vital-de-las-mariposas-presentacion_ver_1.png)](/docs/es-t-t-5221-el-ciclo-vital-de-las-mariposas-presentacion_ver_1.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/es-t-t-5221-el-ciclo-vital-de-las-mariposas-presentacion_ver_1.png)](/docs/es-t-t-5221-el-ciclo-vital-de-las-mariposas-presentacion_ver_1.pdf)
+[![](https://img.shields.io/badge/PowerPoint-El Ciclo Vital de las Mariposas-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/es-t-t-5221-el-ciclo-vital-de-las-mariposas-presentacion_ver_1.ppt) [![](https://img.shields.io/badge/PDF-El Ciclo Vital de las Mariposas-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/es-t-t-5221-el-ciclo-vital-de-las-mariposas-presentacion_ver_1.pdf)
 
 #### 2. Ve el video de la transformación de una oruga en mariposa.
 
-[https://youtu.be/zxEx821X8as](https://youtu.be/zxEx821X8as)
+[![](https://img.shields.io/badge/YouTube-Transformacion de una oruga en mariposa-#FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/zxEx821X8as)
 
 {{< youtube zxEx821X8as >}}
 
 #### 3. Realiza las actividades. Primero, pon en orden los dibujos de la metamorfosis de una mariposa y segundo, explícalo.
 
-[Mariposa Pokemon](/docs/Mariposa-pokemon.pdf) | [Ficha Plantilla del Ciclo Vital](/docs/ES-T-T-087-Ficha-Plantilla-del-ciclo-vital.pdf)
-:---: | :---:
+[![](https://img.shields.io/badge/PDF-Mariposa Pokemon-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Mariposa-pokemon.pdf) [![](https://img.shields.io/badge/PDF-Ficha Plantilla del Ciclo Vital-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/ES-T-T-087-Ficha-Plantilla-del-ciclo-vital.pdf)
 
 #### 4. Ahora elige tú otro animal y dibuja y explica el ciclo de vida de ese animal. Elige uno de los dos diseños.
 
@@ -55,9 +51,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 1. Practica con la tabla del 7 y del 8 en el link que adjunto.
 
-[https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-7](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-7)
-
-[https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-8](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-8)
+[![](https://img.shields.io/badge/Arbol ABC-Tablas de multiplicar Tabla del 7-#FF0000?logo=Google Chrome&style=for-the-badge)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-7) [![](https://img.shields.io/badge/Arbol ABC-Tablas de multiplicar Tabla del 8-#FF0000?logo=Google Chrome&style=for-the-badge)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-8)
 
 #### 2. Realiza las actividades de repaso del cuadernillo Rubio. Páginas 10, 11, 12 y 13.
 
