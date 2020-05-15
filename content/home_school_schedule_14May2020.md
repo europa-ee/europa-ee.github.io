@@ -11,6 +11,8 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 1. Lee el powerpoint para aprender qué son los nombres individuales y colectivos.
 
+[![](https://img.shields.io/badge/PowerPoint-Nombres Colectivos-#B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/nombres colectivos.ppt) [![](https://img.shields.io/badge/PDF-Nombres Colectivos-#EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/nombres colectivos.pdf)
+
 **PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
 :---: | :---: | :---: | :---:
 [![](/images/nombres colectivos.png)](/docs/nombres colectivos.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/nombres colectivos.png)](/docs/nombres colectivos.pdf)
