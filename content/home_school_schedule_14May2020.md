@@ -13,17 +13,16 @@ date: "2020-03-24T08:00:00+00:00"
 
 [![](https://img.shields.io/badge/PowerPoint-Nombres Colectivos-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/nombres colectivos.ppt) [![](https://img.shields.io/badge/PDF-Nombres Colectivos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/nombres colectivos.pdf)
 
-**PPT** | &nbsp; &nbsp; | &nbsp; &nbsp; | **PDF**
-:---: | :---: | :---: | :---:
-[![](/images/nombres colectivos.png)](/docs/nombres colectivos.ppt) | &nbsp; &nbsp; | &nbsp; &nbsp; | [![](/images/nombres colectivos.png)](/docs/nombres colectivos.pdf)
-
 #### 2. Escucha el video que hay en el powerpoint.
 
 #### 3. Haz los ejercicios. En la ficha "individuales y colectivos LSE" intenta hacer las dos últimas páginas sin mirar sus nombres ¿Los recuerdas?
 
+[![](https://img.shields.io/badge/PDF-Lengua Ficha No. 1-EC1C24)](/docs/lengua1.pdf) [![](https://img.shields.io/badge/PDF-Lengua Ficha No. 3-EC1C24)](/docs/lengua3.pdf)
+[![](https://img.shields.io/badge/PDF-Lengua Ficha No. 7-EC1C24)](/docs/lengua7.pdf)
+[![](https://img.shields.io/badge/PDF-Individuales y colectivos LSE-EC1C24)](/docs/Individuales y colectivos LSE.pdf)
 
-[Lengua 1](/docs/lengua1.pdf) | [Lengua 3](/docs/lengua3.pdf) | [Lengua 7](/docs/lengua7.pdf) | [Individuales y colectivos](/docs/individuales y colectivos.pdf) 
-:---: | :---: | :---: | :---:
+[Lengua 1](/docs/lengua1.pdf) | [Lengua 3](/docs/lengua3.pdf) | [Lengua 7](/docs/lengua7.pdf) | [Individuales y colectivos](/docs/Individuales y colectivos LSE.pdf) 
+
 
 ## Español DoW
 
