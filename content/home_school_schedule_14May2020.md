@@ -33,7 +33,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 2. Ve el video de la transformación de una oruga en mariposa.
 
-[![](https://img.shields.io/badge/YouTube-Transformacion de una oruga en mariposa-#FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/zxEx821X8as)
+[![](https://img.shields.io/badge/YouTube-Transformacion de una oruga en mariposa-FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/zxEx821X8as)
 
 {{< youtube zxEx821X8as >}}
 
@@ -51,7 +51,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 #### 1. Practica con la tabla del 7 y del 8 en el link que adjunto.
 
-[![](https://img.shields.io/badge/Arbol ABC-Tablas de multiplicar Tabla del 7-#FF0000?logo=Google Chrome&style=for-the-badge)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-7) [![](https://img.shields.io/badge/Arbol ABC-Tablas de multiplicar Tabla del 8-#FF0000?logo=Google Chrome&style=for-the-badge)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-8)
+[![](https://img.shields.io/badge/Arbol ABC-Tablas de multiplicar Tabla del 7-4285F4?logo=Google Chrome&style=for-the-badge)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-7) [![](https://img.shields.io/badge/Arbol ABC-Tablas de multiplicar Tabla del 8-4285F4?logo=Google Chrome&style=for-the-badge)](https://arbolabc.com/juegos-tablas-de-multiplicar/tabla-del-8)
 
 #### 2. Realiza las actividades de repaso del cuadernillo Rubio. Páginas 10, 11, 12 y 13.
 
