@@ -1,5 +1,5 @@
 ---
-title: "3EE Class Topics for 13 May 2020, Wednesday"
+title: "3EE Class Topics for 11 May 2020, Monday"
 date: "2020-03-24T08:00:00+00:00"
 ---
 
@@ -12,21 +12,23 @@ date: "2020-03-24T08:00:00+00:00"
 
 Worksheets and answers sent via [![](https://img.shields.io/badge/Link-Google Classroom-purple?logo=Google Classroom&style=for-the-badge)](https://classroom.google.com)
 
+<br>
+
 ### BBC bitesize 
 [![](https://img.shields.io/badge/Link-BBC Bitesize Year 3 Lessons-red?logo=Google Chrome&style=for-the-badge)](https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/)
 
+<br>
 
 ### Oak National Academy 
 [![](https://img.shields.io/badge/Link-The National Academy Year 3 Lessons-yellow?logo=Google Chrome&style=for-the-badge)](https://www.thenational.academy/online-classroom/year-3/#schedule)
+
+<br>
 
 ### Time - telling time to the minute (1)
 
 **Power Maths Unit 11: lesson 5 p.47-49**
 
-Find answers in the attached PDF and if you want further challenge then check out the problems on https://nrich.maths.org
-
-[![](https://img.shields.io/badge/Link-Nrich Maths-blueviolet?logo=Google Chrome&style=for-the-badge)](https://nrich.maths.org)
-[![](https://img.shields.io/badge/PDF-Power Maths Practice Book Answers-green?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/powermaths/y3/pm_y3_u11_practicebookanswers.pdf)
+Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths Practice Book Answers-green?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/powermaths/y3/pm_y3_u11_practicebookanswers.pdf) and if you want further challenge then check out the problems on [![](https://img.shields.io/badge/Link-Nrich Maths-blueviolet?logo=Google Chrome&style=for-the-badge)](https://nrich.maths.org)
 
 <hr>
 
