@@ -9,7 +9,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 ### Week 3 White Rose Maths
 
-[![](https://img.shields.io/badge/Link-White Rose Maths-green?logo=file-pdf&style=for-the-badge)](https://whiterosemaths.com/homelearning/year-3/)
+[![](https://img.shields.io/badge/Link-White Rose Maths-green?logo=Google Chrome&style=for-the-badge)](https://whiterosemaths.com/homelearning/year-3/)
 
 <iframe src="https://whiterosemaths.com/homelearning/year-3/" width="700px" height="500px" allowfullscreen /></iframe>
 
@@ -17,13 +17,13 @@ Worksheets and answers sent via Google Classroom
 
 ### BBC bitesize
 
-[![](https://img.shields.io/badge/Link-BBC Bitesize-pink?logo=file-pdf&style=for-the-badge)](https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/)
+[![](https://img.shields.io/badge/Link-BBC Bitesize Year 3 Lessons-pink?logo=Google Chrome&style=for-the-badge)](https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/)
 
 <iframe src="https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/" width="700px" height="500px" allowfullscreen /></iframe>
 
 ### Oak National Academy
 
-[https://www.thenational.academy/online-classroom/year-3/#schedule](https://www.thenational.academy/online-classroom/year-3/#schedule)
+[![](https://img.shields.io/badge/Link-The National Academy Year 3 Lessons-yellow?logo=Google Chrome&style=for-the-badge)](https://www.thenational.academy/online-classroom/year-3/#schedule)
 
 ### Time - telling time to the minute (1)
 
