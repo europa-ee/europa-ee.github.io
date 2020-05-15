@@ -9,9 +9,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 ### 1. Mira en la página web distintos modelos para hacer papiroflexia. También puedes ver los videos que explican cómo hacer algunos diseños o buscar alguno en youtube.
 
-[https://webdelmaestro.com/papiroflexia-para-ninos/](https://webdelmaestro.com/papiroflexia-para-ninos/)
-
-<iframe src="https://webdelmaestro.com/papiroflexia-para-ninos/" width="700px" height="500px" allowfullscreen /></iframe>
+[![](https://img.shields.io/badge/Web del maestor-Papiroflexia para niños-4285F4?style=for-the-badge&logo=Google Chrome)](https://webdelmaestro.com/papiroflexia-para-ninos/)
 
 ### 2. Elige uno y hazlo. Puedes usar papel de color o pintarlo y decorarlo cómo te guste.
 
