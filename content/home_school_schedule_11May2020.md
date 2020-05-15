@@ -29,7 +29,12 @@ Worksheets and answers sent via Google Classroom
 
 Power Maths Unit 11: lesson 5 p.47-49
 
-Find answers in the attached PDDF and if you want further challenge then check out the problems on https://nrich.maths.org
+Find answers in the attached PDF and if you want further challenge then check out the problems on https://nrich.maths.org
+
+[![](https://img.shields.io/badge/Link-Nrich Maths-blueviolet?logo=Google Chrome&style=for-the-badge)](https://nrich.maths.org)
+
+[![](https://img.shields.io/badge/PDF-Power Maths Practice Book Answers-brightgreen?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/powermaths/y3/pm_y3_u11_practicebookanswers.pdf)
+
 
 [![](/images//powermaths/y3/pm_y3_u11_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u11_practicebookanswers.pdf)
 
