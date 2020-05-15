@@ -7,31 +7,28 @@ date: "2020-03-24T08:00:00+00:00"
 
 ## Maths
 
-### Week 3 White Rose Maths
+### Week 3 White Rose Maths 
+[![](https://img.shields.io/badge/Link-White Rose Maths-pink?logo=Google Chrome&style=for-the-badge)](https://whiterosemaths.com/homelearning/year-3/)
 
-[https://whiterosemaths.com/homelearning/year-3/](https://whiterosemaths.com/homelearning/year-3/)
-<iframe src="https://whiterosemaths.com/homelearning/year-3/" width="700px" height="500px" allowfullscreen /></iframe>
+Worksheets and answers sent via [![](https://img.shields.io/badge/Link-Google Classroom-purple?logo=Google Classroom&style=for-the-badge)](https://classroom.google.com)
 
-Worksheets and answers sent via Google Classroom
+<br>
 
-### BBC bitesize
+### BBC bitesize 
+[![](https://img.shields.io/badge/Link-BBC Bitesize Year 3 Lessons-red?logo=Google Chrome&style=for-the-badge)](https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/)
 
-[https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/](https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/)
-<iframe src="https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/" width="700px" height="500px" allowfullscreen /></iframe>
+<br>
 
-### Oak National Academy
+### Oak National Academy 
+[![](https://img.shields.io/badge/Link-The National Academy Year 3 Lessons-yellow?logo=Google Chrome&style=for-the-badge)](https://www.thenational.academy/online-classroom/year-3/#schedule)
 
-[https://www.thenational.academy/online-classroom/year-3/#schedule](https://www.thenational.academy/online-classroom/year-3/#schedule)
+<br>
 
 ### Time - telling time to the minute (2)
 
-Power Maths Unit 11: lesson 6 p.50-52
+**Power Maths Unit 11: lesson 6 p.50-52**
 
-Find answers in the attached PDDF and if you want further challenge then check out the problems on https://nrich.maths.org
-
-[![](/images//powermaths/y3/pm_y3_u11_practicebookanswers.png)](/docs/powermaths/y3/pm_y3_u11_practicebookanswers.pdf)
-
-<iframe src="https://nrich.maths.org" width="700px" height="500px" allowfullscreen /></iframe>
+Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths Practice Book Answers-green?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/powermaths/y3/pm_y3_u11_practicebookanswers.pdf) and if you want further challenge then check out the problems on [![](https://img.shields.io/badge/Link-Nrich Maths-blueviolet?logo=Google Chrome&style=for-the-badge)](https://nrich.maths.org)
 
 <hr>
 
