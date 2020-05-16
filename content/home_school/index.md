@@ -5,7 +5,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 &nbsp;
 
-# [Getting ready for distance learning](/home_school_getting_ready/)
+# [![](https://img.shields.io/badge/Guide-Getting ready for distance learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_getting_ready/)
 
 <hr>
 
