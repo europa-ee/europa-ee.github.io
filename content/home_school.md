@@ -15,6 +15,9 @@ date: "2020-03-17T08:39:00+00:00"
 
 # [Distance learning resources](/home_school_resources/)
 
+[![](https://img.shields.io/badge/List-Distance_learning_resources-00B057?style=for-the-badge&logo=Koding)](/home_school_resources/)
+
+
 <hr>
 
 # Daily schedule
