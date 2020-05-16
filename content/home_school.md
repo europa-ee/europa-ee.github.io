@@ -91,6 +91,18 @@ date: "2020-03-17T08:39:00+00:00"
 
 <hr>
 
+# Projects
+
+* [Watching eggs hatch and information on bantams!](/projects/project1/)
+
+* [Animals - research and presentation on one](/projects/project2/)
+
+* [Pop up books & cards - build your own](/projects/project3/)
+
+* [Poem anthology - collect & create poems](/projects/project4/)
+
+<hr>
+
 # Spelling
 
 * [23 March 2020](/spelling_23Mar2020/)
