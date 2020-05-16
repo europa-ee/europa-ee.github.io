@@ -1,15 +1,15 @@
 ---
-title: "Home School"
+title: ""
 date: "2020-03-17T08:39:00+00:00"
 ---
 
 &nbsp;
 
-# [![](https://img.shields.io/badge/Guide-Getting ready for distance learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_getting_ready/)
+[![](https://img.shields.io/badge/Guide-Getting_ready_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_getting_ready/)
 
 <hr>
 
-# [Guide to using various technologies for distance learning](/home_school_guide/)
+[![](https://img.shields.io/badge/Guide-Using_various_technologies_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_guide/)
 
 <hr>
 
