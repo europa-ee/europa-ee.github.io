@@ -8,17 +8,17 @@ date: "2020-03-17T08:39:00+00:00"
 ## Guides and notes
 
 ### Getting ready for distance learning
-[![](https://img.shields.io/badge/Guide-Getting_ready_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](home_school/home_school_getting_ready/)
+[![](https://img.shields.io/badge/Guide-Getting_ready_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_getting_ready/)
 
 <hr>
 
 ### Guide to using various technologies for distance learning
-[![](https://img.shields.io/badge/Guide-Using_various_technologies_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](home_school/home_school_guide/)
+[![](https://img.shields.io/badge/Guide-Using_various_technologies_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_guide/)
 
 <hr>
 
 ### Distance learning resources
-[![](https://img.shields.io/badge/Notes-Distance_learning_resources-00B057?style=for-the-badge&logo=Koding)](home_school/home_school_resources/)
+[![](https://img.shields.io/badge/Notes-Distance_learning_resources-00B057?style=for-the-badge&logo=Koding)](/home_school_resources/)
 
 <hr>
 
