@@ -7,21 +7,27 @@ date: "2020-03-17T08:39:00+00:00"
 
 ## Guides and notes
 
-[![](https://img.shields.io/badge/Guide-Getting_ready_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_getting_ready/)
+[![](https://img.shields.io/badge/Guide-Getting_ready_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](home_school/home_school_getting_ready/)
 
 <hr>
 
-[![](https://img.shields.io/badge/Guide-Using_various_technologies_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_guide/)
+[![](https://img.shields.io/badge/Guide-Using_various_technologies_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](home_school/home_school_guide/)
 
 <hr>
 
-[![](https://img.shields.io/badge/Notes-Distance_learning_resources-00B057?style=for-the-badge&logo=Koding)](/home_school_resources/)
+[![](https://img.shields.io/badge/Notes-Distance_learning_resources-00B057?style=for-the-badge&logo=Koding)](home_school/home_school_resources/)
 
 <hr>
 
 ## Daily schedule
 
-[![](https://img.shields.io/badge/Week1-Monday-green?style=flat-square)](/home_school_schedule_16Mar2020/) [![](https://img.shields.io/badge/Week1-Tuesday-yellow?style=flat-square)](/home_school_schedule_17Mar2020/) [![](https://img.shields.io/badge/Week1-Wednesday-orange?style=flat-square)](/home_school_schedule_18Mar2020/) [![](https://img.shields.io/badge/Week1-Thursday-red?style=flat-square)](/home_school_schedule_19Mar2020/) ![](https://img.shields.io/badge/Week1-Friday-blue?style=flat-square)
+### Spring Term
+
+#### Week 4
+
+[![](https://img.shields.io/badge/Monday-16 March 2020-green?style=flat-square)](/home_school/spring/home_school_schedule_16Mar2020/) [![](https://img.shields.io/badge/Tuesday-17 March 2020-yellow?style=flat-square)](/home_school/spring/home_school_schedule_17Mar2020/) [![](https://img.shields.io/badge/Wednesday-18 March 2020-orange?style=flat-square)](/home_school/spring/home_school_schedule_18Mar2020/) [![](https://img.shields.io/badge/Thursday-19 March 2020-red?style=flat-square)](/home_school/spring/home_school_schedule_19Mar2020/) ![](https://img.shields.io/badge/Friday-20 March 2020-blue?style=flat-square)
+
+#### Week 5
 
 * Monday - 23 March 2020 - Teachers' Training
 
@@ -33,6 +39,8 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Friday - 27 March 2020](/home_school_schedule_27Mar2020/)
 
+#### Week 6
+
 * [Monday - 30 March 2020](/home_school_schedule_30Mar2020/)
 
 * [Tuesday - 31 March 2020](/home_school_schedule_31Mar2020/)
@@ -43,6 +51,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Friday - 3 April 2020](/home_school_schedule_03Apr2020/)
 
+<br>
 
 ### Summer Term
 
