@@ -25,7 +25,8 @@ date: "2020-03-17T08:39:00+00:00"
 
 #### Week 4
 
-[![](https://img.shields.io/badge/Mon-16 March 2020-green?style=flat-square)](/home_school/spring/home_school_schedule_16Mar2020/) [![](https://img.shields.io/badge/Tue-17 March 2020-yellow?style=flat-square)](/home_school/spring/home_school_schedule_17Mar2020/) [![](https://img.shields.io/badge/Wed-18 March 2020-orange?style=flat-square)](/home_school/spring/home_school_schedule_18Mar2020/) [![](https://img.shields.io/badge/Thu-19 March 2020-red?style=flat-square)](/home_school/spring/home_school_schedule_19Mar2020/) ![](https://img.shields.io/badge/Fr-20 March 2020-blue?style=flat-square)
+[![](https://img.shields.io/badge/Mon-16 March 2020-green?style=flat-square)](/home_school_schedule_16Mar2020/) [![](https://img.shields.io/badge/Tue-17 March 2020-yellow?style=flat-square)](/home_school_schedule_17Mar2020/) [![](https://img.shields.io/badge/Wed-18 March 2020-orange?style=flat-square)](/home_school_schedule_18Mar2020/) [![](https://img.shields.io/badge/Thu-19 March 2020-red?style=flat-square)](/home_school_schedule_19Mar2020/) 
+![](https://img.shields.io/badge/Fri-20 March 2020-blue?style=flat-square)
 
 #### Week 5
 
@@ -57,7 +58,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 #### Week 1
 
-[![](https://img.shields.io/badge/Monday-20 April 2020-green?style=flat-square)](/home_school/summer/home_school_schedule_20Apr2020/) [![](https://img.shields.io/badge/Tuesday-21 April 2020-yellow?style=flat-square)](/home_school/summer/home_school_schedule_21Apr2020/) [![](https://img.shields.io/badge/Wednesday-22 April 2020-yellow?style=flat-square)](/home_school/summer/home_school_schedule_22Apr2020/) [![](https://img.shields.io/badge/Thursday-23 April 2020-red?style=flat-square)](/home_school/summer/home_school_schedule_23Apr2020/) [![](https://img.shields.io/badge/Friday-24 April 2020-red?style=flat-square)](/home_school/summer/home_school_schedule_24Apr2020/)
+[![](https://img.shields.io/badge/Monday-20 April 2020-green?style=flat-square)](/home_school_schedule_20Apr2020/) [![](https://img.shields.io/badge/Tuesday-21 April 2020-yellow?style=flat-square)](/home_school_schedule_21Apr2020/) [![](https://img.shields.io/badge/Wednesday-22 April 2020-yellow?style=flat-square)](/home_school_schedule_22Apr2020/) [![](https://img.shields.io/badge/Thursday-23 April 2020-red?style=flat-square)](/home_school_schedule_23Apr2020/) [![](https://img.shields.io/badge/Friday-24 April 2020-red?style=flat-square)](/home_school_schedule_24Apr2020/)
 
 #### Week 2
 
