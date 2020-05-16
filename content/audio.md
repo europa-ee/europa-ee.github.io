@@ -5,29 +5,29 @@ date: "2018-05-10T00:19:46+00:00"
 
 # Srta Maria's Spanish audio recordings from Letrilandia
 
-* [![](https://img.shields.io/badge/Letrilandia-Pagina 19-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 19.wma) [![](https://img.shields.io/badge/YouTube-Letrilandia-FF0000?style=for-the-badge&logo=FF0000)](https://youtu.be/Xm_lLcaHsbA)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 19-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 19.wma) [![](https://img.shields.io/badge/YouTube-Letrilandia-FF0000?style=for-the-badge&logo=YouTube)](https://youtu.be/Xm_lLcaHsbA)
 
 {{< youtube Xm_lLcaHsbA >}}
 
-* [Letrilandia pag 21](/audio/Pag 21.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 21-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 21.wma)
 
-* [Letrilandia pag 23](/audio/Pag 23.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 23-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 23.wma)
 
-* [Letrilandia pag 25](/audio/Pag 25.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 25-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 25.wma)
 
-* [Letrilandia pag 27](/audio/Pag 27.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 27-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 27.wma)
 
-* [Letrilandia pag 29](/audio/Pag 29.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 29-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 29.wma)
 
-* [Letrilandia pag 31](/audio/Pag 31.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 31-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 31.wma)
 
-* [Letrilandia pag 41 La y griega](/audio/Pag 41 La y griega.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 41 La y griega-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 41 La y griega.wma)
 
-* [Letrilandia pag 43 El portero LL](/audio/Pag 43 El portero LL.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 43 El portero LL-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 41 El portero LL.wma)
 
-* [Letrilandia pag 45 La presumida B](/audio/Pag 45 La presumida B.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 45 La presumida B-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 45 La presumida B.wma)
 
-* [Letrilandia pag 47 El camarero V](/audio/Pag 47 El camarero V.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 47 El camarero V-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 47 El camarero Va)
 
-
-
+<br>
+<br>
