@@ -1,97 +1,90 @@
 ---
-title: "Home School"
+title: "Home school"
 date: "2020-03-17T08:39:00+00:00"
 ---
 
 &nbsp;
 
-# [Getting ready for distance learning](/home_school_getting_ready/)
+## Guides and notes
+
+### Getting ready for distance learning
+[![](https://img.shields.io/badge/Guide-Getting_ready_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](home_school/home_school_getting_ready/)
 
 <hr>
 
-# [Guide to using various technologies for distance learning](/home_school_guide/)
+### Guide to using various technologies for distance learning
+[![](https://img.shields.io/badge/Guide-Using_various_technologies_for_distance_learning-8CA1AF?style=for-the-badge&logo=Read the Docs)](home_school/home_school_guide/)
 
 <hr>
 
-# [Distance learning resources](/home_school_resources/)
+### Distance learning resources
+[![](https://img.shields.io/badge/Notes-Distance_learning_resources-00B057?style=for-the-badge&logo=Koding)](home_school/home_school_resources/)
 
 <hr>
 
-# Daily schedule
+## Daily schedule
 
-* [Monday - 16 March 2020](/home_school_schedule_16Mar2020/)
+### Spring Term
 
-* [Tuesday - 17 March 2020](/home_school_schedule_17Mar2020/)
+#### Week 10
 
-* [Wednesday - 18 March 2020](/home_school_schedule_18Mar2020/)
+[![](https://img.shields.io/badge/Mon-16 March 2020-green?style=flat-square)](/home_school_schedule_16Mar2020/) [![](https://img.shields.io/badge/Tue-17 March 2020-yellow?style=flat-square)](/home_school_schedule_17Mar2020/) [![](https://img.shields.io/badge/Wed-18 March 2020-orange?style=flat-square)](/home_school_schedule_18Mar2020/) [![](https://img.shields.io/badge/Thu-19 March 2020-red?style=flat-square)](/home_school_schedule_19Mar2020/) 
+![](https://img.shields.io/badge/Fri-20 March 2020-blue?style=flat-square)
 
-* [Thursday - 19 March 2020](/home_school_schedule_19Mar2020/)
+#### Week 11
 
-* Friday - 20 March 2020
+![](https://img.shields.io/badge/Mon-23 March 2020-green?style=flat-square)
+[![](https://img.shields.io/badge/Tue-24 March 2020-yellow?style=flat-square)](/home_school_schedule_24Mar2020/) [![](https://img.shields.io/badge/Wed-25 March 2020-orange?style=flat-square)](/home_school_schedule_25Mar2020/) [![](https://img.shields.io/badge/Thu-26 March 2020-red?style=flat-square)](/home_school_schedule_26Mar2020/) 
+[![](https://img.shields.io/badge/Fri-27 March 2020-blue?style=flat-square)](/home_school_schedule_27Mar2020/)
 
-* Monday - 23 March 2020 - Teachers' Training
+#### Week 12
 
-* [Tuesday - 24 March 2020](/home_school_schedule_24Mar2020/)
+[![](https://img.shields.io/badge/Mon-30 March 2020-green?style=flat-square)](/home_school_schedule_30Mar2020/)
+[![](https://img.shields.io/badge/Tue-31 March 2020-yellow?style=flat-square)](/home_school_schedule_31Mar2020/) [![](https://img.shields.io/badge/Wed-1 April 2020-orange?style=flat-square)](/home_school_schedule_01Apr2020/) 
+[![](https://img.shields.io/badge/Thu-2 April 2020-red?style=flat-square)](/home_school_schedule_02Apr2020/) 
+[![](https://img.shields.io/badge/Fri-3 April 2020-blue?style=flat-square)](/home_school_schedule_03Apr2020/)
 
-* [Wednesday - 25 March 2020](/home_school_schedule_25Mar2020/)
+<br>
 
-* [Thursday - 26 March 2020](/home_school_schedule_26Mar2020/)
+### Summer Term
 
-* [Friday - 27 March 2020](/home_school_schedule_27Mar2020/)
+#### Week 1
 
-* [Monday - 30 March 2020](/home_school_schedule_30Mar2020/)
+[![](https://img.shields.io/badge/MON-20 April 2020-green?style=flat-square)](/home_school_schedule_20Apr2020/) [![](https://img.shields.io/badge/TUE-21 April 2020-yellow?style=flat-square)](/home_school_schedule_21Apr2020/) [![](https://img.shields.io/badge/WED-22 April 2020-yellow?style=flat-square)](/home_school_schedule_22Apr2020/) [![](https://img.shields.io/badge/THU-23 April 2020-red?style=flat-square)](/home_school_schedule_23Apr2020/) 
+[![](https://img.shields.io/badge/FRI-24 April 2020-red?style=flat-square)](/home_school_schedule_24Apr2020/)
 
-* [Tuesday - 31 March 2020](/home_school_schedule_31Mar2020/)
+#### Week 2
 
-* [Wednesday - 1 April 2020](/home_school_schedule_01Apr2020/)
+[![](https://img.shields.io/badge/MON-27 April 2020-green?style=flat-square)](/home_school_schedule_27Apr2020/) [![](https://img.shields.io/badge/TUE-28 April 2020-yellow?style=flat-square)](/home_school_schedule_28Apr2020/) [![](https://img.shields.io/badge/WED-29 April 2020-yellow?style=flat-square)](/home_school_schedule_29Apr2020/) [![](https://img.shields.io/badge/THU-30 April 2020-red?style=flat-square)](/home_school_schedule_30Apr2020/) 
+[![](https://img.shields.io/badge/FRI-1 May 2020-red?style=flat-square)](/home_school_schedule_01May2020/)
 
-* [Thursday - 2 April 2020](/home_school_schedule_02Apr2020/)
+#### Week 3
 
-* [Friday - 3 April 2020](/home_school_schedule_03Apr2020/)
+[![](https://img.shields.io/badge/MON-4 May 2020-green?style=flat-square)](/home_school_schedule_04May2020/) 
+[![](https://img.shields.io/badge/TUE-5 May 2020-yellow?style=flat-square)](/home_school_schedule_05May2020/) 
+[![](https://img.shields.io/badge/WED-6 May 2020-yellow?style=flat-square)](/home_school_schedule_06May2020/) 
+[![](https://img.shields.io/badge/THU-7 May 2020-red?style=flat-square)](/home_school_schedule_07May2020/) 
+[![](https://img.shields.io/badge/FRI-8 May 2020-red?style=flat-square)](/home_school_schedule_08May2020/)
 
-* [Monday - 20 April 2020](/home_school_schedule_20Apr2020/)
+#### Week 4
 
-* [Tuesday - 21 April 2020](/home_school_schedule_21Apr2020/)
+[![](https://img.shields.io/badge/MON-11 May 2020-green?style=flat-square)](/home_school_schedule_11May2020/) 
+[![](https://img.shields.io/badge/TUE-12 May 2020-yellow?style=flat-square)](/home_school_schedule_12May2020/) 
+[![](https://img.shields.io/badge/WED-13 May 2020-yellow?style=flat-square)](/home_school_schedule_13May2020/) 
+[![](https://img.shields.io/badge/THU-14 May 2020-red?style=flat-square)](/home_school_schedule_14May2020/) 
+[![](https://img.shields.io/badge/FRI-15 May 2020-red?style=flat-square)](/home_school_schedule_15May2020/)
 
-* [Wednesday - 22 April 2020](/home_school_schedule_22Apr2020/)
+#### Week 5
 
-* [Thursday - 23 April 2020](/home_school_schedule_23Apr2020/)
-
-* [Friday - 24 April 2020](/home_school_schedule_24Apr2020/)
-
-* [Monday - 27 April 2020](/home_school_schedule_27Apr2020/)
-
-* [Tuesday - 28 April 2020](/home_school_schedule_28Apr2020/)
-
-* [Wednesday - 29 April 2020](/home_school_schedule_29Apr2020/)
-
-* [Thursday - 30 April 2020](/home_school_schedule_30Apr2020/)
-
-* [Friday - 1 May 2020](/home_school_schedule_01May2020/)
-
-* [Monday - 4 May 2020](/home_school_schedule_04May2020/)
-
-* [Tuesday - 5 May 2020](/home_school_schedule_05May2020/)
-
-* [Wednesday - 6 May 2020](/home_school_schedule_06May2020/)
-
-* [Thursday - 7 May 2020](/home_school_schedule_07May2020/)
-
-* [Friday - 8 May 2020](/home_school_schedule_08May2020/)
-
-* [Monday - 11 May 2020](/home_school_schedule_11May2020/)
-
-* [Tuesday - 12 May 2020](/home_school_schedule_12May2020/)
-
-* [Wednesday - 13 May 2020](/home_school_schedule_13May2020/)
-
-* [Thursday - 14 May 2020](/home_school_schedule_14May2020/)
-
-* [Friday - 15 May 2020](/home_school_schedule_15May2020/)
+[![](https://img.shields.io/badge/MON-18 May 2020-green?style=flat-square)](/home_school_schedule_18May2020/) 
+[![](https://img.shields.io/badge/TUE-19 May 2020-yellow?style=flat-square)](/home_school_schedule_19May2020/) 
+[![](https://img.shields.io/badge/WED-20 May 2020-yellow?style=flat-square)](/home_school_schedule_20May2020/) 
+[![](https://img.shields.io/badge/THU-21 May 2020-red?style=flat-square)](/home_school_schedule_21May2020/) 
+[![](https://img.shields.io/badge/FRI-22 May 2020-red?style=flat-square)](/home_school_schedule_22May2020/)
 
 <hr>
 
-# Projects
+## Projects
 
 * [Watching eggs hatch and information on bantams!](/projects/project1/)
 
@@ -103,7 +96,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 <hr>
 
-# Spelling
+## Spelling
 
 * [23 March 2020](/spelling_23Mar2020/)
 
@@ -111,7 +104,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 <hr>
 
-# Special sessions
+## Special sessions
 
 * [Class 3EE Español](/home_school_español/)
 
@@ -120,7 +113,6 @@ date: "2020-03-17T08:39:00+00:00"
 * [Class 3EE Poetry](/home_school_poetry/)
 
 * [Class 3EE Discovery of the World](/home_school_dow/)
-
 
 <br/>
 <br/>
