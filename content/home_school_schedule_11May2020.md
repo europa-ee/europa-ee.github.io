@@ -80,6 +80,87 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 20. donation
 
+<br>
+
+### b) Words to learn
+
+**Common Exception words - List A**
+
+1. actually 
+
+2. all 
+
+3. although 
+
+4. again 
+
+5. favourite 
+
+6. are 
+
+7. our 
+
+8. your 
+
+9. my 
+
+10. after
+
+**Spelling rule**
+
+11. invade 
+
+12. invasion 
+
+13. confuse 
+
+14. confusion 
+
+15. decide 
+
+16. decision 
+
+17. divide 
+
+18. division 
+
+19. possess 
+
+20. possession
+
+<br>
+
+### c) Choose a longer project for the week
+
+#### 1. Do the animal research project which is listed under the *optional afternoon projects* 
+
+[![](https://img.shields.io/badge/Project-Animal Project-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/project2/)
+
+<br>
+
+#### 2. Write a chapter story using your own choice of characters or borrow from books you enjoy
+
+<br>
+
+#### 3. Read your book for 20-30 mins each day and choose a different reading journal activity each time
+
+[![](https://img.shields.io/badge/PDF-Reading Journal Activity-00B0EA?style=for-the-badge&logo=LiveJournal)](/docs/Reading_Journal_activities RT.pdf)
+
+<br>
+
+#### 4. Read about Tom Moore and write three thank yous to heroes - Tom Moore, a friend and a relative
+
+<img src="/images/Picture News Special Poster - Captain Tom Moore.jpeg", width="500px" align="center" />
+
+[![](https://img.shields.io/badge/PDF-Captain Tom Moore Resource 1-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Captain Tom Moore Resource - April 2020.pdf)
+
+[![](https://img.shields.io/badge/PDF-Captain Tom Moore Resource 2-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Picture News Special Resource - Captain Tom Moore 2020.pdf)
+
+<br>
+
+#### 5. Make a poem anthology of favourite poems, use cursive, pictures and write why you like each one
+
+
 
 <br/>
 <br/>
