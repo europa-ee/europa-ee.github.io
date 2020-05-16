@@ -150,7 +150,7 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 #### 4. Read about Tom Moore and write three thank yous to heroes - Tom Moore, a friend and a relative
 
-<img src="/images/Picture News Special Poster - Captain Tom Moore.jpeg", width="500px" align="center" />
+<img src="/images/Picture News Special Poster - Captain Tom Moore.jpeg", width="700px" align="center" />
 
 [![](https://img.shields.io/badge/PDF-Captain Tom Moore Resource 1-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Captain Tom Moore Resource - April 2020.pdf)
 
