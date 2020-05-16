@@ -5,7 +5,7 @@ date: "2018-05-10T00:19:46+00:00"
 
 # Srta Maria's Spanish audio recordings from Letrilandia
 
-* [Letrilandia pag 19](/audio/Pag 19.wma)
+* [![](https://img.shields.io/badge/Letrilandia-Pagina 19-FFA200?style=for-the-badge&logo=Audiomack)](/audio/Pag 19.wma) [![](https://img.shields.io/badge/YouTube-Letrilandia-FF0000?style=for-the-badge&logo=FF0000)](https://youtu.be/Xm_lLcaHsbA)
 
 {{< youtube Xm_lLcaHsbA >}}
 
