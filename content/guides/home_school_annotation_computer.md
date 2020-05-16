@@ -1,7 +1,6 @@
 ---
 title: "Working on PDF documents on PC or Mac"
 date: "2020-03-17T08:39:00+00:00"
-slug: "/home_school_annotation_computer/"
 ---
 
 &nbsp;
