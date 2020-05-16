@@ -49,6 +49,11 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Friday - 3 April 2020](/home_school_schedule_03Apr2020/)
 
+
+## Summer Term
+
+### Week 1
+
 * [Monday - 20 April 2020](/home_school_schedule_20Apr2020/)
 
 * [Tuesday - 21 April 2020](/home_school_schedule_21Apr2020/)
@@ -58,6 +63,8 @@ date: "2020-03-17T08:39:00+00:00"
 * [Thursday - 23 April 2020](/home_school_schedule_23Apr2020/)
 
 * [Friday - 24 April 2020](/home_school_schedule_24Apr2020/)
+
+### Week 2
 
 * [Monday - 27 April 2020](/home_school_schedule_27Apr2020/)
 
@@ -69,6 +76,8 @@ date: "2020-03-17T08:39:00+00:00"
 
 * [Friday - 1 May 2020](/home_school_schedule_01May2020/)
 
+### Week 3
+
 * [Monday - 4 May 2020](/home_school_schedule_04May2020/)
 
 * [Tuesday - 5 May 2020](/home_school_schedule_05May2020/)
@@ -78,6 +87,8 @@ date: "2020-03-17T08:39:00+00:00"
 * [Thursday - 7 May 2020](/home_school_schedule_07May2020/)
 
 * [Friday - 8 May 2020](/home_school_schedule_08May2020/)
+
+### Week 4
 
 * [Monday - 11 May 2020](/home_school_schedule_11May2020/)
 
