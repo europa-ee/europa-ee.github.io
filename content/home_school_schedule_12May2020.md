@@ -8,19 +8,19 @@ date: "2020-03-24T08:00:00+00:00"
 ## Maths
 
 ### Week 3 White Rose Maths 
-[![](https://img.shields.io/badge/Link-White Rose Maths-pink?logo=Google Chrome&style=for-the-badge)](https://whiterosemaths.com/homelearning/year-3/)
+[![](https://img.shields.io/badge/White Rose Maths-Home School Year 3-pink?logo=Google Chrome&style=for-the-badge)](https://whiterosemaths.com/homelearning/year-3/)
 
-Worksheets and answers sent via [![](https://img.shields.io/badge/Link-Google Classroom-purple?logo=Google Classroom&style=for-the-badge)](https://classroom.google.com)
+Worksheets and answers sent via [![](https://img.shields.io/badge/Google-Classroom-purple?logo=Google Classroom&style=for-the-badge)](https://classroom.google.com)
 
 <br>
 
 ### BBC bitesize 
-[![](https://img.shields.io/badge/Link-BBC Bitesize Year 3 Lessons-red?logo=Google Chrome&style=for-the-badge)](https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/)
+[![](https://img.shields.io/badge/BBC Bitesize-Year 3 Lessons-F54997?logo=Google Chrome&style=for-the-badge)](https://www.bbc.co.uk/bitesize/tags/zmyxxyc/year-3-lessons/)
 
 <br>
 
 ### Oak National Academy 
-[![](https://img.shields.io/badge/Link-The National Academy Year 3 Lessons-yellow?logo=Google Chrome&style=for-the-badge)](https://www.thenational.academy/online-classroom/year-3/#schedule)
+[![](https://img.shields.io/badge/The National Academy-Year 3 Lessons-yellow?logo=Google Chrome&style=for-the-badge)](https://www.thenational.academy/online-classroom/year-3/#schedule)
 
 <br>
 

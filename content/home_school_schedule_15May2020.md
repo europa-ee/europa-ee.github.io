@@ -23,6 +23,8 @@ date: "2020-03-24T08:00:00+00:00"
 
 [![](https://img.shields.io/badge/PDF-Cuando fui a la selva-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Cuando fui a la selva.pdf)
 
+<hr>
+
 ## Español
 
 ### Oraciones en presente, pasado o futuro y escribimos una historia.
@@ -37,9 +39,7 @@ Predicado es lo que hace. Por ejemplo en esta oración sería: come un bocadilll
 
 #### 3. A partir de las imágenes, inventa una historia.
 
-[![](https://img.shields.io/badge/PDF-Escribe una historia-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Escribe una historia.pdf)
-
-[![](https://img.shields.io/badge/PDF-Lengua segundo primaria-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/lengua-segundo-primaria.pdf)
+[![](https://img.shields.io/badge/PDF-Escribe una historia-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Escribe una historia.pdf) [![](https://img.shields.io/badge/PDF-Lengua segundo primaria-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/lengua-segundo-primaria.pdf)
 
 <br/>
 <br/>
