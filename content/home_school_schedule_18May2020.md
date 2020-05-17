@@ -71,30 +71,21 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 ### b) Words to learn
 
-+------------------------------+--------------------+
-| **Common Exception words**   | **Spelling rule**  |
-| **List A**                   |                    |
-+==============================+====================+
-| 1. Busy                      | 11. invention      |
-+------------------------------+--------------------+
-| 2. business                  | 12. injection      |
-+------------------------------+--------------------+
-| 3. centre                    | 13. action         |
-+------------------------------+--------------------+
-| 4. certain                   | 14. hesitation     |
-+------------------------------+--------------------+
-| 5. children                  | 15. completion     |
-+------------------------------+--------------------+
-| 6. come                      | 16. expression     |
-+------------------------------+--------------------+
-| 7. some                      | 17. discussion     |
-+------------------------------+--------------------+
-| 8. love                      | 18. confession     |
-+------------------------------+--------------------+
-| 9. move                      | 19. permission     |
-+------------------------------+--------------------+
-| 10. straight                 | 20. position       |
-+------------------------------+--------------------+
+
+
+
+**Common Exception words List A** | &nbsp; &nbsp; | **Spelling rule**
+:---:|:---:|:---:
+1. Busy | &nbsp; &nbsp; | 11. invention      
+2. business | &nbsp; &nbsp; | injection
+3. centre | &nbsp; &nbsp; | 13. action
+4. certain | &nbsp; &nbsp; | 14. hesitation
+5. children | &nbsp; &nbsp; | 15. completion
+6. come | &nbsp; &nbsp; | 16. expression
+7. some | &nbsp; &nbsp; | 17. discussion
+8. love | &nbsp; &nbsp; | 18. confession
+9. move | &nbsp; &nbsp; | 19. permission
+10. straight | &nbsp; &nbsp; | 20. position
 
 **Spelling rule words**
 
