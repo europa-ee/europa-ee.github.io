@@ -82,13 +82,17 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 ### c) Read
 
-This week we are really lucky to have some poems and related activities presented to us by **Kate Wakeling**, the poet herself! The three poems are:
+This week we are really lucky to have some poems and related activities presented to us by **Kate Wakeling**, the poet herself!
 
-1. Shadow Boy [![](https://img.shields.io/badge/PDF-Shadow Boy-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Shadow Boy_2.pdf)
+[![](https://img.shields.io/badge/Vimeo-Hello from Kate Wakeling-1AB7EA?style=for-the-badge&logo=Vimeo)](https://vimeo.com/418408494)
 
-2. My Ghost Sister [![](https://img.shields.io/badge/PDF-My Ghost Sister-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/My Ghost Sister_2.pdf)
+The three poems are:
 
-3. Instruments of Use [![](https://img.shields.io/badge/PDF-Instruments of Use-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Instruments of Use_2.pdf)
+1. Shadow Boy [![](https://img.shields.io/badge/PDF-Shadow Boy-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Shadow Boy_2.pdf) [![](https://img.shields.io/badge/Vimeo-Shadow Boy-1AB7EA?style=for-the-badge&logo=Vimeo)](https://vimeo.com/418408941)
+
+2. My Ghost Sister [![](https://img.shields.io/badge/PDF-My Ghost Sister-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/My Ghost Sister_2.pdf) [![](https://img.shields.io/badge/Vimeo-My Ghost Sister-1AB7EA?style=for-the-badge&logo=Vimeo)](https://vimeo.com/418411869)
+
+3. Instruments of Use [![](https://img.shields.io/badge/PDF-Instruments of Use-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Instruments of Use_2.pdf) [![](https://img.shields.io/badge/Vimeo-Instruments of Use-1AB7EA?style=for-the-badge&logo=Vimeo)](https://vimeo.com/418408653)
 
 You have all three English sessions, Monday, Tuesday and Wednesday to carry out these activities. 
 
@@ -97,6 +101,10 @@ Maybe start off by listening to and reading all of the three poems (there is a l
 It may be that you only have time to do one poem sheet really well over the three days. Or you may get super excited by it and do a different poem activity sheet on each day. Whether you work through one activity sheet or all three I hope you really enjoy being creative with poetry writing and photography. 
 
 I can't wait to see the photos and poems you produce!
+
+[![](https://img.shields.io/badge/Vimeo Showcase-Kate Wakeling-1AB7EA?style=for-the-badge&logo=Vimeo)](https://vimeo.com/showcase/7141588)
+
+<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7141588/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
 <br/>
 <br/>
