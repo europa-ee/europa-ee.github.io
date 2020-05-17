@@ -10,18 +10,18 @@ This [page](/home_schoo_guide/) contains parent-created or parent-curated guides
 <hr>
 
 ## Working on PDF documents using iPad or Android tablets
-[![](https://img.shields.io/badge/GUIDE-Working on PDF documents using iPad or Android tablets-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_annotation)
+[![](https://img.shields.io/badge/GUIDE-Working on PDF documents using iPad or Android tablets-8CA1AF?style=for-the-badge&logo=Read the Docs)](/guide/home_school_annotation)
 
 <hr>
 
 ## Working on PDF documents using Windows PC or macOS
-[![](https://img.shields.io/badge/GUIDE-Working on PDF documents using Windows PC or macOS-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_annotation_computer)
+[![](https://img.shields.io/badge/GUIDE-Working on PDF documents using Windows PC or macOS-8CA1AF?style=for-the-badge&logo=Read the Docs)](/guide/home_school_annotation_computer)
 
 
 <hr>
 
 ## Using Zoom for videoconferencing
-[![](https://img.shields.io/badge/GUIDE-Using Zoom for videoconferencing-8CA1AF?style=for-the-badge&logo=Read the Docs)](/home_school_zoom/)
+[![](https://img.shields.io/badge/GUIDE-Using Zoom for videoconferencing-8CA1AF?style=for-the-badge&logo=Read the Docs)](/guide/home_school_zoom/)
 
 
 <br/>
