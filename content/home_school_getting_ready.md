@@ -3,7 +3,7 @@ title: "Getting ready for distance learning"
 date: "2020-03-17T08:39:00+00:00"
 ---
 
-Europa School UK uses a [**Google for Education**](https://edu.google.com) domain (europaschool.uk) to store and share documents and to use email. Europa School UK provides a comprehensive *how to* guide on using the full suite of [**Google for Education**](https://edu.google.com) products available to our children. This can be found at this [link](https://sites.google.com/europaschool.uk/europahowtoforstudents/home?authuser=0).
+Europa School UK uses a [**Google for Education**](https://edu.google.com) domain (europaschool.uk) to store and share documents and to use email. Europa School UK provides a comprehensive *how to* guide on using the full suite of [**Google for Education**](https://edu.google.com) products available to our children. This can be found at this [![](https://img.shields.io/badge/Link-Europa How To For Students-4285F4?style=flat-square&logo=Google Chrome)](https://sites.google.com/europaschool.uk/europahowtoforstudents/home?authuser=0).
 
 Following are some tips and guides on how to get ready for distance learning. These are meant to be a quick start-up guide in setting up your computer and or tablet devices for using the [**Google for Education**](https://edu.google.com) suite and provides practical information based on initial use and experience by some of the parents.
 
@@ -45,13 +45,14 @@ There is a link on the top right corner of the Google web page that says SIGN IN
 
 3. Once you are signed in to your child's account, you can now access the applications needed for remote work. These applications can be accessed by clicking on the icon with 9 dots on the top right corner of the Google page. The main applications that our kids will use are
 
-* Google Classroom - this is where the teachers will send the school work and where all homework related materials will be organised. Here is a [link](https://sites.google.com/europaschool.uk/europahowtoforstudents/classroom?authuser=0) to more detailed guide on using [Google Classroom](https://sites.google.com/europaschool.uk/europahowtoforstudents/classroom?authuser=0)
+* Google Classroom - this is where the teachers will send the school work and where all homework related materials will be organised. Here is a [link](https://sites.google.com/europaschool.uk/europahowtoforstudents/classroom?authuser=0) to more detailed guide on using [![](https://img.shields.io/badge/Google Classroom-Europa How To For Students-4285F4?style=flat-square&logo=Google Classroom)](https://sites.google.com/europaschool.uk/europahowtoforstudents/classroom?authuser=0)
 
-* Google Meeting - this is what they will use to join virtual classrooms with their teachers and classmates. Here is a [link](https://sites.google.com/europaschool.uk/europahowtoforstudents/distance-learning?authuser=0) to a more detailed guide on using [Google Meeting](https://sites.google.com/europaschool.uk/europahowtoforstudents/distance-learning?authuser=0)
+* Google Meeting - this is what they will use to join virtual classrooms with their teachers and classmates. Here is a [link](https://sites.google.com/europaschool.uk/europahowtoforstudents/distance-learning?authuser=0) to a more detailed guide on using
+[![](https://img.shields.io/badge/Google Meet-Europa How To For Students-00897B?style=flat-square&logo=Google Hangouts Meet)](https://sites.google.com/europaschool.uk/europahowtoforstudents/distance-learning?authuser=0)
 
 * Google Docs - this is the word processing application of Google. Most school work will be given in this format and kids can type in their answers
 
-* Google Drive - this is the cloud-based drive that our kids will save their files in. They have unlimited storage! Here is a [link](https://sites.google.com/europaschool.uk/europahowtoforstudents/google-drive?authuser=0) to a more detailed guide on using [Google Drive](https://sites.google.com/europaschool.uk/europahowtoforstudents/google-drive?authuser=0)
+* Google Drive - this is the cloud-based drive that our kids will save their files in. They have unlimited storage! Here is a [link](https://sites.google.com/europaschool.uk/europahowtoforstudents/google-drive?authuser=0) to a more detailed guide on using [![](https://img.shields.io/badge/Google Drive-Europa How To For Students-4285F4?style=flat-square&logo=Google Drive)](https://sites.google.com/europaschool.uk/europahowtoforstudents/google-drive?authuser=0)
 
 <br/>
 <br/>
