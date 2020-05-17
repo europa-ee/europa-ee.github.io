@@ -43,7 +43,7 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 ### a) Spelling test
 
 | **Common Exception words List A** | &nbsp; &nbsp; | **Spelling rule**
-:---: | :---: | :---: | :---:
+:---: | :---: | :---:
 1. actually | &nbsp; &nbsp; | 11. invade
 2. all | &nbsp; &nbsp; | 12. invasion
 3. although | &nbsp; &nbsp; | 13. confuse
@@ -59,7 +59,7 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 ### b) Words to learn
 
-**Common Exception words List B* | &nbsp; &nbsp; | **Spelling rule**
+**Common Exception words List B** | &nbsp; &nbsp; | **Spelling rule**
 :---:|:---:|:---:
 1. busy | &nbsp; &nbsp; | 11. invention      
 2. business | &nbsp; &nbsp; | injection
