@@ -44,53 +44,7 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 ## English
 
-### a) Spelling test
-
-+------------------------------+--------------------+
-| **Common Exception words**   | **Spelling rule**  |
-| **List A**                   |                    |
-+==============================+====================+
-| 1. actually                  | 11. invade         |
-| 2. all                       | 12. invasion       |
-| 3. although                  | 13. confuse        |
-| 4. again                     | 14. confusion      |
-| 5. favourite                 | 15. decide         |                    
-| 6. are                       | 16. decision       |
-| 7. our                       | 17. divide         |
-| 8. your                      | 18. division       |
-| 9. my                        | 19. possess        |
-| 10. after                    | 20. possession     |
-+------------------------------+--------------------+
-
-<br>
-
-### b) Words to learn
-
-+------------------------------+--------------------+
-| **Common Exception words**   | **Spelling rule**  |
-| **List A**                   |                    |
-+==============================+====================+
-| 1. Busy                      | 11. invention      |
-| 2. business                  | 12. injection      |
-| 3. centre                    | 13. action         |
-| 4. certain                   | 14. hesitation     |
-| 5. children                  | 15. completion     |                    
-| 6. come                      | 16. expression     |
-| 7. some                      | 17. discussion     |
-| 8. love                      | 18. confession     |
-| 9. move                      | 19. permission     |
-| 10. straight                 | 20. position       |
-+------------------------------+--------------------+
-
-**Spelling rule words**
-
-**RULE:** suffix sounding *'tion'* spelt *–tion*, *–sion*, *–ssion*, *–cian*. 
-
-**EXPLANATION:** Strictly speaking, the suffixes are *–ion* and *–ian*. Clues about whether to put *t*, *s*, *ss* or *c* before these suffixes often come from the last letter or letters of the root word. *–tion* is the most common spelling. It is used if the root word ends in *t* or *te*. *–ssion* is used if the root word ends in *ss* or *–mit*.
-
-<br>
-
-### c) Read
+### Read
 
 This week we are really lucky to have some poems and related activities presented to us by **Kate Wakeling**, the poet herself! The three poems are:
 
