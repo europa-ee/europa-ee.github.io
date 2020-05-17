@@ -7,7 +7,7 @@ date: "2020-03-24T08:00:00+00:00"
 
 ## Maths
 
-### Week 3 White Rose Maths 
+### Week 4 White Rose Maths 
 [![](https://img.shields.io/badge/White Rose Maths-Home School Year 3-pink?logo=Google Chrome&style=for-the-badge)](https://whiterosemaths.com/homelearning/year-3/)
 
 Worksheets and answers sent via [![](https://img.shields.io/badge/Google-Classroom-purple?logo=Google Classroom&style=for-the-badge)](https://classroom.google.com)
