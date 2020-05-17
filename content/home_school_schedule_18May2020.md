@@ -42,41 +42,26 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 ### a) Spelling test
 
-+------------------------------+--------------------+
-| **Common Exception words**   | **Spelling rule**  |
-| **List A**                   |                    |
-+==============================+====================+
-| 1. actually                  | 11. invade         |
-+------------------------------+--------------------+
-| 2. all                       | 12. invasion       |
-+------------------------------+--------------------+
-| 3. although                  | 13. confuse        |
-+------------------------------+--------------------+
-| 4. again                     | 14. confusion      |
-+------------------------------+--------------------+
-| 5. favourite                 | 15. decide         |
-+------------------------------+--------------------+
-| 6. are                       | 16. decision       |
-+------------------------------+--------------------+
-| 7. our                       | 17. divide         |
-+------------------------------+--------------------+
-| 8. your                      | 18. division       |
-+------------------------------+--------------------+
-| 9. my                        | 19. possess        |
-+------------------------------+--------------------+
-| 10. after                    | 20. possession     |
-+------------------------------+--------------------+
+| **Common Exception words List A** | &nbsp; &nbsp; | **Spelling rule**
+:---: | :---: | :---: | :---:
+1. actually | &nbsp; &nbsp; | 11. invade
+2. all | &nbsp; &nbsp; | 12. invasion
+3. although | &nbsp; &nbsp; | 13. confuse
+4. again | &nbsp; &nbsp; | 14. confusion
+5. favourite | &nbsp; &nbsp; | 15. decide
+6. are | &nbsp; &nbsp; | 16. decision
+7. our | &nbsp; &nbsp; | 17. divide
+8. your | &nbsp; &nbsp; | 18. division
+9. my | &nbsp; &nbsp; | 19. possess
+10. after | &nbsp; &nbsp; | 20. possession
 
 <br>
 
 ### b) Words to learn
 
-
-
-
-**Common Exception words List A** | &nbsp; &nbsp; | **Spelling rule**
+**Common Exception words List B* | &nbsp; &nbsp; | **Spelling rule**
 :---:|:---:|:---:
-1. Busy | &nbsp; &nbsp; | 11. invention      
+1. busy | &nbsp; &nbsp; | 11. invention      
 2. business | &nbsp; &nbsp; | injection
 3. centre | &nbsp; &nbsp; | 13. action
 4. certain | &nbsp; &nbsp; | 14. hesitation
