@@ -1,6 +1,6 @@
 ---
 title: "Spelling for 23 March 2020"
-date: "2020-03-17T08:39:00+00:00"
+date: "2020-03-23"
 ---
 
 &nbsp;
