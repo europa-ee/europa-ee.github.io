@@ -98,6 +98,11 @@ You have all three English sessions, Monday, Tuesday and Wednesday to carry out 
 
 Maybe start off by listening to and reading all of the three poems (there is a link on each sheet to a video of Kate reading that poem). Then choose your favourite one and answer the questions about it. Then on another day you could try taking a photo (use the tips and ideas on the sheet to help you) and use the photo to help inspire you to write your own poem. There are ideas on the sheet for how to write your own similar style poem. 
 
+[![](https://img.shields.io/badge/Vimeo-Photography tips with Ayman and his dad-1AB7EA?style=for-the-badge&logo=Vimeo)](https://vimeo.com/419720788)
+
+<iframe src="https://player.vimeo.com/video/419720788" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/419720788">3EE photography tips</a> from <a href="https://vimeo.com/user42380022">William Parry</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 It may be that you only have time to do one poem sheet really well over the three days. Or you may get super excited by it and do a different poem activity sheet on each day. Whether you work through one activity sheet or all three I hope you really enjoy being creative with poetry writing and photography. 
 
 I can't wait to see the photos and poems you produce!
