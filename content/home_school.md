@@ -90,7 +90,7 @@ date: "2020-03-17T08:39:00+00:00"
 [![](https://img.shields.io/badge/Project-Wathcing eggs hatch and information on bantams-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project1/)
 
 ### Animals - research and presentation on one
-[![](https://img.shields.io/badges/Project-Animals research and presentation-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project2/)
+[![](https://img.shields.io/badge/Project-Animals research and presentation-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project2/)
 
 ### Pop up books & cards - build your own
 [![](https://img.shields.io/badge/Project-Pop up books and cards-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project3/)
