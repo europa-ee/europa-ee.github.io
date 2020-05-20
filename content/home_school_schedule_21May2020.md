@@ -5,6 +5,19 @@ date: "2020-05-21"
 
 &nbsp;
 
+## Español
+
+### La comparación
+
+#### 1. Lee y aprende qué es la comparación y cómo comparamos dos cosas o personas
+
+[![](https://img.shields.io/badge/PDF-La comparacion-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/La comparacion.pdf) [![](https://img.shields.io/badge/PDF-Comparaciones entre dos (imágenes)-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Comparaciones entre dos (imágenes).pdf)
+
+#### 2. Realiza las actividades.
+
+[![](https://img.shields.io/badge/PDF-Fotos para comparar-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Fotos para comparar.pdf) [![](https://img.shields.io/badge/PDF-comparar-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/comparar.pdf)
+
+
 ## Español DoW
 
 ### ¿Cómo se adaptan los animales a su hábitat?
