@@ -22,7 +22,9 @@ date: "2020-05-21"
 
 ### ¿Cómo se adaptan los animales a su hábitat?
 
-#### 1. Lee el powerpoint y aprende sobre cómo algunos animales se adaptan a su hábitat y qué necesitan para vivir ahí. [![](https://img.shields.io/badge/PPT-Animal Habitats-B7472A?style=for-the-badge&logo=Microsoft PowerPoint)](/docs/t-t-4796-animal-habitats-powerpoint espanol-_ver_7.ppt) [![](https://img.shields.io/badge/PDF-Animal Habitats-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/t-t-4796-animal-habitats-powerpoint espanol-_ver_7.pdf)
+#### 1. Lee el powerpoint y aprende sobre cómo algunos animales se adaptan a su hábitat y qué necesitan para vivir ahí. 
+
+[![](https://img.shields.io/badge/PPT-Animal Habitats-B7472A?style=for-the-badge&logo=Microsoft PowerPoint)](/docs/t-t-4796-animal-habitats-powerpoint espanol-_ver_7.ppt) [![](https://img.shields.io/badge/PDF-Animal Habitats-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/t-t-4796-animal-habitats-powerpoint espanol-_ver_7.pdf)
 
 #### 2. Escribe lo que has aprendido de cada animal y haz un dibujo que lo explique.
 
