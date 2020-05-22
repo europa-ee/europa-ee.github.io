@@ -11,7 +11,7 @@ date: "2020-05-22"
 
 #### 1. Elige uno y dibuja la otra parte contando los mismos cuadrados que hay en la otra parte.
 
-[![](https://img.shields.io/badge/PDF-Dibujos simétricos actividades 1-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/dibujos-simétricos-actividades-1.pdf) [![](https://img.shields.io/badge/PDF-Dibujos simétricos actividades 2-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/dibujos-simétricos-actividades-2.pdf) [![](https://img.shields.io/badge/PDF-Dibujos simétricos actividades 4-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Dibujos-simetricos-actividades-4.pdf)
+[![](https://img.shields.io/badge/PDF-Dibujos simétricos actividades 1-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/dibujos-simétricos-actividades-1.pdf) [![](https://img.shields.io/badge/PDF-Dibujos simétricos actividades 2-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/dibujos-simétricos-actividades-1.pdf) [![](https://img.shields.io/badge/PDF-Dibujos simétricos actividades 4-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Dibujos-simetricos-actividades-4.pdf)
 
 ### Eje de simetria
 
@@ -21,8 +21,11 @@ date: "2020-05-22"
 
 [![](https://img.shields.io/badge/PPT-Simetría-B7472A?style=for-the-badge&logo=Microsoft PowerPoint)](/docs/Simetría.ppt) [![](https://img.shields.io/badge/PDF-Simetría-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Simetría.pdf)
 
-[![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 1-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-1.pdf) [![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 2-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-2.pdf) [![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 3-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-3.pdf)
-[![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 7-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-7.pdf)
+[![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 1-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-1.pdf) [![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 2-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-2.pdfdf) [![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 3-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-3.pdf)
+[![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 7-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-7.pdf)
+
+
+
 
 <hr>
 
