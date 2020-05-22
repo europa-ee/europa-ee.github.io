@@ -24,9 +24,6 @@ date: "2020-05-22"
 [![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 1-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-1.pdf) [![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 2-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-2.pdfdf) [![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 3-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-3.pdf)
 [![](https://img.shields.io/badge/PDF-Eje de simetría actividades para niños de Primaria 7-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader)](/docs/Eje-de-simetría-actividades-para-niños-de-Primaria-7.pdf)
 
-
-
-
 <hr>
 
 ## Español
