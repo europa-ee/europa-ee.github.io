@@ -87,7 +87,7 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 #### Monday - 01
 
-[![](https://img.shields.io/badge/01 NEWS-Bullet points to article-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/01 News - bullet points to article.pdf)
+[![](https://img.shields.io/badge/01 MONDAY News-Bullet points to article-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/01 News - bullet points to article.pdf)
 
 <br/>
 <br/>
