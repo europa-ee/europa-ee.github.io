@@ -78,6 +78,10 @@ date: "2020-03-17T08:39:00+00:00"
 [![](https://img.shields.io/badge/THU-21 May 2020-red?style=flat-square)](/home_school_schedule_21May2020/) 
 [![](https://img.shields.io/badge/FRI-22 May 2020-blue?style=flat-square)](/home_school_schedule_22May2020/)
 
+#### Summer Half Term
+
+[![](https://img.shields.io/badge/HALFTERM-25 to 29 May 2020-yellow?style=flat-square)](/home_school_schedule_halfterm/)
+
 #### Week 6
 
 [![](https://img.shields.io/badge/MON-1 Jun 2020-green?style=flat-square)](/home_school_schedule_01Jun2020/) 
