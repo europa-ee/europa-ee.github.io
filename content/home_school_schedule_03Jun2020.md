@@ -57,7 +57,6 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 ### Cuento de Los músicos de Bremen [![](https://img.shields.io/badge/Vimeo-Los músicos de Bremen-1AB7EA?logo=Vimeo&style=for-the-badge)](https://vimeo.com/425792192)
 
-
 <iframe src="https://player.vimeo.com/video/425792192" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Escucha el cuento y contesta estas preguntas.
