@@ -46,12 +46,6 @@ date: "2020-06-04"
 
 [![](https://img.shields.io/badge/PDF-De donde viene la comida ficha de actividad-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/es-t-t-2390-de-donde-viene-la-comida-ficha-de-actividad.pdf) [![](https://img.shields.io/badge/DOC-De donde proceden-2B579A?logo=Microsoft Word&style=for-the-badge)](/docs/de donde proceden.doc) [![](https://img.shields.io/badge/DOC-Origen de los alimentos-2B579A?logo=Microsoft Word&style=for-the-badge)](/docs/Origen de los alimentos.Actividad.doc)
 
-
-
-
-
-
-
 <br/>
 <br/>
 
