@@ -91,7 +91,7 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 #### Monday - 04
 
-[![](https://img.shields.io/badge/04 MONDAY News-Entertainment section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/01 News - entertainment section.pdf)
+[![](https://img.shields.io/badge/04 MONDAY News-Entertainment section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 News - entertainment section.pdf)
 
 <br/>
 <br/>
