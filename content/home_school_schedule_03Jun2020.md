@@ -47,9 +47,42 @@ This is a two week project, each day has a 2 digit number for it so in total it 
 Read the 00 plan and 00 instructions then follow the activities in order:
 [![](https://img.shields.io/badge/00 NEWS-A set of project instructions-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/00 News - a set of project instructions.pdf)
 
-#### Tuesday - 03
+#### Wednesday - 03
 
-[![](https://img.shields.io/badge/03 NEWS-Cookery section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - cookery section.pdf)
+[![](https://img.shields.io/badge/03 MONDAY News-Cookery section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - cookery section.pdf)
+
+<hr>
+
+## Español Lectura
+
+### Cuento de Los músicos de Bremen [![](https://img.shields.io/badge/Vimeo-Los músicos de Bremen-1AB7EA?logo=Vimeo&style=for-the-badge)](https://vimeo.com/425792192)
+
+
+<iframe src="https://player.vimeo.com/video/425792192" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Escucha el cuento y contesta estas preguntas.
+
+1. ¿Quienes son los protagonistas de este cuento?
+
+2. ¿Por qué se van de sus casas?
+
+3. ¿Qué planean hacer cuando lleguen a la cuidad de Bremen? 
+
+4. ¿Recuerdas qué instrumentos sabe tocar cada uno? 
+
+5. ¿ Qué ocurre cuando se hace de noche?
+
+6. ¿ A quién se encuentran en la casa? ¿ a una ancianita? ¿ a unos magos? ¿ a unos ladrones? 
+
+7. ¿ Qué hacen para echarles de la casa?
+
+8. ¿ Mientras los animales duermen vuelve alguien a la casa? ¿Quién?
+
+9. ¿Cómo termina el cuento? ¿ llegan los animales a Bremen? ¿ se hacen amigos de los ladrones? ¿ se quedan a vivir en la casa? 
+
+10. ¿Qué es lo que más te ha gustado del cuento? 
+
+
 
 <br/>
 <br/>

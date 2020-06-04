@@ -49,7 +49,7 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 #### Tuesday - 02
 
-[![](https://img.shields.io/badge/02 NEWS-Education section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - education section.pdf)
+[![](https://img.shields.io/badge/02 MONDAY News-Education section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - education section.pdf)
 
 <br/>
 <br/>
