@@ -51,7 +51,7 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 #### Wednesday - 06
 
-[![](https://img.shields.io/badge/06 WEDNESDAY News-Sports section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/01 News - sports section.pdf)
+[![](https://img.shields.io/badge/06 WEDNESDAY News-Sports section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/06 News - sports section.pdf)
 
 <br/>
 <br/>

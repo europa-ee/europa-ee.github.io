@@ -51,7 +51,7 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 #### Tuesday - 05
 
-[![](https://img.shields.io/badge/05 TUESDAY News-Puzzles section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/01 News - puzzles section.pdf)
+[![](https://img.shields.io/badge/05 TUESDAY News-Puzzles section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 News - puzzles section.pdf)
 
 <br/>
 <br/>
