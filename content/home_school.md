@@ -114,6 +114,9 @@ date: "2020-03-17T08:39:00+00:00"
 ### Poem anthology - collect & create poems
 [![](https://img.shields.io/badge/Project-Poem Anthology-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project4/)
 
+### Newspaper
+[![](https://img.shields.io/badge/Project-Newspaper-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project5/)
+
 <!---
 <hr>
 
