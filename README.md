@@ -4,5 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1bd7293c-3b8e-4cf5-be12-39a0a338e3ad/deploy-status)](https://app.netlify.com/sites/europa-ee/deploys)
 <!-- badges: end -->
 
-![](/static/images/class3EE.png)
+<img src="/static/images/class3EE.png" align="center" />
+
+<!--- ![](/static/images/class3EE.png) --->
 
