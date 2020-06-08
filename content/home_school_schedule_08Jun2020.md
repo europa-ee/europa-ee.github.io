@@ -30,13 +30,11 @@ Worksheets and answers sent via [![](https://img.shields.io/badge/Google-Classro
 
 <br>
 
-<!---
-### Angles and shapes - turns and angles
+### Angles and shapes - drawing accurately
 
-**Power Maths Unit 12: Lesson 1 p.71-73**
+**Power Maths Unit 12: Lesson 4 p.80-82**
 
 Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths Practice Book Answers-green?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/powermaths/y3/pm_y3_u12_practicebookanswers.pdf) and if you want further challenge then check out the problems on [![](https://img.shields.io/badge/Link-Nrich Maths-blueviolet?logo=Google Chrome&style=for-the-badge)](https://nrich.maths.org)
---->
 
 <hr>
 
@@ -59,28 +57,24 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 <br>
 
-<!---
 ### b) Words to learn
 
 **Common Exception words List C** | &nbsp; &nbsp; | **Spelling rule**
 :---:|:---:|:---:
-1. who | &nbsp; &nbsp; | 11. extend      
-2. what | &nbsp; &nbsp; | 12. extension
-3. when | &nbsp; &nbsp; | 13. precise
-4. went | &nbsp; &nbsp; | 14. precision
-5. where | &nbsp; &nbsp; | 15. electric
-6. were | &nbsp; &nbsp; | 16. electrician
-7. there | &nbsp; &nbsp; | 17. magic
-8. they | &nbsp; &nbsp; | 18. magician
-9. why | &nbsp; &nbsp; | 19. mathematics
-10. father | &nbsp; &nbsp; | 20. mathematician
+1. would | &nbsp; &nbsp; | 11. meat      
+2. should | &nbsp; &nbsp; | 12. meet
+3. could | &nbsp; &nbsp; | 13. missed
+4. special | &nbsp; &nbsp; | 14. mist
+5. every | &nbsp; &nbsp; | 15. peace
+6. everyone | &nbsp; &nbsp; | 16. piece
+7. thought | &nbsp; &nbsp; | 17. plain
+8. through | &nbsp; &nbsp; | 18. plane
+9. though | &nbsp; &nbsp; | 19. scene
+10. many | &nbsp; &nbsp; | 20. seen
 
 **Spelling rule words**
 
-**RULE:** The suffix *-sion* is used if the root word ends in *d* or *se*.
-
-**EXCEPTIONS:** attend - attention; intend - intention; *-cian* is used if the root word ends in *c* or *cs*
---->
+**RULE:** Homophones and near homophones
 
 ### Newspaper
 
