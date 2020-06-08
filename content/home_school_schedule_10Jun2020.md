@@ -30,13 +30,11 @@ Worksheets and answers sent via [![](https://img.shields.io/badge/Google-Classro
 
 <br>
 
-<!---
-### Angles and shapes - turns and angles
+### Angles and shapes - types of lines (2)
 
-**Power Maths Unit 12: Lesson 1 p.71-73**
+**Power Maths Unit 12: Lesson 6 p.86-88**
 
 Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths Practice Book Answers-green?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/powermaths/y3/pm_y3_u12_practicebookanswers.pdf) and if you want further challenge then check out the problems on [![](https://img.shields.io/badge/Link-Nrich Maths-blueviolet?logo=Google Chrome&style=for-the-badge)](https://nrich.maths.org)
---->
 
 <hr>
 
