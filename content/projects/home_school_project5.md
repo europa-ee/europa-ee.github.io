@@ -57,13 +57,27 @@ This is the easiest way to contribute as the child's work will still be used but
 
 ### Option 2: Submit articles to Mrs Trevitt and then child follows a set of pictographic instructions on how to convert her/his own article into the appropriate code for publication
 
-One child has submitted article to Mrs Trevitt, she/he can work on converting her/his document into a appropriate code for publication. A set of instructions on how to do this is currently being developed and will be availabe on the class website by Monday, 8th of June 2020. The instructions will guide the child on how to convert the document. Once done, she/he can submit the code to the editors for publication.
+One child has submitted article to Mrs Trevitt, she/he can work on converting her/his document into a appropriate code for publication. 
+
+An online tutorial on how to convert their newspaper articles into the appropriate code for publication can be found here [![](https://img.shields.io/badge/Tutorial-Learning Markdown-4285F4?logo=Google Chrome&style=for-the-badge)](https://tutorials.europa-ee.org.uk/learningMarkdown)
+
+A PDF version of the tutorial can be downloaded here [![](https://img.shields.io/badge/Tutorial-Learning Markdown-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](https://tutorials.euroap-ee.org.uk/learningMarkdown.pdf)
+
+The instructions will guide the child on how to convert the document. Once done, she/he can submit the code to the editors for publication.
 
 This is a good in between option as it will provide the child with an activity learning how to do markup code (code for creating documunts such as web pages).
 
 ### Option 3: Submit articles to Mrs Trevitt, child follows a set of pictographic instructions on how to convert article to code and then child publishes her/his own code into the online newspaper
 
 This option is exactly the same as option 2 with the addition of the child publishing her/his own work online straight into the online newspaper. This will give the child the opportunity to interact with some website publishing tools and see how some website are created. However, this will require a bit more guidance and effort from parents as children will have to login to the website generator that we are using. If some children will opt for this activity, we will hold a Google Meet session/s so that we can guide the kids step-by-step in publishing their articles (as per parents permission).
+
+We will hold 1-hour sessions throughout this Friday, 12 June 2020 for those who are interested in doing Option 3. Please let Ernest know via private message on WhatsApp or an email to confirm that your child will be participating. Tentatively, we'll have two sessions in the morning.
+
+* First session - 10 -11 am
+
+* Second session - 11:30-12:30
+
+If there is more interest, we will add two more sessions in the afternoon.
 
 <br>
 <br>
