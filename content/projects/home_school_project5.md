@@ -61,7 +61,7 @@ One child has submitted article to Mrs Trevitt, she/he can work on converting he
 
 An online tutorial on how to convert their newspaper articles into the appropriate code for publication can be found here [![](https://img.shields.io/badge/Tutorial-Learning Markdown-4285F4?logo=Google Chrome&style=for-the-badge)](https://tutorials.europa-ee.org.uk/learningMarkdown)
 
-A PDF version of the tutorial can be downloaded here [![](https://img.shields.io/badge/Tutorial-Learning Markdown-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](https://tutorials.euroap-ee.org.uk/learningMarkdown.pdf)
+A PDF version of the tutorial can be downloaded here [![](https://img.shields.io/badge/Tutorial-Learning Markdown-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](https://tutorials.europa-ee.org.uk/learningMarkdown.pdf)
 
 The instructions will guide the child on how to convert the document. Once done, she/he can submit the code to the editors for publication.
 
