@@ -51,6 +51,19 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 [![](https://img.shields.io/badge/06 WEDNESDAY News-Sports section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/06 News - sports section.pdf)
 
+<hr>
+
+## Español Dow
+
+### La comida
+
+1. Aprende el nombre de distintos alimentos
+
+2. Realiza las actividades
+
+[![](https://img.shields.io/badge/PDF-El desayuno-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/El desayuno.pdf) [![](https://img.shields.io/badge/PDF-Te gusta-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/te gusta.pdf) [![](https://img.shields.io/badge/PDF-Le gusta-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/le gusta.pdf)
+
+
 <br/>
 <br/>
 
