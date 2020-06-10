@@ -50,6 +50,12 @@ date: "2020-06-11"
 
 #### 4. Colorea ahora tú la parte que corresponde a la fracción
 
+### Para ampliar Reto fracciones
+
+Si quieres hacer más ejercicios y hacer el reto de las fracciones. Mira los ejercicios que te envío aquí.
+
+[![](https://img.shields.io/badge/ZIP-Las fracciones pack de recursos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/es-n-26-las-fracciones-pack-de-recursos.zip)
+
 <br/>
 <br/>
 
