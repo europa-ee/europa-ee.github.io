@@ -15,7 +15,7 @@ date: "2020-06-11"
 
 #### 2. Usa las cartas de lo antónimos para aprenderlos. Recórtalos y haz parejas de antónimos
 
-[![](https://img.shields.io/badge/PDF-Cartas de los antónimos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/spanish-opposities-cards.pdf)
+[![](https://img.shields.io/badge/PDF-Cartas de los antónimos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/spanish-opposites-cards.pdf)
 
 #### 3. Realiza las actividades del powerpoint de las fichas.
 
