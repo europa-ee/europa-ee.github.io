@@ -7,44 +7,48 @@ date: "2020-06-11"
 
 ## Español
 
-### Los sinónimos
+### Los antónimos
 
-#### 1. Escucha el video qué explica qué son los sinónimos y antónimos.
+#### 1. Escucha de nuevo el video para recordar qué son los antónimos
 
 {{< youtube 148UXakrNpA >}}
 
-#### 2. Realiza la actividades y aprende algunos sinónimos.
+#### 2. Usa las cartas de lo antónimos para aprenderlos. Recórtalos y haz parejas de antónimos
 
-[![](https://img.shields.io/badge/PDF-Sinónimos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/sinonimos.pdf) [![](https://img.shields.io/badge/PDF-Spanish Vocabulary Nouns Synonyms-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/spanish-vocabulary-nouns-synonyms.pdf) [![](https://img.shields.io/badge/PDF-Spanish vocabulary adjectives synonyms-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Spanish-vocabulary-adjectives-synonyms.pdf)
+[![](https://img.shields.io/badge/PDF-Cartas de los antónimos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/spanish-opposities-cards.pdf)
 
+#### 3. Realiza las actividades del powerpoint de las fichas.
+
+[![](https://img.shields.io/badge/PPT-Los contrarios-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/Los contrarios.ppt) [![](https://img.shields.io/badge/PDF-Los contrarios-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/Los contrarios.pdf) [![](https://img.shields.io/badge/PDF-Ficha de actividad los contrarios-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/es-sl-2548097-ficha-de-actividad-los-contrarios.pdf)
+
+
+### En la cafeteria
+
+#### 1. Aprende el nombre de los utensilios que usamos en la mesa
+
+#### 2. Realiza las actividades
+
+[![](https://img.shields.io/badge/PDF-Para comer y beber-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Para comer y beber.pdf) [![](https://img.shields.io/badge/PDF-Pon la mesa-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/pon la mesa.pdf)
+[![](https://img.shields.io/badge/PDF-Que falta-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/que falta.pdf)
+[![](https://img.shields.io/badge/PDF-Te gusta mucho o nada-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/te gusta mucho o nada.pdf)
 
 <hr>
 
 ## Matematicas
 
-### Las divisiones
+### Las fracciones
 
-#### 1. Escucha el video para aprender cuando utilizamos las divisiones y cómo se divide.
+#### 1. Escucha el video explicando las fracciones
 
-{{< youtube OGv0yqKR2Ag >}}
+{{< youtube c9cTIjBqFTw >}}
 
-#### 2. Practica con las actividades. Haz la actividad de la página 30 del cuadernillo de Rubio y las divisiones que te envío para practicar.
+#### 2. Realiza la actividad donde tienes que colorear la parte de pizza que indica la fracción
 
-[![](https://img.shields.io/badge/PDF-Rubio Competencia Matemática Pagina 30-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Rubio_Competencia_Matematica_p30.pdf) [![](https://img.shields.io/badge/PDF-Divide-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Divide.pdf)
+[![](https://img.shields.io/badge/PDF-Pizza Blanco y Negro-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/PizzaBlancoYNegro.pdf) [![](https://img.shields.io/badge/PDF-Fracciones Hoja-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/fracciones_hoja1.pdf) [![](https://img.shields.io/badge/PDF-Ejercicio colorear fraccion-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/ejercicio-colorear-fraaccion.pdf)
 
-<hr>
+#### 3. Empareja el dibujo con su fracción correspondiente.
 
-## Español DoW
-
-### ¿Qué nos dan los animales? ¿De dónde vienen los alimentos?
-
-#### 1. Lee el powerpoint y aprende de dónde vienen los alimentos que comemos.
-
-[![](https://img.shields.io/badge/PPT-Origen de los alimentos-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/origen de los alimentos.ppt) [![](https://img.shields.io/badge/PDF-Origen de los alimentos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/origen de los alimentos.pdf)
-
-#### 2. Realiza las actividades.
-
-[![](https://img.shields.io/badge/PDF-De donde viene la comida ficha de actividad-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/es-t-t-2390-de-donde-viene-la-comida-ficha-de-actividad.pdf) [![](https://img.shields.io/badge/DOC-De donde proceden-2B579A?logo=Microsoft Word&style=for-the-badge)](/docs/de donde proceden.doc) [![](https://img.shields.io/badge/DOC-Origen de los alimentos-2B579A?logo=Microsoft Word&style=for-the-badge)](/docs/Origen de los alimentos.Actividad.doc)
+#### 4. Colorea ahora tú la parte que corresponde a la fracción
 
 <br/>
 <br/>
