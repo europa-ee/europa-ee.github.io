@@ -38,13 +38,15 @@ date: "2020-06-05"
 
 #### 2. Después lee el cuento y escúchalo en el link que te envío
 
+**Non-Flash-based link**
+
 <iframe src="https://player.vimeo.com/video/427913167" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 [![](https://img.shields.io/badge/Vimeo-La gallinita roja-1AB7EA?logo=Vimeo&style=for-the-badge)](https://vimeo.com/427913167)
 
-<!---
-[![](https://img.shields.io/badge/Link-La gallinita roja-4285F4?logo=Google Chrome&style=for-the-badge)](http://www.primerodecarlos.com/junio/lengua_libro_1/data/PAUTA/RECURSOS/recursos/10/01/visor.html)
---->
+**Flash-based link [USE WITH CAUTION]**
+
+[![](https://img.shields.io/badge/Flash Player-La gallinita roja-FF0000?logo=Adobe&style=for-the-badge)](http://www.primerodecarlos.com/junio/lengua_libro_1/data/PAUTA/RECURSOS/recursos/10/01/visor.html)
 
 #### 3. Realiza las actividades del cuento.
 
