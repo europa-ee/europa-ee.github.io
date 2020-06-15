@@ -127,6 +127,9 @@ date: "2020-03-17T08:39:00+00:00"
 ### Newspaper
 [![](https://img.shields.io/badge/Project-Newspaper-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project5/)
 
+### Jolly COVID Postman
+[![](https://img.shields.io/badge/Project-Jolly COVID Postman-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project6/)
+
 <!---
 <hr>
 
