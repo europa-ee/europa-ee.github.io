@@ -21,11 +21,11 @@ Day 1 - **News article** - turning bullet point notes into a full sentences
 
 Day 2 - **Education** - interview teachers, pupils and parents about remote learning
 
-[![](https://img.shields.io/badge/02 MONDAY News-Education section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - education section.pdf)
+[![](https://img.shields.io/badge/02 TUESDAY News-Education section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - education section.pdf)
 
 Day 3 - **Cookery** - share your favourite recipe and explain why you love it
 
-[![](https://img.shields.io/badge/03 MONDAY News-Cookery section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - cookery section.pdf)
+[![](https://img.shields.io/badge/03 WEDNESDAY News-Cookery section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/03 News - cookery section.pdf)
 
 #### Week 2
 

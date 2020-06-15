@@ -77,7 +77,7 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 This is a three week project, each day has a 2 digit number before it so in total lasts 09 days
 
 Read the 00 plan and 00 instructions then follow the activities in order:
-[![](https://img.shields.io/badge/00 Jolly COVID Postman-An Introduction to the Project-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/00 Jolly COVID Postman - an introduction to the project.pdf)
+[![](https://img.shields.io/badge/00 Jolly COVID Postman-An Introduction to the Project-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/00 Jolly COVID Postman - a project plan.pdf)
 
 #### Monday - 01
 
