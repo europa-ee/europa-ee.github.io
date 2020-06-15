@@ -98,6 +98,16 @@ date: "2020-03-17T08:39:00+00:00"
 [![](https://img.shields.io/badge/THU-11 Jun 2020-red?style=flat-square)](/home_school_schedule_11Jun2020/) 
 [![](https://img.shields.io/badge/FRI-12 Jun 2020-blue?style=flat-square)](/home_school_schedule_12Jun2020/)
 
+#### Week 8
+
+[![](https://img.shields.io/badge/MON-15 Jun 2020-green?style=flat-square)](/home_school_schedule_15Jun2020/) 
+[![](https://img.shields.io/badge/TUE-16 Jun 2020-yellow?style=flat-square)](/home_school_schedule_16Jun2020/) 
+[![](https://img.shields.io/badge/WED-17 Jun 2020-orange?style=flat-square)](/home_school_schedule_17Jun2020/)
+<!---
+[![](https://img.shields.io/badge/THU-18 Jun 2020-red?style=flat-square)](/home_school_schedule_18Jun2020/) 
+[![](https://img.shields.io/badge/FRI-19 Jun 2020-blue?style=flat-square)](/home_school_schedule_19Jun2020/)
+--->
+
 <hr>
 
 ## Projects
