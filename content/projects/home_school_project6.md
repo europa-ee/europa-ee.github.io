@@ -37,7 +37,7 @@ Day 3 - **Wolf's Letter** - Write a letter from the *Big Bad Wolf* who is in Rom
 <!---
 #### Week 2
 
-Day 4 - **Entertainment** - A board game with clear instructions for the 3 bears to play, sent by Goldilocks.
+Day 4 - **Board game for 3 bears** - A board game with clear instructions for the 3 bears to play, sent by Goldilocks.
 
 Day 5 - **Puzzles** - Draw a map with 4 figure grid references to help Hansel and Gretel find their way home.
 
