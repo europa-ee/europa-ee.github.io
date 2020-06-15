@@ -24,45 +24,33 @@ Or you could carefully stick the edges of two pieces of paper together, leave th
 
 Day 1 - **Comprehension** - Read the instructions, read the central text and answer comprehension questions on it.
 
-[![](https://img.shields.io/badge/01 MONDAY News-Bullet points to article-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/01 News - bullet points to article.pdf)
+[![](https://img.shields.io/badge/01 MONDAY-Jolly COVID Postman comprehension-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/01 Jolly COVID Postman - comprehension.pdf)
 
 Day 2 - **Witch's Miracle Cures** - Write an advert for different miracle cures from the *Wicked Witch*, be persuasive!
 
-[![](https://img.shields.io/badge/02 MONDAY News-Education section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - education section.pdf)
+[![](https://img.shields.io/badge/02 TUESDAY-Jolly COVID Postman witch's miracle cures-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 Jolly COVID Postman - witch's miracle cures.pdf)
 
 Day 3 - **Wolf's Letter** - Write a letter from the *Big Bad Wolf* who is in Rome and is hungry, include a poem in it.
 
-[![](https://img.shields.io/badge/03 MONDAY News-Cookery section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/02 News - cookery section.pdf)
+[![](https://img.shields.io/badge/03 WEDNESDAY-Jolly COVID Postman wolf's letter-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/03 Jolly COVID Postman - wolf's letter.pdf)
 
+<!---
 #### Week 2
 
 Day 4 - **Entertainment** - A board game with clear instructions for the 3 bears to play, sent by Goldilocks.
 
-[![](https://img.shields.io/badge/04 MONDAY News-Entertainment section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 News - entertainment section.pdf)
-
 Day 5 - **Puzzles** - Draw a map with 4 figure grid references to help Hansel and Gretel find their way home.
 
-[![](https://img.shields.io/badge/05 TUESDAY News-Puzzles section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 News - puzzles section.pdf)
-
 Day 6 - **Sports** - Create a page of puzzles to entertain children, a crossword, wordsearch and a maze?
-
-[![](https://img.shields.io/badge/06 WEDNESDAY News-Sports section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/06 News - sports section.pdf)
 
 #### Week 3
 
 Day 7 - **Entertainment** - Create a front cover for the book (change fonts and add pictures) and write a blurb too.
 
-[![](https://img.shields.io/badge/04 MONDAY News-Entertainment section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 News - entertainment section.pdf)
-
 Day 8 - **Puzzles** - Finish any pictures or other book parts, or if you have finished then create a poster advert.
 
-[![](https://img.shields.io/badge/05 TUESDAY News-Puzzles section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 News - puzzles section.pdf)
-
 Day 9 - **Sports** - Finish any pictures or other book parts, or if you have finished then create a video advert.
-
-[![](https://img.shields.io/badge/06 WEDNESDAY News-Sports section-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/06 News - sports section.pdf)
-
-
+--->
 
 <br>
 <br>
