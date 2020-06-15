@@ -1,6 +1,6 @@
 ---
 title: "Jolly COVID Postman"
-date: "2020-06-015"
+date: "2020-06-15"
 ---
 
 ## An Introduction to the project
