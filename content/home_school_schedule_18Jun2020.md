@@ -5,32 +5,35 @@ date: "2020-06-18"
 
 &nbsp;
 
-## Español
+## Español DoW
 
-### Los antónimos
+### Los cinco sentidos
 
-#### 1. Escucha de nuevo el video para recordar qué son los antónimos
+#### 1. Escucha el video para aprender sobre los cinco sentidos de nuestro cuerpo.
 
-{{< youtube 148UXakrNpA >}}
+[![](https://img.shields.io/badge/YouTube-Los cinco sentidos para niños Educación infantil
+-FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/a_EfwFzm1ys)
 
-#### 2. Usa las cartas de lo antónimos para aprenderlos. Recórtalos y haz parejas de antónimos
+{{< youtube a_EfwFzm1ys >}}
 
-[![](https://img.shields.io/badge/PDF-Cartas de los antónimos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/spanish-opposites-cards.pdf)
+#### 2. Lee el powerpoint y realiza las actividades.
 
-#### 3. Realiza las actividades del powerpoint de las fichas.
+[![](https://img.shields.io/badge/PPT-Ciencias sentidos-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/Ciencias- sentidos.pptx) [![](https://img.shields.io/badge/PDF-Ciencias sentidos-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/Ciencias- sentidos.pdf)
 
-[![](https://img.shields.io/badge/PPT-Los contrarios-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/Los contrarios.ppt) [![](https://img.shields.io/badge/PDF-Los contrarios-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/Los contrarios.pdf) [![](https://img.shields.io/badge/PDF-Ficha de actividad los contrarios-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/es-sl-2548097-ficha-de-actividad-los-contrarios.pdf)
+<hr>
 
+## Ortografia
 
-### En la cafeteria
+### Ortografia la letra *g* y *j*
 
-#### 1. Aprende el nombre de los utensilios que usamos en la mesa
+#### 1. Escucha el video para saber cómo se pronuncian.
 
-#### 2. Realiza las actividades
+[![](https://img.shields.io/badge/YouTube-Aprende la letra "G" con el gorila Galileo El abecedario-FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/wb216z5fBYc)
 
-[![](https://img.shields.io/badge/PDF-Para comer y beber-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Para comer y beber.pdf) [![](https://img.shields.io/badge/PDF-Pon la mesa-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/pon la mesa.pdf)
-[![](https://img.shields.io/badge/PDF-Que falta-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/que falta.pdf)
-[![](https://img.shields.io/badge/PDF-Te gusta mucho o nada-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/te gusta mucho o nada.pdf)
+{{< youtube wb216z5fBYc >}}
+
+2. Realiza las actividades de las páginas 13, 14, 15 y 16.
+
 
 <hr>
 
