@@ -108,7 +108,7 @@ date: "2020-03-17T08:39:00+00:00"
 
 <hr>
 
-## Projects
+## Projects 
 
 ### Watching eggs hatch and information on bantams!
 [![](https://img.shields.io/badge/Project-Wathcing eggs hatch and information on bantams-3EAAAF?style=for-the-badge&logo=Travis CI)](/projects/home_school_project1/)
