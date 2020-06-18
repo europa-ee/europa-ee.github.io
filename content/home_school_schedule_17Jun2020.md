@@ -1,6 +1,6 @@
 ---
-title: "3EE Class Topics for 10 June 2020, Wednesday"
-date: "2020-06-10"
+title: "3EE Class Topics for 17 June 2020, Wednesday"
+date: "2020-06-17"
 ---
 
 &nbsp;
