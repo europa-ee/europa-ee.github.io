@@ -49,6 +49,8 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 #### Wednesday - 06
 
+**Puzzle** - Create a page of puzzles to entertain children, a crossword, wordsearch and a maze?
+
 [![](https://img.shields.io/badge/06 WEDNESDAY-Jolly COVID Postman puzzles-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/06 Jolly COVID Postman - puzzles.pdf)
 
 <br/>

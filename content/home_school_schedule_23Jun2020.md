@@ -47,7 +47,9 @@ This is a three week project, each day has a 2 digit number before it so in tota
 Read the 00 plan and 00 instructions then follow the activities in order:
 [![](https://img.shields.io/badge/00 Jolly COVID Postman-An Introduction to the Project-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/00 Jolly COVID Postman - an introduction to the project.pdf)
 
-#### Tuesday - 05
+#### Tuesday - 05 
+
+**Hansel and Grretel** - Draw a map with 4 figure grid references to help Hansel and Gretel find their way home.
 
 [![](https://img.shields.io/badge/05 TUESDA-Jolly COVID Postman Hansel and Gretel-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 Jolly COVID Postman - map H & G.pdf)
 
