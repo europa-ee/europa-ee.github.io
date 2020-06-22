@@ -34,15 +34,19 @@ Day 3 - **Wolf's Letter** - Write a letter from the *Big Bad Wolf* who is in Rom
 
 [![](https://img.shields.io/badge/03 WEDNESDAY-Jolly COVID Postman wolf's letter-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/03 Jolly COVID Postman - wolf's letter.pdf)
 
-<!---
 #### Week 2
 
 Day 4 - **Board game for 3 bears** - A board game with clear instructions for the 3 bears to play, sent by Goldilocks.
 
-Day 5 - **Puzzles** - Draw a map with 4 figure grid references to help Hansel and Gretel find their way home.
+[![](https://img.shields.io/badge/04 MONDAY-Jolly COVID Postman 3 Bear's Game-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 Jolly COVID Postman - 3 Bear's game.pdf)
 
-Day 6 - **Sports** - Create a page of puzzles to entertain children, a crossword, wordsearch and a maze?
+[![](https://img.shields.io/badge/PDF-Jolly COVID Postman 3 Bears boardgame (black and white)-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 Jolly COVID Postman - 3 Bears boardgame B&W.pdf) [![](https://img.shields.io/badge/PDF-Jolly COVID Postman 3 Bears boardgame (colour)-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 Jolly COVID Postman - 3 Bears boardgame colour.pdf)
 
+Day 5 - **Hansel and Grretel** - Draw a map with 4 figure grid references to help Hansel and Gretel find their way home.
+
+Day 6 - **Puzzle** - Create a page of puzzles to entertain children, a crossword, wordsearch and a maze?
+
+<!---
 #### Week 3
 
 Day 7 - **Entertainment** - Create a front cover for the book (change fonts and add pictures) and write a blurb too.
