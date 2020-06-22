@@ -44,7 +44,13 @@ Day 4 - **Board game for 3 bears** - A board game with clear instructions for th
 
 Day 5 - **Hansel and Grretel** - Draw a map with 4 figure grid references to help Hansel and Gretel find their way home.
 
+[![](https://img.shields.io/badge/05 TUESDA-Jolly COVID Postman Hansel and Gretel-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 Jolly COVID Postman - map H & G.pdf)
+
+[![](https://img.shields.io/badge/PDF-Jolly COVID Postman Hansel and Gretel map for drawing-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 Hansel and Gretel map for drawing on.pdf)
+
 Day 6 - **Puzzle** - Create a page of puzzles to entertain children, a crossword, wordsearch and a maze?
+
+[![](https://img.shields.io/badge/06 WEDNESDAY-Jolly COVID Postman puzzles-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/06 Jolly COVID Postman - puzzles.pdf)
 
 <!---
 #### Week 3
