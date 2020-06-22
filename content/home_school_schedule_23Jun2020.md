@@ -51,7 +51,7 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 [![](https://img.shields.io/badge/05 TUESDA-Jolly COVID Postman Hansel and Gretel-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 Jolly COVID Postman - map H & G.pdf)
 
-[![](https://img.shields.io/badge/PDF-Jolly COVID Postman Hansel and Gretel map for drawing-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 Hansel and Gretel for drawing on.pdf)
+[![](https://img.shields.io/badge/PDF-Jolly COVID Postman Hansel and Gretel map for drawing-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/05 Hansel and Gretel map for drawing on.pdf)
 
 <br/>
 <br/>

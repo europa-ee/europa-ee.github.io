@@ -59,7 +59,7 @@ Find answers in the attached [![](https://img.shields.io/badge/PDF-Power Maths P
 
 ### b) Words to learn
 
-**Common Exception words** | &nbsp; &nbsp; |
+**Common Exception words** | &nbsp; &nbsp; | &nbsp; &nbsp;
 :---:|:---:|:---:
 1. address | &nbsp; &nbsp; | 11. describe     
 2. believe | &nbsp; &nbsp; | 12. different
@@ -83,7 +83,8 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 [![](https://img.shields.io/badge/04 MONDAY-Jolly COVID Postman 3 Bear's Game-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 Jolly COVID Postman - 3 Bear's game.pdf)
 
-[![](https://img.shields.io/badge/PDF-Jolly COVID Postman 3 Bear's boardgame (B&W)-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 Jolly COVID Postman - 3 Bears boardgame B&W.pdf) [![](https://img.shields.io/badge/PDF-Jolly COVID Postman 3 Bear's boardgame (colour)-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 Jolly COVID Postman - 3 Bears boardgame colour.pdf)
+[![](https://img.shields.io/badge/PDF-Jolly COVID Postman 3 Bear's boardgame (B&W)-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 Jolly COVID Postman - 3 Bears boardgame B&W.pdf) 
+[![](https://img.shields.io/badge/PDF-Jolly COVID Postman 3 Bear's boardgame (colour)-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/04 Jolly COVID Postman - 3 Bears boardgame colour.pdf)
 
 <br/>
 <br/>
