@@ -53,6 +53,17 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 [![](https://img.shields.io/badge/06 WEDNESDAY-Jolly COVID Postman puzzles-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/06 Jolly COVID Postman - puzzles.pdf)
 
+<hr>
+
+## Español Lectura
+
+### Lectura "voy a casa" y actividades
+
+#### 1. Realiza la lectura de "voy a casa" y haz las actividades.
+
+[![](https://img.shields.io/badge/PDF-Voy a casa-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/poema_voy_a_casa.pdf)
+
+
 <br/>
 <br/>
 
