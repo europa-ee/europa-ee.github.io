@@ -9,7 +9,7 @@ date: "2020-06-23"
 
 If you like to have video lessons to go with your maths lessons choose one of these three places to do your maths lessons whilst you are learning at home. You can use these instead of your green power maths workbooks if you prefer. It is probably best not to mix the places you get your maths lessons from, so either do the power maths lessons I have set out or use one of these sites below.
 
-### Week 7 White Rose Maths 
+### Week 9 White Rose Maths 
 
 If you want to use the White Rose Maths plan and their teaching videos then you will find the videos, worksheets, and answers linked below.
 
