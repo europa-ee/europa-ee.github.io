@@ -55,15 +55,22 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 <hr>
 
-<!---
-## Español Lectura
+## Español Ortografia
 
-### Lectura "voy a casa" y actividades
+### Ortografia Rubio
 
-#### 1. Realiza la lectura de "voy a casa" y haz las actividades.
+#### 1. Escucha los videos para saber cómo se pronuncian esos sonidos.
 
-[![](https://img.shields.io/badge/PDF-Voy a casa-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/poema_voy_a_casa.pdf)
---->
+[![](https://img.shields.io/badge/YouTube-Aprende la letra K con nuestros amigos los kiwis-FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/iB1_-fRxnQ4) 
+
+{{< youtube iB1_-fRxnQ4 >}}
+
+[![](https://img.shields.io/badge/YouTube-Aprende la letra X con Maxi el T-Rex-FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/zSq80MxEgLE)
+
+{{< youtube zSq80MxEgLE >}}
+
+#### 2. Terminar el cuadernillo de ortografía de Rubio
+
 
 <br/>
 <br/>
