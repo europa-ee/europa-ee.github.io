@@ -36,7 +36,7 @@ Por ejemplo: Este verano voy a ir de camping a Cornwall en agosto con mi familia
 
 #### 2. Realiza las actividades.
 
-[![](https://img.shields.io/badge/PDF-Poema verano-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/poema_verano_1.pdf)
+[![](https://img.shields.io/badge/PDF-Poema verano-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/poema_verano_1.pdf)
 
 
 <br/>
