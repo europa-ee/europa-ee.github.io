@@ -65,7 +65,7 @@ Read the 00 plan and 00 instructions then follow the activities in order:
 
 {{< youtube iB1_-fRxnQ4 >}}
 
-[![](https://img.shields.io/badge/YouTube-Aprende la letra X con Maxi el T-Rex-FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/zSq80MxEgLE)
+[![](https://img.shields.io/badge/YouTube-Aprende la letra X con Maxi el T Rex-FF0000?logo=YouTube&style=for-the-badge)](https://youtu.be/zSq80MxEgLE)
 
 {{< youtube zSq80MxEgLE >}}
 
