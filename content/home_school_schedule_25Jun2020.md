@@ -11,11 +11,11 @@ date: "2020-06-25"
 
 #### 1. Escucha la canción de la rutinas diarias.
 
-[![](https://img.shields.io/badge/Rockalingua-Un dia de escuela-4285F4?logo=Google Chromee&style=for-the-badge)](https://rockalingua.com/videos/daily-routines)
+[![](https://img.shields.io/badge/Rockalingua-Un dia de escuela-4285F4?logo=Google Chrome&style=for-the-badge)](https://rockalingua.com/videos/daily-routines)
 
 #### 2. Realiza las actividades y lee las aventuras de Tapón
 
-[![](https://img.shields.io/badge/PDF-Rutinas-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/w8_1_rutinas.pdf)
+[![](https://img.shields.io/badge/PDF-Rutinas-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/w8_1_rutinas.pdf)
 
 <hr>
 
@@ -27,8 +27,8 @@ date: "2020-06-25"
 
 #### 2. Realiza las actividades.
 
-[![](https://img.shields.io/badge/PDF-Que son los diminutivos-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/qué son los diminutivos.pdf)
-[![](https://img.shields.io/badge/PDF-Actividades Diminutivos-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/Actividades Diminutivos.pdf)
+[![](https://img.shields.io/badge/PDF-Que son los diminutivos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/qué son los diminutivos.pdf)
+[![](https://img.shields.io/badge/PDF-Actividades Diminutivos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Actividades Diminutivos.pdf)
 
 
 <hr>
@@ -43,12 +43,8 @@ date: "2020-06-25"
 
 #### 3. El número 8 es un poco más difícil
 
-[![](https://img.shields.io/badge/PDF-Matematicas Basicas 5-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/MATEMATICAS BASICS 5 - DYLAR.pdf)
-[![](https://img.shields.io/badge/PDF-Matematicas Basicas 8-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/MATEMATICAS BASICS 8 - DYLAR.pdf)
-
-
-
- 
+[![](https://img.shields.io/badge/PDF-Matematicas Basicas 5-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/MATEMATICAS BASICS 5 - DYLAR.pdf)
+[![](https://img.shields.io/badge/PDF-Matematicas Basicas 8-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/MATEMATICAS BASICS 8 - DYLAR.pdf)
 
 
 <br/>

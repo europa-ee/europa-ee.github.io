@@ -18,7 +18,7 @@ date: "2020-06-18"
 
 #### 2. Lee el powerpoint y realiza las actividades.
 
-[![](https://img.shields.io/badge/PPT-Ciencias sentidos-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/Ciencias- sentidos.pptx) [![](https://img.shields.io/badge/PDF-Ciencias sentidos-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/Ciencias- sentidos.pdf)
+[![](https://img.shields.io/badge/PPT-Ciencias sentidos-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/Ciencias- sentidos.pptx) [![](https://img.shields.io/badge/PDF-Ciencias sentidos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Ciencias- sentidos.pdf)
 
 <hr>
 
@@ -52,11 +52,6 @@ date: "2020-06-18"
 {{< youtube nLaawmrDq74 >}}
 
 #### 2. Realiza las actividades de las páginas 32 y 33 del cuadernillo de Rubio
-
-
-
-
- 
 
 
 <br/>
