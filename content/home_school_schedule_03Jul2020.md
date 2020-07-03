@@ -1,47 +1,42 @@
 ---
-title: "3EE Class Topics for 26 June 2020, Friday"
-date: "2020-06-26"
+title: "3EE Class Topics for 3 July 2020, Friday"
+date: "2020-07-03"
 ---
 
 ## Arte
 
-### Creamos un acuario
+### Cuadernillo del verano
 
-#### 1. Lee en el enlace que te envío que explica cómo se hace el acuario.
+#### 1. Realiza las actividades. Puedes empezar esta semana y hacerlas durante el verano.
 
-[![](https://img.shields.io/badge/Link-Manualidades Acuario Papel-4285F4?logo=Google Chromee&style=for-the-badge)](https://webdelmaestro.com/manualidades-acuario-papel/)
-
-#### 2. Puedes elegir hacer los animalitos más grandes o más pequeños. Te adjunto los dos tipos.
-
-[![](https://img.shields.io/badge/PDF-Peces del acuario tamaño mediano-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Peces-del-acuario-tamaño-mediano.pdf)
-[![](https://img.shields.io/badge/PDF-Peces del acuario tamaño pequeño-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Peces-del-acuario-tamaño-pequeño.pdf)
-
-#### 3. No olvides escribir el nombre de los animales en español.
+[![](https://img.shields.io/badge/PDF-Cuadernillo del verano-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/cuadernillo de verano.pdf)
 
 <hr>
 
 ## Español
 
-### Aumentativos
+### ¿Qué harás tú este verano? 
 
-#### 1. Lee qué son los aumentativos y cómos se escriben.
+#### 1. Mira la ficha de desafío y colorea las actividades que crees que harás este verano.
 
-#### 2. Realiza las actividades. En el link tienes accesso a la actividad online.
+[![](https://img.shields.io/badge/PDF-Que haras este verano-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/ES-T-T-252540-Desaño-de-las-vacaciones-de-verano-Ficha-de-actividad.pdf)
 
-[![](https://img.shields.io/badge/PDF-Qué son los aumentativos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Qué son los aumentativos.pdf)
+#### 2. Escribe después qué planes tienes para este verano. Recuerda escribir voy a....
 
-[![](https://img.shields.io/badge/Link-Aumentativos - Ficha interactiva-4285F4?logo=Google Chromee&style=for-the-badge)](https://es.liveworksheets.com/worksheets/es/Lengua_Castellana/Aumentativos_y_diminutivos/Aumentativos_ib278643nt)
-[![](https://img.shields.io/badge/Link-Diminutivos - Ficha interactiva-4285F4?logo=Google Chromee&style=for-the-badge)](https://es.liveworksheets.com/worksheets/es/Lengua_Castellana/Aumentativos_y_diminutivos/Aumentativos_-_diminutivos_hc715943yz)
+Por ejemplo: Este verano voy a ir de camping a Cornwall en agosto con mi familia y algunos amigos.
 
 <hr>
 
 ## Español Lectura
 
-### Reseña del libro "Para hacer un pastel de manzana"
+### Historia "las vacaciones de verano"
 
-#### 1. Realiza la reseña sobre el libro de lectura "Para hacer un pastel de manzana" 0 de algún otro libro que hayais leído en español
+#### 1. Lee la historia
 
-[![](https://img.shields.io/badge/PDF-Reseña de un libro Avanzado-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/Resena de un libro.Avanzado.pdf)
+
+#### 2. Realiza las actividades.
+
+[![](https://img.shields.io/badge/PDF-Poema verano-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/poema_verano_1.pdf)
 
 
 <br/>
