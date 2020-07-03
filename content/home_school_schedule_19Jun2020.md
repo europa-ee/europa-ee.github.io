@@ -31,7 +31,7 @@ Terminar la lectura del libro "Para hacer un pastel de manzana" o del libro que 
 
 #### 1. Lee el powerpoint y realiza las actividades.
 
-[![](https://img.shields.io/badge/PPT-Los sentidos-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/Los sentidos.ppt) [![](https://img.shields.io/badge/PDF-Los sentidos-EC1C24?logo=Adobe Acrobat Readert&style=for-the-badge)](/docs/Los sentidos.pdf)
+[![](https://img.shields.io/badge/PPT-Los sentidos-B7472A?logo=Microsoft PowerPoint&style=for-the-badge)](/docs/Los sentidos.ppt) [![](https://img.shields.io/badge/PDF-Los sentidos-EC1C24?logo=Adobe Acrobat Reader&style=for-the-badge)](/docs/Los sentidos.pdf)
 
 #### 2. Escucha la canción de los sentidos.
 
